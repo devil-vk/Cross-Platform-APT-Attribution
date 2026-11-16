@@ -1,0 +1,390 @@
+
+==============================================================================
+## Sandworm:  win.exaramel  (Windows)  ↔  elf.exaramel  (Linux)
+==============================================================================
+
+[url]
+  WIN  : (none)
+  LIN  : https://176.31.225.204/api/v1
+
+[uri_path]
+  WIN  : /commands/cmd, /settings/check, /settings/interval, /settings/proxy, /settings/storage
+  LIN  : /0123456789, /dev/urandom, /ju&H, /kmv7, /n0s0x0UG, /proc/self/auxv, /root/go/src/app, /root/go/src/app/client.go, /root/go/src/app/vendor/configur/configuration.go, /root/go/src/app/vendor/cron/constantdelay.go, /root/go/src/app/vendor/cron/parser.go, /root/go/src/app/vendor/cron/spec.go
+
+[host_dom]
+  WIN  : ADVAPI32.dll, C:\Users\byteatlas\Desktop\LnijdvY.exe, CRYPT32.dll, Cabinet.dll, KERNEL32.dll, OLEAUT32.dll, PSAPI.DLL, SHELL32.dll, SHLWAPI.dll, USER32.dll, WINHTTP.dll, mscoree.dll
+  LIN  : !*map.bucket[http.ConnState]string, !*map.bucket[string][]*http.Cookie, !*map.bucket[string]map[string]int, !*map.bucket[uint16]zip.Compressor, !*map.hdr[*reflect.structType]bool, !*map.hdr[http.http2ErrCode]string, !*map.hdr[string]http.RoundTripper, !*map.hdr[string]map[string]string, "*map.bucket[http.http2Flags]string, "*map.bucket[string][]net.nssSource, "*map.hdr[*http.Request]func(error), "*map.hdr[int][][]*x509.Certificate
+
+[ipv4]
+  WIN  : 18.4.0.1
+  LIN  : https://176.31.225.204/api/v1
+
+[user_agent]
+  WIN  : Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; InfoPath.1)
+  LIN  : (none)
+
+[http_hdr]
+  WIN  : Content-Type: application/x-www-form-urlencoded
+  LIN  : (none)
+
+[cmd_method]
+  WIN  : ADVAPI32.dll, CRYPT32.dll, Cabinet.dll, KERNEL32.dll, OLEAUT32.dll, PSAPI.DLL, SHELL32.dll, SHLWAPI.dll, USER32.dll, WINHTTP.dll, mscoree.dll, ole32.dll
+  LIN  : DA.cap, DA.len, DA.ptr, DB.cap, DB.len, DB.ptr, Os.len, Os.ptr, RR.cap, RR.len, RR.ptr, SourceDA.cap
+
+[cmd_word]
+  WIN  : ReadFile, Sleep, WriteFile
+  LIN  : GetFile
+
+[b64alpha]
+  WIN  : InitializeCriticalSectionAndSpinCount
+  LIN  : "selectClientCertSignatureAlgorithm, 136126707cdf16cda3215bead583c1fe7e275066H, 666666666666666666666666666666666666666666666666, 777777_______AAAAAACAKKKUUUWAAAAAAACKKKKKKKLKKKKKKKLKKKKKKKMAAAAAAAA, 7AAAAAAAUUUUUUUU7AAAAAAAUUUUUUUU, AAAABABij78AVBiiBUUKAVAAAKKABAUKBAUKBBKAB, AAKAKAKAKAKAKAKB7KAAKAKAKAKAKAKALAKKKKKKLU, AAKAKAKAKAKAKAKB7KAAKAKAKAKAKAKALAKKKKKKLUXUKViiiiiiijKKBAKBUUV, CPPMCPPVCPTECTELCTHzCVIICXIICa/cCa/sCa, CbarCc/oCc/uCcalCcm2Ccm3Cdm2Cdm3CergCffiCfflCgalChPaCiiiCkHzCkPaCkm2Ckm3Ck, O777777_______AAAAAACUUUUUUUWAAAAAAAC-:KKKKKKKM7AAAKKKKAAAAKKKLK-MKKKKKKKKKKKKKK, U7AAAAAAAiiiiiiii7AAAAAAAiiiiiiiiUUU
+
+[config_key]
+  WIN  : Sleep, Timeout
+  LIN  : Proxy, Server, Timeout, check, config, proxy, report, server, servers, session, settings, timeout
+  ** SHARED ** Timeout
+
+[config_json]
+  WIN  : (none)
+  LIN  : json:"answer_async", json:"answer_immediately", json:"answer_wait", json:"arguments", json:"attachment", json:"auth_result", json:"error_code", json:"error_msg", json:"guid", json:"id", json:"metod", json:"online_days"
+
+[xpath_cfg]
+  WIN  : /settings/@group, /settings/@name, /settings/@version, /settings/check, /settings/interval, /settings/proxy, /settings/proxy/@name, /settings/proxy/@password, /settings/servers/server/@current[text()='true'], /settings/servers/server[%d], /settings/servers/server[@current='true'], /settings/servers/server[text()='%s']/@current
+  LIN  : (none)
+
+[go_botlib]
+  WIN  : (none)
+  LIN  : &transport, (*struct { F uintptr; R *http.Transport }, *http.Transport, *net/http.Transport, *struct { F uintptr; testHookPrePendingDial func(); dialc chan http.dialRes; t *, /usr/lib/go-1.8/src/net/http/transport.go, 5; net/http.t *net/http.Transport; net/http.testHookPostPendingDial func() }, Transport, go.itab.*net/http.Transport,net/http.RoundTripper, net/http.(*Transport).(net/http.onceSetNextProtoDefaults)-fm, net/http.(*Transport).CancelRequest, net/http.(*Transport).RegisterProtocol
+
+[symbol/function overlap (code reuse)]  (none meaningful)
+
+==============================================================================
+## Lazarus:  win.badcall  (Windows)  ↔  elf.badcall  (Linux)
+==============================================================================
+
+[url]
+  WIN  : $http://crl3.digicert.com/ca3-g29.crl0*, $http://crl4.digicert.com/ca3-g29.crl0B, &https://www.globalsign.com/repository/0), (http://www.microsoft.com/pki/mscorp/cps, )http://crl3.digicert.com/ssca-sha2-g1.crl0/, )http://crl3.digicert.com/ssca-sha2-g3.crl0/, )http://crl4.digicert.com/ssca-sha2-g1.crl0B, )http://crl4.digicert.com/ssca-sha2-g3.crl0B, .http://crl3.digicert.com/sha2-ev-server-g1.crl04, .http://crl3.digicert.com/sha2-ha-server-g2.crl04, .http://crl3.digicert.com/sha2-ha-server-g3.crl04, .http://crl4.digicert.com/sha2-ev-server-g1.crl0B
+  LIN  : (none)
+
+[uri_path]
+  WIN  : (none)
+  LIN  : /dev/null, /lib64/ld-linux-x86-64.so.2, /proc/net/route, /tmp/vgauthsvclog
+
+[host_dom]
+  WIN  : $http://crl3.digicert.com/ca3-g29.crl0*, $http://crl4.digicert.com/ca3-g29.crl0B, &https://www.globalsign.com/repository/0), (See www.rapidssl.com/resources/cps (c)141/0-, (http://www.microsoft.com/pki/mscorp/cps, )http://crl3.digicert.com/ssca-sha2-g1.crl0/, )http://crl3.digicert.com/ssca-sha2-g3.crl0/, )http://crl4.digicert.com/ssca-sha2-g1.crl0B, )http://crl4.digicert.com/ssca-sha2-g3.crl0B, *.android.com, *.api.bing.com, *.api.bing.net
+  LIN  : .gnu.hash, .got.plt, .note.ABI-tag, .note.gnu.build-id, .rela.dyn, .rela.plt, /lib64/ld-linux-x86-64.so.2, libc.so.6, myservice.xbox.com, uk.yahoo.com, web.whatsapp.com, www.apple.com
+  ** SHARED ** myservice.xbox.com, uk.yahoo.com, web.whatsapp.com, www.apple.com, www.baidu.com, www.bing.com, www.bitcoin.org, www.comodo.com, www.debian.org, www.dropbox.com, www.facebook.com, www.github.com
+
+[ipv4]
+  WIN  : 127.0.0.1
+  LIN  : 0.0.0.0
+
+[cmd_method]
+  WIN  : ADVAPI32.dll, Advapi32.dll, KERNEL32.dll, Kernel32.dll, LIBEAY32.dll, SSLEAY32.dll, USER32.dll, android.com, bing.com, bingsandbox.com0, comodo.com0, debian.org
+  LIN  : (none)
+
+[cmd_word]
+  WIN  : ReadFile, Sleep, WriteFile
+  LIN  : SetProxy, sleep
+
+[b64alpha]
+  WIN  : 3https://www.geotrust.com/resources/repository/legal0A, JanFebMarAprMayJunJulAugSepOctNovDec
+  LIN  : (none)
+
+[config_key]
+  WIN  : Sleep
+  LIN  : sleep
+
+[symbol/function overlap (code reuse)]  connect
+
+==============================================================================
+## APT28:  win.xagent  (Windows)  ↔  elf.xagent  (Linux)
+==============================================================================
+
+[uri_path]
+  WIN  : /0W0p0, /0c2i2
+  LIN  : /.local, /.local/cva-ssys, /bin/sh, /dev/null, /home, /lib/ld-linux.so.2, /lib64/ld-linux-x86-64.so.2, /libsqlite3, /proc/%d/cmdline, /usr/lib
+
+[host_dom]
+  WIN  : %s\edg6E85F98675.tmp, %s\edg6EF885E2.tmp, %s\zdg6E85F98675.tmp, %s\zdg6EF885E2.tmp, .microsoft.check-fix.com, .microsoft.checkwinframe.com, .microsoft.secnetcontrol.com, .microsoft.testsnetcontrol.com, .update.adobeincorp.com, .winnt.check-fix.com, 10.0.3601.4381splm.dll, 11.0.4621.4331splm.dll
+  LIN  : .data.rel.ro, .gnu.hash, .got.plt, .note.ABI-tag, .note.gnu.build-id, .rel.dyn, .rel.plt, .rela.dyn, .rela.plt, .service' '/etc/systemd/system/multi-user.target.wants/, /lib/ld-linux.so.2, /lib64/ld-linux-x86-64.so.2
+
+[ipv4]
+  WIN  : '94.23.254.109, 216.244.65.34, 6.0.2.34.8, 7.1.0.9, 8.0.2.1, 8.1.11.1, 8.1.224.01, 9.3.555.3, 94.23.254.109
+  LIN  : (none)
+
+[user_agent]
+  WIN  : User-Agent: Mozilla/5.0 Gecko/20121012 Firefox/10.0.8
+  LIN  : Mozilla/5.0 Gecko/20100101 Firefox/20.0
+
+[http_hdr]
+  WIN  : Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8, Content-Type: application/octet-stream; name=", Content-type: multipart/mixed;, User-Agent: Chrome/10.0 Gecko/20121012 ver/11.1.10, User-Agent: Mozilla/5.0 Gecko/20121012 Firefox/10.0.8
+  LIN  : Accept:, Content-Length:, Host:, User-Agent:
+
+[cmd_method]
+  WIN  : ADVAPI32.DLL, ADVAPI32.dll, BHOinCPP.dll, CRYPT32.dll, ComAutorunDll.dll, CtlOptimization.exe, E7.dll, GDI32.dll, HSt.x2, IPHLPAPI.DLL, KERNEL32.DLL, KERNEL32.dll
+  LIN  : AgentKernel.cpp, ChannelController.cpp, Coder.cpp, CryptoContainer.cpp, Cryptor.cpp, FSModule.cpp, FileSystemApi.cpp, HttpChannel.cpp, HttpLibMsg.cpp, HttpLibNet.cpp, LocalDb.cpp, LocalStorage.cpp
+
+[cmd_word]
+  WIN  : ReadFile, Sleep, WriteFile
+  LIN  : (none)
+
+[b64alpha]
+  WIN  : %&'()*456789:CDEFGHIJSTUVWXYZcdefghijstuvwxyz, &'()*56789:CDEFGHIJSTUVWXYZcdefghijstuvwxyz, </assembly>PAPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPAD, AppPolicyGetProcessTerminationMethod, AppPolicyGetThreadInitializationType, GetVolumePathNamesForVolumeNameW, InitializeCriticalSectionAndSpinCount, JanFebMarAprMayJunJulAugSepOctNovDec, MsiConfigureFeatureFromDescriptorA, MsiConfigureFeatureFromDescriptorW, MsiCreateAndVerifyInstallerDirectory, MsiGetProductCodeFromPackageCodeA
+  LIN  : NSt3tr111_Sp_deleterI20AjcgRSsaDPvrGegGDWvtEE, NSt3tr111_Sp_deleterI20rfNUwNaXkEbKQFtvTvPcEE, NSt3tr111_Sp_deleterI20yAwpceQiFMKMnKhOCYjNEE, _ZN11HttpChannel13addHttpHeaderEP20JGuNhBPKOvNjTGOjEZtu, _ZN11HttpChannel13takeOutPacketEPhjPj, _ZN11HttpChannel14createKeyTokenEi, _ZN11HttpChannel15generateHttpMesEPhjPj, _ZN11HttpChannel16createEncodeDataEPhjPj, _ZN11HttpChannel17createEncodeTokenEPhj, _ZN11HttpChannel19createRandomSymbolsEj, _ZN11HttpChannel19generateUrlQuestionESs, _ZN11HttpChannel20PhRRCbTchMWEmLkLqKKFEi
+
+[config_key]
+  WIN  : Sleep
+  LIN  : (none)
+
+[symbol/function overlap (code reuse)]  sleep
+
+==============================================================================
+## APT27:  win.hyperssl  (Windows)  ↔  elf.hyperssl  (Linux)
+==============================================================================
+
+[url]
+  WIN  : !http://ocsp.globalsign.com/rootr30;, "http://aia1.wosign.com/ca1-tsa.cer0, %http://crl.globalsign.com/root-r3.crl0G, %http://s.symcb.com/universal-root.crl0, &https://www.globalsign.com/repository/0, -http://ocsp.globalsign.com/codesigningrootr450F, /http://secure.globalsign.com/cacert/root-r3.crt06, /http://ts-aia.ws.symantec.com/sha256-tss-ca.cer0(, /http://ts-crl.ws.symantec.com/sha256-tss-ca.crl0, :http://secure.globalsign.com/cacert/codesigningrootr45.crt0A, >http://secure.globalsign.com/cacert/gsgccr45codesignca2020.crt0=, http://crls1.wosign.com/ca1.crl0g
+  LIN  : not enough space for format expansion (Please submit full bug report at https://
+
+[uri_path]
+  WIN  : /0-0+
+  LIN  : /.rnf, /UID=, /bin/bash, /bin/busybox, /bin/sh, /dev/null, /dev/ptmx, /dev/pts/%d, /dev/random, /dev/urandom, /emailAddress=, /etc/hosts
+
+[host_dom]
+  WIN  : !http://ocsp.globalsign.com/rootr30;, "http://aia1.wosign.com/ca1-tsa.cer0, %http://crl.globalsign.com/root-r3.crl0G, %http://s.symcb.com/universal-root.crl0, &https://www.globalsign.com/repository/0, -http://ocsp.globalsign.com/codesigningrootr450F, /http://secure.globalsign.com/cacert/root-r3.crt06, /http://ts-aia.ws.symantec.com/sha256-tss-ca.cer0(, /http://ts-crl.ws.symantec.com/sha256-tss-ca.crl0, 0http://crl.globalsign.com/codesigningrootr45.crl0V, 1http://ocsp.globalsign.com/gsgccr45codesignca20200V, 4http://crl.globalsign.com/gsgccr45codesignca2020.crl0
+  LIN  : .data.rel.ro, .gnu.hash, .got.plt, .note.ABI-tag, .note.gnu.build-id, .note.gnu.property, .rela.dyn, .rela.plt, /etc/resolv.conf, /etc/systemd/system/multi-user.target.wants/%s.service, /lib64/ld-linux-x86-64.so.2, WantedBy=multi-user.target
+  ** SHARED ** asio.misc, asio.misc error, asio.system
+
+[ipv4]
+  WIN  : (none)
+  LIN  : 0.0.0.0, 1.3.6.1.5.5.7.3.1, 1.3.6.1.5.5.7.3.2, 1.3.6.1.5.5.7.3.3, 1.3.6.1.5.5.7.3.4, 1.3.6.1.5.5.7.3.8, 1.3.6.1.5.5.7.3.9, 127.0.0.1, 2.5.29.37.0, 8.8.8.8
+
+[http_hdr]
+  WIN  : Content-Length:, Host: %s:%d
+  LIN  : Accept: */*, Content-Length:, Content-Type:, Host:
+  ** SHARED ** Content-Length:
+
+[cmd_method]
+  WIN  : ADVAPI32.dll, GDI32.dll, INISafeWebSSO.exe, KERNEL32.DLL, KERNEL32.dll, Kernel32.dll, SHELL32.dll, SHLWAPI.dll, Secur32.dll, USER32.dll, USERENV.dll, WINHTTP.dll
+  LIN  : asio.addrinfo, asio.misc, asio.netdb, asio.ssl, asio.system
+  ** SHARED ** asio.misc, asio.system
+
+[cmd_word]
+  WIN  : ReadFile, Sleep, WriteFile
+  LIN  : (none)
+
+[crypto]
+  WIN  : CHACHA20, SHA256
+  LIN  : CHACHA20, sha256
+  ** SHARED ** CHACHA20
+
+[pem]
+  WIN  : -----BEGIN CERTIFICATE-----, -----BEGIN DH PARAMETERS-----, -----BEGIN EC PRIVATE KEY-----, -----BEGIN RSA PRIVATE KEY-----, -----END CERTIFICATE-----, -----END DH PARAMETERS-----, -----END EC PRIVATE KEY-----, -----END RSA PRIVATE KEY-----, ~-----BEGIN CERTIFICATE-----
+  LIN  : -----BEGIN CERTIFICATE-----, -----BEGIN DH PARAMETERS-----, -----BEGIN DSA PARAMETERS-----, -----BEGIN DSA PRIVATE KEY-----, -----BEGIN EC PRIVATE KEY-----, -----BEGIN ENCRYPTED PRIVATE KEY-----, -----BEGIN PRIVATE KEY-----, -----BEGIN PUBLIC KEY-----, -----BEGIN RSA PRIVATE KEY-----, -----BEGIN X509 CRL-----, -----END CERTIFICATE-----, -----END DH PARAMETERS-----
+  ** SHARED ** -----BEGIN CERTIFICATE-----, -----BEGIN DH PARAMETERS-----, -----BEGIN EC PRIVATE KEY-----, -----BEGIN RSA PRIVATE KEY-----, -----END CERTIFICATE-----, -----END DH PARAMETERS-----, -----END EC PRIVATE KEY-----, -----END RSA PRIVATE KEY-----
+
+[b64alpha]
+  WIN  : ++AtOg6eENxD+xVs0f1IeGz57Tjo3QnXX7VBZNdj+p1ECvhCE/G7XnkgU5hLZX+G, /DZrtenNLQNiTrM9AM+vdqBpVoNq0qjU51Bx5rU2BXcFbXvI5MT9TNUhXwIDAQAB, /f8wYwYDVR0jBFwwWoAUtFrkpbPe0lL2udWmlQ/rPrzH/f+hP6Q9MDsxCzAJBgNV, /r6pvwnTI0PSx2Eqs048YdS92LT6qAv4flbNDxMn2uY7s4ycS4Q8w1JXnCeaAnYm, 12345678901234567890123456789012345678901234567890123456789012345678901234567890, 14DEF9DEA2F79CD65812631A5CF5D3ED, 1C93KYRhTYJQj6eVSHD1bk2y1RPD0hrt5kPqQhTrdOrA7R/UV06p86jt0uDBMHEw, 1nuTCeXdo9+ni45xx+jAI4DCwrRdhJ9uzZyC6962H37H6D+5naNvClFR1s6li1Gb, 1sa18fyfR9OiVEMYglOpkqVoGLN7qd5aQNNi5W7/C+VBdHTBJcGZJyyP5B3qcz32, 2CMR/+ov0jRdXRa9iojCa3cNVc2KKg76Aci07f+jgZ0wgZowCQYDVR0TBAIwADAd, 2JDBYbRmUjaiJlOqq3ReB30Zgtsq2B+g2Q0cLUlm91slc0boC4pPaQy1AJDh2oIQ, 33gp0mSSWy94ZEqipms+ULF6sY1ZtFW6tpGFoy8CgYAQHhnnvJflIs2ky4q10B60
+  LIN  : $P1P1P1P1P1P1P1P1P1P1P1P1P1P1P1P1P, *++++++++++++++++++++++++++++++++++++++++, ++++++++++++++++++++++++++++++++, ++++++++++++++++++++++++++++++++++++++++++, -+xX0123456789abcdef0123456789ABCDEF, 00010203040506070809101112131415161718192021222324252627282930313233343536373839, 0FFA963CDCA8816CCC33B8642BEDF905C3D358573D3F27FBBD3B3CB9AAAF, 100000000000000000001F4C8F927AED3CA752257, 11839296A789A3BC0045C8A5FB42C7D1BD998F54449579B446817AFBD17273E662C97EE72995EF42, 161FF7528B899B2D0C28607CA52C5B86, 188DA80EB03090F67CBF20EB43A18800F4FF0AFD82FF1012, 1C97BEFC54BD7A8B65ACF89F81D4D4ADC565FA45
+
+[config_key]
+  WIN  : Config, Sleep, timeout
+  LIN  : (none)
+
+[go_botlib]
+  WIN  : (none)
+  LIN  : Peer closed underlying transport Error
+
+[symbol/function overlap (code reuse)]  (none meaningful)
+
+==============================================================================
+## Turla:  win.uroburos  (Windows)  ↔  elf.penquin_turla  (Linux)
+==============================================================================
+
+[url]
+  WIN  : (none)
+  LIN  : @@You need to read the OpenSSL FAQ, http://www.openssl.org/support/faq.html, TLS generation counter wrapped!  Please report as described in <http://www.gnu.o, You need to read the OpenSSL FAQ, http://www.openssl.org/support/faq.html
+
+[uri_path]
+  WIN  : /LUb9, /autoexit, /default.aspx, /effect, /fullscreen, /monitor, /order, /slideshow, /transitiontime, /uuf9G
+  LIN  : ///NS, /POSIX_V6_, /bin/sh, /build/buildd/glibc-2.3.2.ds1/build-tree/glibc-2.3.2/csu, /build/buildd/glibc-2.3.2.ds1/build-tree/i386-libc/config.h, /build/buildd/glibc-2.3.2.ds1/build-tree/i386-libc/csu, /build/buildd/glibc-2.3.2.ds1/build-tree/i386-libc/csu/crti.S, /build/buildd/glibc-2.3.2.ds1/build-tree/i386-libc/csu/crtn.S, /build/buildd/glibc-2.3.2.ds1/build-tree/i386-libc/csu/defs.h, /cpuinfo, /dev/, /dev/bus/usb/%03d
+
+[host_dom]
+  WIN  : /default.aspx, ADVAPI32.dll, Advapi32.dll, Beep.sys, C:\Users\byteatlas\Desktop\turl.dll, C:\Windows\system32\winlogon.exe, COMCTL32.dll, CRYPT32.dll, HAL.dll, JPEGView.exe, JPEGView.ini, KERNEL32.DLL
+  LIN  : %scrond.pid, .data.rel.ro, .gnu.hash, .got.plt, .note.ABI-tag, .note.gnu.build-id, .plt.got, .rela.dyn, .rela.plt, /etc/cron.allow, /etc/cron.deny, /etc/host.conf
+
+[ipv4]
+  WIN  : 1.0.32.1
+  LIN  : (none)
+
+[http_hdr]
+  WIN  : Content-Length:, Content-Length: %d, Content-Length: %u, Content-Type: application/octet-stream, Content-Type: text/plain, Content-type: text/plain
+  LIN  : Content-Type: %s, Content-Type: %smime;, Content-Type: %ssignature;, Content-Type: multipart/signed;, Content-Type: text/plain, Content-Type: text/plain; charset=%s, X-Cron-Env: <%s>
+  ** SHARED ** Content-Type: text/plain
+
+[cmd_method]
+  WIN  : ADVAPI32.dll, Advapi32.dll, Beep.sys, COMCTL32.dll, CRYPT32.dll, HAL.dll, JPEGView.exe, JPEGView.ini, KERNEL32.DLL, KERNEL32.dll, Mi7P.iC, Nsiproxy.sys
+  LIN  : crond.debug, desasm.pl, name.fullname, name.relativename, openssl.cnf, smime.p7m, smime.p7z, value.bag, value.byKey, value.byName, value.good, value.implicitlyCA
+
+[cmd_word]
+  WIN  : ReadFile, Sleep, WriteFile
+  LIN  : SHELL, readfile, sleep
+
+[crypto]
+  WIN  : (none)
+  LIN  : sha256
+
+[pem]
+  WIN  : (none)
+  LIN  : -----BEGIN %s-----, -----END %s-----
+
+[b64alpha]
+  WIN  : !22222222222222222222222222222222222222222222222222, %&'()*456789:CDEFGHIJSTUVWXYZcdefghijstuvwxyz, &'()*56789:CDEFGHIJSTUVWXYZcdefghijstuvwxyz, 0123456789abcdefghijklmnopqrstuvwxyz, CertVerifyCertificateChainPolicy, FwpsAllocateNetBufferAndNetBufferList0, InitializeCriticalSectionAndSpinCount, JanFebMarAprMayJunJulAugSepOctNovDec, NdisFIndicateReceiveNetBufferLists, OverrideOriginalFileWithoutSaveDialog, ehngiblwmfhecgaUKLNKTRLTQHMXPPRFB
+  LIN  : 0123456789ABCDEFGHIJKLMNOPQRSTUVWXYZ, 0123456789abcdefghijklmnopqrstuvwxyz, ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789+/, PQQRSSSSSTUVVVWWWWWWWWWXYZZZ[[\\]]]]]]^^^^^^__``````aaabcccccccccccccccccccccccc, QQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQj
+  ** SHARED ** 0123456789abcdefghijklmnopqrstuvwxyz
+
+[config_key]
+  WIN  : Sleep, TIMEOUT
+  LIN  : beacon, sleep, timeout
+
+[go_botlib]
+  WIN  : (none)
+  LIN  : Bluetooth HCI UART transport layer, Bluetooth HCI UART transport layer plus pseudo-header, Cannot send after transport endpoint shutdown, Transport endpoint is already connected, Transport endpoint is not connected, transport.c
+
+[symbol/function overlap (code reuse)]  calloc, fclose, fopen, fprintf, iswdigit, iswspace, malloc, memchr, memcpy, memmove, memset, readfile, realloc, setlocale, sleep, sprintf, srand, strchr, strerror, strlen, strncmp, strncpy, strrchr, strstr, strtol
+
+==============================================================================
+## APT29:  win.wellmess  (Windows)  ↔  elf.wellmess  (Linux)
+==============================================================================
+
+[uri_path]
+  WIN  : /0123456789, /home/ubuntu/GoProject/src/bot, /home/ubuntu/GoProject/src/bot/aist-block-1.go, /home/ubuntu/GoProject/src/bot/botlib/assymcrypto.go, /home/ubuntu/GoProject/src/bot/botlib/botchat.go, /home/ubuntu/GoProject/src/bot/botlib/chat.go, /home/ubuntu/GoProject/src/bot/botlib/choise.go, /home/ubuntu/GoProject/src/bot/botlib/chunks.go, /home/ubuntu/GoProject/src/bot/botlib/generatekey.go, /home/ubuntu/GoProject/src/bot/botlib/message.go, /home/ubuntu/GoProject/src/bot/botlib/normalbase64.go, /home/ubuntu/GoProject/src/bot/botlib/rc6.go
+  LIN  : /0123456789, /F0F1F, /OeRZS, /dev/urandom, /home/ubuntu/GoProject/src/bot/botlib/assymcrypto.go, /home/ubuntu/GoProject/src/bot/botlib/botchat.go, /home/ubuntu/GoProject/src/bot/botlib/chat.go, /home/ubuntu/GoProject/src/bot/botlib/choise.go, /home/ubuntu/GoProject/src/bot/botlib/chunks.go, /home/ubuntu/GoProject/src/bot/botlib/generatekey.go, /home/ubuntu/GoProject/src/bot/botlib/message.go, /home/ubuntu/GoProject/src/bot/botlib/normalbase64.go
+  ** SHARED ** /0123456789, /home/ubuntu/GoProject/src/bot/botlib/assymcrypto.go, /home/ubuntu/GoProject/src/bot/botlib/botchat.go, /home/ubuntu/GoProject/src/bot/botlib/chat.go, /home/ubuntu/GoProject/src/bot/botlib/choise.go, /home/ubuntu/GoProject/src/bot/botlib/chunks.go, /home/ubuntu/GoProject/src/bot/botlib/generatekey.go, /home/ubuntu/GoProject/src/bot/botlib/message.go, /home/ubuntu/GoProject/src/bot/botlib/normalbase64.go, /home/ubuntu/GoProject/src/bot/botlib/rc6.go, /home/ubuntu/GoProject/src/bot/botlib/symmcrypto.go, /home/ubuntu/GoProject/src/bot/botlib/transport.go
+
+[host_dom]
+  WIN  : !*map.bucket[http.ConnState]string, !*map.bucket[string][]*http.Cookie, !*map.bucket[string]map[string]int, !*map.hdr[*reflect.structType]bool, !*map.hdr[http.http2ErrCode]string, !*map.hdr[string]http.RoundTripper, !*map.hdr[string]map[string]string, "*map.bucket[http.http2Flags]string, "*map.bucket[string]cookiejar.entry, "*map.hdr[*http.Request]func(error), "*map.hdr[int][][]*x509.Certificate, "*map.hdr[string]*singleflight.call
+  LIN  : !*map.bucket[http.ConnState]string, !*map.bucket[string][]*http.Cookie, !*map.bucket[string]map[string]int, !*map.hdr[*reflect.structType]bool, !*map.hdr[http.http2ErrCode]string, !*map.hdr[string]*encoding.Decoder, !*map.hdr[string]http.RoundTripper, !*map.hdr[string]map[string]string, !golang.org/x/text/encoding/korean, "*map.bucket[http.http2Flags]string, "*map.bucket[string][]net.nssSource, "*map.bucket[string]cookiejar.entry
+  ** SHARED ** !*map.bucket[http.ConnState]string, !*map.bucket[string][]*http.Cookie, !*map.bucket[string]map[string]int, !*map.hdr[*reflect.structType]bool, !*map.hdr[http.http2ErrCode]string, !*map.hdr[string]http.RoundTripper, !*map.hdr[string]map[string]string, "*map.bucket[http.http2Flags]string, "*map.bucket[string]cookiejar.entry, "*map.hdr[*http.Request]func(error), "*map.hdr[int][][]*x509.Certificate, "*map.hdr[string]*singleflight.call
+
+[ipv4]
+  WIN  : 1.3.6.1.4.1.311.10.3.3, 2.16.840.1.113730.4.1, <assemblyIdentity version="1.0.0.0" name="MyApplication.app"/>, >1.3.6.1.5.5.7.3.1
+  LIN  : (none)
+
+[cmd_method]
+  WIN  : RR.cap, RR.len, RR.ptr, System.Collections, System.Diagnostics, System.Globalization, System.IO, System.Reflection, System.Threading, aas.cap, aas.len, aas.ptr
+  LIN  : DA.cap, DA.len, DA.ptr, DB.cap, DB.len, DB.ptr, RR.cap, RR.len, RR.ptr, SourceDA.cap, SourceDA.len, SourceDA.ptr
+  ** SHARED ** RR.cap, RR.len, RR.ptr, addr.data, addr.itab, addr.len, addr.ptr, addrndBytes.len, addrndBytes.ptr, addrs.cap, addrs.len, addrs.ptr
+
+[cmd_word]
+  WIN  : Sleep, WriteFile
+  LIN  : (none)
+
+[pem]
+  WIN  : -----END PUBLIC KEY-----
+  LIN  : -----BEGIN CERTIFICATE-----, -----BEGIN RSA PRIVATE KEY-----, -----END CERTIFICATE-----, -----END PUBLIC KEY-----, -----END RSA PRIVATE KEY-----
+  ** SHARED ** -----END PUBLIC KEY-----
+
+[b64alpha]
+  WIN  : !internal/syscall/windows/registry, "selectClientCertSignatureAlgorithm, &_/home/ubuntu/GoProject/src/bot/botlib, 666666666666666666666666666666666666666666666666, 777777_______AAAAAACAKKKUUUWAAAAAAACKKKKKKKLKKKKKKKLKKKKKKKMAAAAAAAA, 7AAAAAAAUUUUUUUU7AAAAAAAUUUUUUUU, 8zEmGnKWgmSZz6yf+MUkzpxNkPr7fSHe1VlbO8bqHeM8dPs7HNGGOOebzbzqQCAf, AAAABABij78AVBiiBUUKAVAAAKKABAUKBAUKBBKAB, AAKAKAKAKAKAKAKB7KAAKAKAKAKAKAKALAKKKKKKLU, AAKAKAKAKAKAKAKB7KAAKAKAKAKAKAKALAKKKKKKLUXUKViiiiiiijKKBAKBUUV, CPPMCPPVCPTECTELCTHzCVIICXIICa/cCa/sCa, CbarCc/oCc/uCcalCcm2Ccm3Cdm2Cdm3CergCffiCfflCgalChPaCiiiCkHzCkPaCkm2Ckm3Ck
+  LIN  : "selectClientCertSignatureAlgorithm, &_/home/ubuntu/GoProject/src/bot/botlib, ++1n+Ux+MglmElQDbZYdWV8n20DVphRQSMTO2bGwM23xPqikSB8eAdnV1DdCBRNI, +/Axz1rn0lBVIP/xqFWw/kaq8PhWruugh6vmy/TEMpmlxlJd/sDqXNoidXgJhBY4, +rAKRK9ZNeUJu2FFGK1/y7RBYTEBxNhu2t98kqRNUbna4kX3shm0QDKfy39Gc4P7, +tBQ7OSz6s8QYJWnMhSqcytj3pLrfUhgkjtBzScx18zL+l21V/v08y+geE3iw/Fh, ,golang.org/x/text/encoding/simplifiedchinese, -golang.org/x/text/encoding/traditionalchinese, .golang.org/x/text/encoding/internal/identifier, /2AsD0N0rW8+DOoP7RiCPqsbcUanquxpLqpO9Zyw517wHLpImUn56B+dwnHVWb8o, 0ZuXRpJ4qAGhwrVVbR4MoLWa8VYytGCcMPZoWedmvAOX5wl9Ol9JAL+g2hOY79rS, 0n6PKFP8SX6Mv0UyHqS3tsa8D21nm2hf3rO7sqBXevs9xdvKbxiKLJxY6WEvKAGH
+  ** SHARED ** "selectClientCertSignatureAlgorithm, &_/home/ubuntu/GoProject/src/bot/botlib, 666666666666666666666666666666666666666666666666, 777777_______AAAAAACAKKKUUUWAAAAAAACKKKKKKKLKKKKKKKLKKKKKKKMAAAAAAAA, 7AAAAAAAUUUUUUUU7AAAAAAAUUUUUUUU, AAAABABij78AVBiiBUUKAVAAAKKABAUKBAUKBBKAB, AAKAKAKAKAKAKAKB7KAAKAKAKAKAKAKALAKKKKKKLU, AAKAKAKAKAKAKAKB7KAAKAKAKAKAKAKALAKKKKKKLUXUKViiiiiiijKKBAKBUUV, CPPMCPPVCPTECTELCTHzCVIICXIICa/cCa/sCa, CbarCc/oCc/uCcalCcm2Ccm3Cdm2Cdm3CergCffiCfflCgalChPaCiiiCkHzCkPaCkm2Ckm3Ck, O777777_______AAAAAACUUUUUUUWAAAAAAAC-:KKKKKKKM7AAAKKKKAAAAKKKLK-MKKKKKKKKKKKKKK, U7AAAAAAAiiiiiiii7AAAAAAAiiiiiiiiUUU
+
+[config_key]
+  WIN  : Interval, Proxy, Server, Sleep, Timeout, check, config, interval, proxy, server, session, settings
+  LIN  : Proxy, Server, Timeout, check, config, proxy, server, servers, session, settings, timeout, token
+  ** SHARED ** Proxy, Server, Timeout, check, config, proxy, server, session, settings, timeout, token
+
+[go_botlib]
+  WIN  : &_/home/ubuntu/GoProject/src/bot/botlib, (*struct { F uintptr; R *http.Transport }, *_/home/ubuntu/GoProject/src/bot/botlib.KeySizeError, *_/home/ubuntu/GoProject/src/bot/botlib.rc6cipher, *botlib.KeySizeError, *botlib.rc6cipher, *http.Transport, *net/http.Transport, *struct { F uintptr; testHookPrePendingDial func(); dialc chan http.dialRes; t *, /home/ubuntu/GoProject/src/bot/botlib/assymcrypto.go, /home/ubuntu/GoProject/src/bot/botlib/botchat.go, /home/ubuntu/GoProject/src/bot/botlib/chat.go
+  LIN  : &_/home/ubuntu/GoProject/src/bot/botlib, (*struct { F uintptr; R *http.Transport }, *botlib.CorruptInputError, *botlib.KeySizeError, *botlib.rc6cipher, *http.Transport, *net/http.Transport, *struct { F uintptr; testHookPrePendingDial func(); dialc chan http.dialRes; t *, /home/ubuntu/GoProject/src/bot/botlib/assymcrypto.go, /home/ubuntu/GoProject/src/bot/botlib/botchat.go, /home/ubuntu/GoProject/src/bot/botlib/chat.go, /home/ubuntu/GoProject/src/bot/botlib/choise.go
+  ** SHARED ** &_/home/ubuntu/GoProject/src/bot/botlib, (*struct { F uintptr; R *http.Transport }, *botlib.KeySizeError, *botlib.rc6cipher, *http.Transport, *net/http.Transport, *struct { F uintptr; testHookPrePendingDial func(); dialc chan http.dialRes; t *, /home/ubuntu/GoProject/src/bot/botlib/assymcrypto.go, /home/ubuntu/GoProject/src/bot/botlib/botchat.go, /home/ubuntu/GoProject/src/bot/botlib/chat.go, /home/ubuntu/GoProject/src/bot/botlib/choise.go, /home/ubuntu/GoProject/src/bot/botlib/chunks.go
+
+[symbol/function overlap (code reuse)]  (none meaningful)
+
+==============================================================================
+## EarthLusca:  win.ktlv_door  (Windows)  ↔  elf.ktlv_door  (Linux)
+==============================================================================
+
+[uri_path]
+  WIN  : /-U.t, /.7.?.G.O.W._.g.w., //S6=, /5-8., /50N/, /RVZL, /VRCoKHvrNuamcIWaRIhilvUaWNlMMoLSZMribmifSfQkmZg, /wxRB, /zKjRULGSsjrXEoyBQPoKoDJfjmawtqajMdnxalsCaGFGqnu
+  LIN  : /-0l/, /.7.?.G.O.W._.g.w., /02W1, /E2?114?, /RVZL, /Uoqag/ZHzSNJS/rRXhOweFzqd/oTDESRwEYJFE/yBkrTilH, /V0u/, /Y0m/, /dev/nulH, /dev/rooA, /dev/rooD, /dev/rooH
+  ** SHARED ** /.7.?.G.O.W._.g.w., /RVZL, /wxRB
+
+[host_dom]
+  WIN  : !*map.bucket[http.ConnState]string, !*map.bucket[string][]*http.Cookie, !*map.bucket[string]map[string]int, !github.com/shirou/gopsutil/v4/cpu, "*map.bucket[dnsmessage.Type]string, "*map.bucket[http.http2Flags]string, "*map.bucket[net.mibTCPState]string, "*struct { F uintptr; R *tls.Conn }, "*struct { F uintptr; c *exec.Cmd }, "github.com/shirou/gopsutil/v4/disk, #*map.bucket[[8]uint8]chan struct {}, #*map.bucket[dnsmessage.Class]string
+  LIN  : !*map.bucket[http.ConnState]string, !*map.bucket[string][]*http.Cookie, !*map.bucket[string][]net.inodeMap, !*map.bucket[string]map[string]int, !github.com/shirou/gopsutil/v4/cpu, !oTRrTi.xTY/Fxyhau/ojeSUcJz/FQ/FYg, "*IeHifI { FH.YXrjkm; sP.TMRvdpif }, "*NHZySl { Fvuqvrm.GbEqG; D xdero }, "*TNNb(TWWkvT, kEBlvC, TPk.nV) KzUv, "*map.bucket[dnsmessage.Type]string, "*map.bucket[dwarf.Attr]dwarf.Class, "*map.bucket[http.http2Flags]string
+  ** SHARED ** !*map.bucket[http.ConnState]string, !*map.bucket[string][]*http.Cookie, !*map.bucket[string]map[string]int, !github.com/shirou/gopsutil/v4/cpu, "*map.bucket[dnsmessage.Type]string, "*map.bucket[http.http2Flags]string, "*struct { F uintptr; R *tls.Conn }, "github.com/shirou/gopsutil/v4/disk, #*map.bucket[[8]uint8]chan struct {}, #*map.bucket[dnsmessage.Class]string, #*map.bucket[dnsmessage.RCode]string, #*map.bucket[string]*tls.Certificate
+
+[cmd_method]
+  WIN  : KERNEL32.dll, LG.HK, SETUPAPI.dll, advapi32.dll, go.shape, i32.dll, jL.ij, kernel32.dll, l32.dll, main.DLLWMain, msvcrt.dll, ntdll.dlH
+  LIN  : AAaQJAZc.vyLIQHsxgZOWGMhC, ADT.SiNisE, ADlJZKPmrOUI.JVuq, AEPnpCCUoS.GRXJOmVmfXQdunWAMMuWp, AGIthrMCh.PgmSGZIxfZVz, AHDb.ASioyG, AIfe.LJpG, ASnWCNcRncfRxSoK.vzTyzkIOAaLnYMP, AWEKqjCCuHt.fswnDotgUbjOMrT, AXUS.ldwPemawimMP, AbZ.wkNe, AbyR.XRxOQrpcFmyRVyJZ
+  ** SHARED ** LG.HK, jL.ij, reflect.H9, runtime.H9, time.DatH, time.LocH, time.LocL, time.UTCL, wRo.PV
+
+[cmd_word]
+  WIN  : Sleep, WriteFile
+  LIN  : (none)
+
+[b64alpha]
+  WIN  : !MdoRQbSNRNUZweixmTUzcaDhHwWnPWOzP, !SpzorefjANeCIAucwmgWxyWMvagpkFmIr, !UnguGicQlGwnGbXcRZnkvVHhCIVmfCFti, !YIeldwhEnAhIQAqNuxmfRdQosUnfYvwGb, !csjiHulACsKFyttLjNQxfMveMajLQJxIj, !rSoPaeMZXQMVExmRqijmhNawnKRLXdQGg, !uLozRiZvmJBWHUoYRPeuaLKUodKLHWXYB, !wuelvjthJkWRcBWoleIyxDxGxyMDlrbNC, "AhbWIFBfjCSCRMnQhxICjHpzGJvbFlrTJO, "IcIABKvXIYBsKXkEDjTxAfBtxtJichxlNe, "OQPqHQUFiQEOOWgXUgQNnJPkjlAReUWCvU, "TwQiBeDMKvEqVqZWHCztrbCiOtLyOeJmno
+  LIN  : !bfUjkURBmtcTrtFQKUIEBUoHbeEJRWtof, "lWMVEG/UFLHsAbc/MucRzQVPeCle/plWul, %FbYJl/DNr/mwl/PmyiXMqHA/pNAfRwz/mzBhn, &*dxok.fuiUZMFkyyxudUeZoVRevrypnLHfQSNQ, &*gHdh.LvukRXMTAMdMpAkTXexUFgzxYyDIaksM, &*xxHQ.asdnKNGmldPlaHxtmGwJCXFqPHePQgTw, &ANdeCAzmlzpsogwErfwELSxDjtgmDWxgCcPbxG, (DxMCk/ovi/qdx/lDTQmbojz/gDmGPEu/bSUPVKsl, (pzwmO/kgE/VkT/krFZdncfb/XzDjNAJ/pWBrhFVO, )cKAuj/rXr/qfh/TOoCxIzbN/zMniQJB/cjAKXHLPg, -AXzoqL.SBq/KTEfuw/TecgmmOi/lo/FJJfDGlc/WFgnZX, -ZYxah/RYn/mwV/RDraKVjSl/xjcgcAt/uPPLtFQS/mPyn
+  ** SHARED ** CPPMCPPVCPTECTELCTHzCVIICXIICa/cCa/sCa, CbarCc/oCc/uCcalCcm2Ccm3Cdm2Cdm3CergCffiCfflCgalChPaCiiiCkHzCkPaCkm2Ckm3Ck, UUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUU, x1x1x1x1xIxIxIxIxaxaxaxaxyxyxyxyx
+
+[config_key]
+  WIN  : Sleep
+  LIN  : (none)
+
+[config_json]
+  WIN  : Fd	json:"fd", IP	json:"ip", Ip	json:"ip", OS	json:"os", json:"blocked", json:"bootTime", json:"caught", json:"connect", json:"cpu", json:"data", json:"device", json:"disk_details"
+  LIN  : Fd	json:"fd", IP	json:"ip", Ip	json:"ip", OS	json:"os", json:"blocked", json:"bootTime", json:"caught", json:"childMajorFaults", json:"childMinorFaults", json:"connect", json:"cpu", json:"data"
+  ** SHARED ** Fd	json:"fd", IP	json:"ip", Ip	json:"ip", OS	json:"os", json:"blocked", json:"bootTime", json:"caught", json:"connect", json:"cpu", json:"data", json:"device", json:"disk_details"
+
+[go_botlib]
+  WIN  : 7tools/modules/accelerator/server_agent/transport/models, 9tools/modules/accelerator/server_agent/transport/net/impl, =tools/modules/accelerator/server_agent/transport/net/register, L*struct { F uintptr; .autotmp_7 *http.Transport; .autotmp_8 *http.wantConn }, N*struct { F uintptr; .autotmp_10 *http.Transport; .autotmp_11 *http.wantConn }, N*struct { F uintptr; .autotmp_17 *http.Transport; .autotmp_18 *http.wantConn }, T*struct { F uintptr; subMess *proto_model.MessPacket; this *handler.handlePorts, X*struct { F uintptr; this *handler.handleInteractiveShell; mess proto_model.Mes, b*struct { F uintptr; .autotmp_17 *handler.handleFileDownload; .autotmp_18 proto, v*struct { F uintptr; this *startnode.AbstractDelivery; i model.HandleInterface;
+  LIN  : 7tools/modules/accelerator/server_agent/transport/models, 9tools/modules/accelerator/server_agent/transport/net/impl, =tools/modules/accelerator/server_agent/transport/net/register, L*struct { F uintptr; .autotmp_7 *http.Transport; .autotmp_8 *http.wantConn }, N*struct { F uintptr; .autotmp_10 *http.Transport; .autotmp_11 *http.wantConn }, N*struct { F uintptr; .autotmp_19 *http.Transport; .autotmp_20 *http.wantConn }, T*struct { F uintptr; subMess *proto_model.MessPacket; this *handler.handlePorts, X*struct { F uintptr; this *handler.handleInteractiveShell; mess proto_model.Mes, b*struct { F uintptr; .autotmp_27 *handler.handleFileDownload; .autotmp_28 proto, net/http.(*Client).transport, net/http.(*Transport).dialConn.func1, net/http.(*Transport).hasCustomTLSDialer
+  ** SHARED ** 7tools/modules/accelerator/server_agent/transport/models, 9tools/modules/accelerator/server_agent/transport/net/impl, =tools/modules/accelerator/server_agent/transport/net/register, L*struct { F uintptr; .autotmp_7 *http.Transport; .autotmp_8 *http.wantConn }, N*struct { F uintptr; .autotmp_10 *http.Transport; .autotmp_11 *http.wantConn }, T*struct { F uintptr; subMess *proto_model.MessPacket; this *handler.handlePorts, X*struct { F uintptr; this *handler.handleInteractiveShell; mess proto_model.Mes, v*struct { F uintptr; this *startnode.AbstractDelivery; i model.HandleInterface;
+
+[symbol/function overlap (code reuse)]  (none meaningful)
+
+==============================================================================
+## WinntiAPT41:  win.derusbi  (Windows)  ↔  elf.derusbi  (Linux)
+==============================================================================
+
+[uri_path]
+  WIN  : (none)
+  LIN  : /bin/bash, /dev/null, /dev/shm/.profile_log, /proc, /proc/%u, /proc/%u/cmdline, /proc/self/exe, /sbin/insmod, /tmp/l.log
+
+[host_dom]
+  WIN  : %SystemRoot%\System32\svchost.exe -k netsvcs, %SystemRoot%\System32\wiaservc.dll, %WINDIR%\PCHealth\HelpCtr\Binaries\pchsvc.dll, %systemroot%\system32\wuaueng.dll, :\autorun.inf, ADVAPI32.dll, CRYPT32.dll, GDI32.dll, GET /Query.asp?loginid=112037 HTTP/1.1, IPHLPAPI.DLL, KAVsvc.exe, KERNEL32.dll
+  LIN  : .data.rel.ro, .gnu.hash, .got.plt, .rela.dyn, .rela.plt, libc.so.6, libdl.so.2, libm.so.6, libpthread.so.0, librt.so.1, libutil.so.1
+
+[ipv4]
+  WIN  : 127.0.0.1
+  LIN  : (none)
+
+[user_agent]
+  WIN  : User-Agent: Mozilla/4.0, User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1)
+  LIN  : (none)
+
+[http_hdr]
+  WIN  : Content-Length:, Content-Length: %d, Content-Length: 0, Content-Type: application/octet-stream, Content-Type: application/x-octet-stream, Content-Type: text/html, HOST: %s:%d, Host: %s:%d, User-Agent: Mozilla/4.0, User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1)
+  LIN  : (none)
+
+[cmd_method]
+  WIN  : ADVAPI32.dll, CRYPT32.dll, GDI32.dll, IPHLPAPI.DLL, KAVsvc.exe, KERNEL32.dll, Navapsvc.exe, OLEAUT32.dll, OfficeUt32.dll, PSAPI.DLL, RASAPI32.dll, RAVmonD.exe
+  LIN  : (none)
+
+[cmd_word]
+  WIN  : ReadFile, Sleep, WriteFile
+  LIN  : (none)
+
+[b64alpha]
+  WIN  : ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789+/
+  LIN  : 0123456789ABCDEFGHIJKLMNOPQRSTUVWXYZ, 0123456789abcdefghijklmnopqrstuvwxyz, 81bc3f05e513dd0f037cb0d81af9edbd
+
+[config_key]
+  WIN  : Server, Sleep
+  LIN  : (none)
+
+[symbol/function overlap (code reuse)]  (none meaningful)

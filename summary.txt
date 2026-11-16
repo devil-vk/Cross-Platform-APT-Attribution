@@ -1,0 +1,166 @@
+CROSS-PLATFORM APT ATTRIBUTION — WINDOWS vs LINUX
+Summary of the final four-layer study
+CS5103 Practical Malware Analysis — IIT Hyderabad
+Authors: B. Saketh, D. Vamsi Krishna   Advisor: Prof. Saurabh Kumar
+
+The big question:
+When a threat actor builds malware for BOTH Windows and Linux, do they leave a
+recognizable fingerprint that lets us link the two? We test eight actors — Turla,
+Sandworm, Lazarus, Winnti/APT41, APT28, APT29, APT27 and Earth Lusca — across four
+different kinds of evidence: the compiled binary itself (Layer A), how the actor
+behaves (Layer B), the servers and domains it uses (Layer C), and its custom command
+protocol (Layer D).
+
+How we measure (same idea in every layer):
+For each actor we build two sets of evidence — one from its Windows malware, one
+from its Linux malware — and measure how much they overlap (a score from 0 = nothing
+shared to 1 = identical). Then we compare this against a "control": one actor's
+Windows evidence paired with a DIFFERENT actor's Linux evidence. If an actor really
+has a fingerprint, its own two sets should match more than these random pairings do.
+A small "p-value" means the result is unlikely to be luck.
+
+
+====================================================================
+LAYER A — The binary itself (strings, byte-shape, code)
+====================================================================
+
+What we did:
+We compared each actor's Windows and Linux binaries at the level of the compiled file:
+the readable strings baked into it, a fuzzy hash of its byte-shape, the machine
+instructions, and the symbol/import tables. An actor builds its two versions
+separately, so we never expect them to be identical — we just ask whether an actor's
+Windows build looks more like ITS OWN Linux build than like some other actor's.
+
+What we found:
+The embedded strings carry across platforms. Same-actor string overlap was well above
+the control (0.107 vs 0.017, p = 0.0008), and it stayed significant even after we
+removed every Go-built sample (p = 0.008) — so it is a genuine actor signal, not just a
+"both were built with Go" artifact. Compiled code did NOT carry: instruction patterns
+(p = 0.19) and symbol/import tables (null) look different on each OS, because each side
+is built with a different compiler and toolchain. The fuzzy hash only matched where the
+two builds actually share a codebase (the Go families).
+
+Summary:
+Embedded DATA transfers across platforms; compiled CODE does not. What an actor bakes
+into its binary — strings, config, embedded lists — carries over, but the machine code
+itself is rebuilt per OS and does not.
+
+
+====================================================================
+LAYER B — TTPs (how the actors behave)
+====================================================================
+
+What we did:
+We used the MITRE ATT&CK database. For each actor we listed every technique its
+Windows malware uses and every technique its Linux malware uses, then checked how
+much the two lists overlap. We did this for all eight actors and compared the real
+same-actor overlap against the mismatched control, using a permutation test.
+
+What we found:
+Same-actor overlap was clearly higher than the control — average 0.53 for the real
+pairs versus 0.39 for random pairs, with p < 0.0001 (the real pairing beat every one
+of the 40,320 possible shuffles). Sandworm, Winnti, Earth Lusca and Turla show the
+strongest overlap; APT27 and APT29 are solid; APT28 is weaker; Lazarus is the exception
+because it has very little documented Linux malware. The signal is leave-one-out robust
+(worst-case p = 0.0002) and survives removing commodity tools like Cobalt Strike and
+Mimikatz, so it reflects the actor's own tradecraft, not shared public tooling.
+
+Summary:
+Behaviour DOES carry across platforms, and this is the strongest, most robust layer.
+The way an actor operates — their techniques and habits — stays recognizable whether
+they attack Windows or Linux.
+
+
+====================================================================
+LAYER C — Infrastructure (the servers and domains they use)
+====================================================================
+
+What we did:
+We asked whether an actor reuses the same internet infrastructure (command-and-control
+domains, IP addresses, hosting providers, certificates) across its Windows and Linux
+malware. Because attackers usually throw away infrastructure after each campaign, we
+didn't just check for the exact same server — we checked at nine levels of detail, from
+the exact domain/IP all the way up to the strongest investigative techniques (passive
+DNS and TLS fingerprinting). Each level was scored the same way and compared against the
+mismatched control.
+
+The nine levels, in plain words:
+- exact C2 (same domain or IP)
+- shared resolving IP / domain via passive DNS (same hidden server behind different names)
+- same IP neighbourhood (/16 subnet)
+- same hosting provider (ASN)
+- same domain registrar
+- same TLS certificate / same certificate issuer
+- same TLS handshake fingerprint (JARM)
+- active in the same time windows (first-seen year)
+
+What we found:
+Almost every level was NULL — same-actor infrastructure looked no more similar than
+random pairs. Even passive DNS, the strongest technique, found nothing real (the few
+apparent matches turned out to be shared parking/sinkhole addresses, not attacker
+servers). The ONLY exception was hosting provider (ASN): same-actor reuse scored a bit
+higher than control, p = 0.017. But this is fragile — it comes entirely from just two
+actors, APT28 and Lazarus, reusing the same hosting company for both platforms, and it
+weakens further once common/shared hosting is removed. The more disciplined actors
+(Turla, Winnti, APT29, Sandworm) reuse nothing across platforms.
+
+Summary:
+Infrastructure does NOT reliably link actors across platforms. These actors use
+separate, disposable servers for each platform. The one small leak is two less careful
+actors reusing a hosting provider — everything else is a clean null.
+
+
+====================================================================
+LAYER D — Custom protocol / config (how they talk to C2)
+====================================================================
+
+What we did:
+We asked whether an actor's Windows and Linux builds speak the same custom command
+protocol — the same command words, the same config-file layout, the same handshake and
+framing, the same crypto choices — even when the code implementing it is completely
+different. For each family we pulled the protocol-related strings, sorted them into
+categories (config, framing, session, HTTP, crypto, C2 paths, command words), and scored
+same-actor overlap against the control. We also read eight pairs by hand, because the
+automated screen misses protocol reuse that is written in a different surface form.
+
+What we found:
+Protocol design carries across platforms. Overall protocol overlap was significant and,
+importantly, survived dropping the Go-built pairs (p = 0.018) — exactly where the earlier
+un-paired corpus had collapsed to p = 0.38. The config, framing and session categories
+are each significant on their own and leave-one-out robust. The manual reverse-engineering
+was decisive: 7 of the 8 pairs reuse their protocol and/or code across OS (for example,
+Sandworm keeps the same config model in C++ and in Go; Lazarus ships the identical fake-TLS
+decoy domain list on both sides; APT29 and Earth Lusca share their entire Go codebase). The
+one exception, Winnti/Derusbi, is an honest null — its Windows and Linux samples are
+genuinely different modules.
+
+Summary:
+Custom protocol and config design transfers across platforms. An actor can rewrite the
+implementation from one language to another and still keep the same protocol design — and
+that design is the fingerprint.
+
+
+====================================================================
+THE OVERALL PICTURE
+====================================================================
+
+Across the four layers, three carry a cross-platform signal and one does not:
+
+  - Code/data (Layer A): the embedded data carries; the compiled code does not.
+  - Behaviour (Layer B): carries across platforms — the strongest signal.
+  - Infrastructure (Layer C): does not carry — null at every level but one fragile leak.
+  - Protocol (Layer D): the custom protocol/config design carries.
+
+An actor's cross-platform fingerprint lives in WHAT THEY BUILD and HOW THEY OPERATE —
+the data baked into their tools, the way they behave, and the protocol they design — not
+in the servers they rent. A properly tested null is a valid result, not a failure: it
+shows these actors keep their Windows and Linux infrastructure separate while their
+behaviour and tooling stay the same.
+
+Next steps:
+The Phase-1 next steps — Layers A and D — are now done (above), so all four layers are
+complete. To tie them together we built a simple, interpretable classifier (a logistic
+regression, not deep learning) that reads all four layers at once; it confirms the signal
+lives in embedded data, behaviour and protocol, and it shows that linking an actor's
+DIFFERENT tools still needs the behaviour layer. See LayerFusion_classifier/ for that
+synthesis.

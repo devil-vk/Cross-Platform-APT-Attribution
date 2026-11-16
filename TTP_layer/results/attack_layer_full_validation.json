@@ -1,0 +1,94 @@
+{
+  "angle1_technique_jaccard": {
+    "winnti_apt41": 0.6974,
+    "turla": 0.6471,
+    "lazarus": 0.0857,
+    "sandworm": 0.8043,
+    "apt28": 0.2955,
+    "apt29": 0.4926
+  },
+  "angle2_tactic_jaccard": {
+    "winnti_apt41": 0.9231,
+    "turla": 0.9231,
+    "lazarus": 0.3846,
+    "sandworm": 1.0,
+    "apt28": 0.9231,
+    "apt29": 0.8571
+  },
+  "angle3_permutation_test": {
+    "n_actors": 6,
+    "n_orderings": 720,
+    "observed_mean": 0.5038,
+    "null_mean": 0.3738,
+    "p_value": 0.0014,
+    "per_actor": {
+      "winnti_apt41": 0.6974,
+      "turla": 0.6471,
+      "lazarus": 0.0857,
+      "sandworm": 0.8043,
+      "apt28": 0.2955,
+      "apt29": 0.4926
+    }
+  },
+  "angle4_commodity_excluded_jaccard": {
+    "winnti_apt41": 0.2222,
+    "turla": 0.4576,
+    "lazarus": 0.0857,
+    "sandworm": 0.5304,
+    "apt28": 0.3578,
+    "apt29": 0.2744
+  },
+  "angle4_commodity_software_list": [
+    "Cobalt Strike",
+    "Empire",
+    "Impacket",
+    "Mimikatz",
+    "Net",
+    "PsExec",
+    "certutil"
+  ],
+  "angle5_bootstrap_stability": {
+    "winnti_apt41": {
+      "median": 0.4939,
+      "90pct_interval": [
+        0.4471,
+        0.5422
+      ]
+    },
+    "turla": {
+      "median": 0.4507,
+      "90pct_interval": [
+        0.4,
+        0.5
+      ]
+    },
+    "lazarus": {
+      "median": 0.061,
+      "90pct_interval": [
+        0.044,
+        0.0843
+      ]
+    },
+    "sandworm": {
+      "median": 0.5584,
+      "90pct_interval": [
+        0.509,
+        0.6139
+      ]
+    },
+    "apt28": {
+      "median": 0.2212,
+      "90pct_interval": [
+        0.1802,
+        0.2647
+      ]
+    },
+    "apt29": {
+      "median": 0.3609,
+      "90pct_interval": [
+        0.3195,
+        0.3988
+      ]
+    }
+  }
+}

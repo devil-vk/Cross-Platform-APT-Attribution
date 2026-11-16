@@ -1,0 +1,3714 @@
+{
+ "rows": [
+  {
+   "actor": "Turla",
+   "ioc": "https://www.welivesecurity.com/wp-content/uploads/2018/08/Eset-Turla-Outlook-Backdoor.pdf",
+   "kind": "url",
+   "platform": null,
+   "source": "misp-turla-outlook-event.json",
+   "src_type": "misp"
+  },
+  {
+   "actor": "Turla",
+   "ioc": "arinas.tk",
+   "kind": "domain",
+   "platform": null,
+   "source": "misp-turla-comrat-v4-event.json",
+   "src_type": "misp"
+  },
+  {
+   "actor": "Turla",
+   "ioc": "bedrost.com",
+   "kind": "domain",
+   "platform": null,
+   "source": "misp-turla-comrat-v4-event.json",
+   "src_type": "misp"
+  },
+  {
+   "actor": "Turla",
+   "ioc": "branter.tk",
+   "kind": "domain",
+   "platform": null,
+   "source": "misp-turla-comrat-v4-event.json",
+   "src_type": "misp"
+  },
+  {
+   "actor": "Turla",
+   "ioc": "bronerg.tk",
+   "kind": "domain",
+   "platform": null,
+   "source": "misp-turla-comrat-v4-event.json",
+   "src_type": "misp"
+  },
+  {
+   "actor": "Turla",
+   "ioc": "celestyna.tk",
+   "kind": "domain",
+   "platform": null,
+   "source": "misp-turla-comrat-v4-event.json",
+   "src_type": "misp"
+  },
+  {
+   "actor": "Turla",
+   "ioc": "crusider.tk",
+   "kind": "domain",
+   "platform": null,
+   "source": "misp-turla-comrat-v4-event.json",
+   "src_type": "misp"
+  },
+  {
+   "actor": "Turla",
+   "ioc": "davilta.tk",
+   "kind": "domain",
+   "platform": null,
+   "source": "misp-turla-comrat-v4-event.json",
+   "src_type": "misp"
+  },
+  {
+   "actor": "Turla",
+   "ioc": "deme.ml",
+   "kind": "domain",
+   "platform": null,
+   "source": "misp-turla-comrat-v4-event.json",
+   "src_type": "misp"
+  },
+  {
+   "actor": "Turla",
+   "ioc": "dixito.ml",
+   "kind": "domain",
+   "platform": null,
+   "source": "misp-turla-comrat-v4-event.json",
+   "src_type": "misp"
+  },
+  {
+   "actor": "Turla",
+   "ioc": "duke6.tk",
+   "kind": "domain",
+   "platform": null,
+   "source": "misp-turla-comrat-v4-event.json",
+   "src_type": "misp"
+  },
+  {
+   "actor": "Turla",
+   "ioc": "elizabi.tk",
+   "kind": "domain",
+   "platform": null,
+   "source": "misp-turla-comrat-v4-event.json",
+   "src_type": "misp"
+  },
+  {
+   "actor": "Turla",
+   "ioc": "foods.jkub.com",
+   "kind": "domain",
+   "platform": null,
+   "source": "misp-turla-comrat-v4-event.json",
+   "src_type": "misp"
+  },
+  {
+   "actor": "Turla",
+   "ioc": "hofa.tk",
+   "kind": "domain",
+   "platform": null,
+   "source": "misp-turla-comrat-v4-event.json",
+   "src_type": "misp"
+  },
+  {
+   "actor": "Turla",
+   "ioc": "hunvin.tk",
+   "kind": "domain",
+   "platform": null,
+   "source": "misp-turla-comrat-v4-event.json",
+   "src_type": "misp"
+  },
+  {
+   "actor": "Turla",
+   "ioc": "lakify.ml",
+   "kind": "domain",
+   "platform": null,
+   "source": "misp-turla-comrat-v4-event.json",
+   "src_type": "misp"
+  },
+  {
+   "actor": "Turla",
+   "ioc": "lindaztert.net",
+   "kind": "domain",
+   "platform": null,
+   "source": "misp-turla-comrat-v4-event.json",
+   "src_type": "misp"
+  },
+  {
+   "actor": "Turla",
+   "ioc": "misters.ml",
+   "kind": "domain",
+   "platform": null,
+   "source": "misp-turla-comrat-v4-event.json",
+   "src_type": "misp"
+  },
+  {
+   "actor": "Turla",
+   "ioc": "pewyth.ga",
+   "kind": "domain",
+   "platform": null,
+   "source": "misp-turla-comrat-v4-event.json",
+   "src_type": "misp"
+  },
+  {
+   "actor": "Turla",
+   "ioc": "progress.zyns.com",
+   "kind": "domain",
+   "platform": null,
+   "source": "misp-turla-comrat-v4-event.json",
+   "src_type": "misp"
+  },
+  {
+   "actor": "Turla",
+   "ioc": "sameera.gq",
+   "kind": "domain",
+   "platform": null,
+   "source": "misp-turla-comrat-v4-event.json",
+   "src_type": "misp"
+  },
+  {
+   "actor": "Turla",
+   "ioc": "sanitar.ml",
+   "kind": "domain",
+   "platform": null,
+   "source": "misp-turla-comrat-v4-event.json",
+   "src_type": "misp"
+  },
+  {
+   "actor": "Turla",
+   "ioc": "scrabble.ikwb.com",
+   "kind": "domain",
+   "platform": null,
+   "source": "misp-turla-comrat-v4-event.json",
+   "src_type": "misp"
+  },
+  {
+   "actor": "Turla",
+   "ioc": "sumefu.gq",
+   "kind": "domain",
+   "platform": null,
+   "source": "misp-turla-comrat-v4-event.json",
+   "src_type": "misp"
+  },
+  {
+   "actor": "Turla",
+   "ioc": "umefu.gq",
+   "kind": "domain",
+   "platform": null,
+   "source": "misp-turla-comrat-v4-event.json",
+   "src_type": "misp"
+  },
+  {
+   "actor": "Turla",
+   "ioc": "vefogy.cf",
+   "kind": "domain",
+   "platform": null,
+   "source": "misp-turla-comrat-v4-event.json",
+   "src_type": "misp"
+  },
+  {
+   "actor": "Turla",
+   "ioc": "vylys.com",
+   "kind": "domain",
+   "platform": null,
+   "source": "misp-turla-comrat-v4-event.json",
+   "src_type": "misp"
+  },
+  {
+   "actor": "Turla",
+   "ioc": "wekanda.tk",
+   "kind": "domain",
+   "platform": null,
+   "source": "misp-turla-comrat-v4-event.json",
+   "src_type": "misp"
+  },
+  {
+   "actor": "Turla",
+   "ioc": "hotspot.accesscam.org",
+   "kind": "domain",
+   "platform": null,
+   "source": "misp-turla-crutch-event.json",
+   "src_type": "misp"
+  },
+  {
+   "actor": "Turla",
+   "ioc": "highcolumn.webredirect.org",
+   "kind": "domain",
+   "platform": null,
+   "source": "misp-turla-crutch-event.json",
+   "src_type": "misp"
+  },
+  {
+   "actor": "Turla",
+   "ioc": "ethdns.mywire.org",
+   "kind": "domain",
+   "platform": null,
+   "source": "misp-turla-crutch-event.json",
+   "src_type": "misp"
+  },
+  {
+   "actor": "Turla",
+   "ioc": "theguardian.webredirect.org",
+   "kind": "domain",
+   "platform": null,
+   "source": "misp-turla-crutch-event.json",
+   "src_type": "misp"
+  },
+  {
+   "actor": "Turla",
+   "ioc": "https://raw.githubusercontent.com/ksRD18pro/ksRD18/master/ntk.tmp",
+   "kind": "url",
+   "platform": null,
+   "source": "misp-turla-crutch-event.json",
+   "src_type": "misp"
+  },
+  {
+   "actor": "Turla",
+   "ioc": "http://get.adobe.com/stats/AbfFcBebD/?q=",
+   "kind": "url",
+   "platform": null,
+   "source": "misp-mosquito-event.json",
+   "src_type": "misp"
+  },
+  {
+   "actor": "Turla",
+   "ioc": "http://get.adobe.com/flashplayer/download/update/x32",
+   "kind": "url",
+   "platform": null,
+   "source": "misp-mosquito-event.json",
+   "src_type": "misp"
+  },
+  {
+   "actor": "Turla",
+   "ioc": "http://get.adobe.com/flashplayer/download/update/x64",
+   "kind": "url",
+   "platform": null,
+   "source": "misp-mosquito-event.json",
+   "src_type": "misp"
+  },
+  {
+   "actor": "Turla",
+   "ioc": "smallcloud.ga",
+   "kind": "url",
+   "platform": "windows",
+   "source": "misp-mosquito-event.json",
+   "src_type": "misp"
+  },
+  {
+   "actor": "Turla",
+   "ioc": "fleetwood.tk",
+   "kind": "url",
+   "platform": "windows",
+   "source": "misp-mosquito-event.json",
+   "src_type": "misp"
+  },
+  {
+   "actor": "Turla",
+   "ioc": "adstore.twilightparadox.com",
+   "kind": "url",
+   "platform": "windows",
+   "source": "misp-mosquito-event.json",
+   "src_type": "misp"
+  },
+  {
+   "actor": "Turla",
+   "ioc": "bigpen.ga",
+   "kind": "url",
+   "platform": "windows",
+   "source": "misp-mosquito-event.json",
+   "src_type": "misp"
+  },
+  {
+   "actor": "Turla",
+   "ioc": "https://script.google.com/macros/s/AKfycbxxPPyGP3Z5wgwbsmXDgaNcQ6DCDf63vih-Te_jKf9SMj8TkTie/exec",
+   "kind": "url",
+   "platform": null,
+   "source": "misp-mosquito-event.json",
+   "src_type": "misp"
+  },
+  {
+   "actor": "Turla",
+   "ioc": "https://script.google.com/macros/s/AKfycbwF_VS5wHqlHmi4EQoljEtIsjmglLBO69n_2n_k2KtBqWXLk3w/exec",
+   "kind": "url",
+   "platform": null,
+   "source": "misp-mosquito-event.json",
+   "src_type": "misp"
+  },
+  {
+   "actor": "Turla",
+   "ioc": "ebay-global.publicvm.com",
+   "kind": "url",
+   "platform": "windows",
+   "source": "misp-mosquito-event.json",
+   "src_type": "misp"
+  },
+  {
+   "actor": "Turla",
+   "ioc": "psychology-blog.ezua.com",
+   "kind": "url",
+   "platform": "windows",
+   "source": "misp-mosquito-event.json",
+   "src_type": "misp"
+  },
+  {
+   "actor": "Turla",
+   "ioc": "agony.compress.to",
+   "kind": "url",
+   "platform": "windows",
+   "source": "misp-mosquito-event.json",
+   "src_type": "misp"
+  },
+  {
+   "actor": "Turla",
+   "ioc": "gallop.mefound.com",
+   "kind": "url",
+   "platform": "windows",
+   "source": "misp-mosquito-event.json",
+   "src_type": "misp"
+  },
+  {
+   "actor": "Turla",
+   "ioc": "auberdine.etowns.net",
+   "kind": "url",
+   "platform": "windows",
+   "source": "misp-mosquito-event.json",
+   "src_type": "misp"
+  },
+  {
+   "actor": "Turla",
+   "ioc": "skyrim.3d-game.com",
+   "kind": "url",
+   "platform": "windows",
+   "source": "misp-mosquito-event.json",
+   "src_type": "misp"
+  },
+  {
+   "actor": "Turla",
+   "ioc": "officebuild.4irc.com",
+   "kind": "url",
+   "platform": "windows",
+   "source": "misp-mosquito-event.json",
+   "src_type": "misp"
+  },
+  {
+   "actor": "Turla",
+   "ioc": "sendmessage.mooo.com",
+   "kind": "url",
+   "platform": "windows",
+   "source": "misp-mosquito-event.json",
+   "src_type": "misp"
+  },
+  {
+   "actor": "Turla",
+   "ioc": "robot.wikaba.com",
+   "kind": "url",
+   "platform": "windows",
+   "source": "misp-mosquito-event.json",
+   "src_type": "misp"
+  },
+  {
+   "actor": "Turla",
+   "ioc": "tellmemore.4irc.com",
+   "kind": "url",
+   "platform": "windows",
+   "source": "misp-mosquito-event.json",
+   "src_type": "misp"
+  },
+  {
+   "actor": "Turla",
+   "ioc": "https://drive.google.com/uc?authuser=0&id=0B_LlMiKUOIsteEtraEJYM0QxQVE&export=download",
+   "kind": "url",
+   "platform": null,
+   "source": "misp-mosquito-event.json",
+   "src_type": "misp"
+  },
+  {
+   "actor": "Turla",
+   "ioc": "https://drive.google.com/uc?authuser=0&id=0B_LlMiKUOIstM0RRekVEbnFfaXc&export=download",
+   "kind": "url",
+   "platform": null,
+   "source": "misp-mosquito-event.json",
+   "src_type": "misp"
+  },
+  {
+   "actor": "Turla",
+   "ioc": "http://www.armconsul.ru/user/themes/ayeps/dist/js/bundle.0eb0f2cb2808b4b35a94.js",
+   "kind": "url",
+   "platform": "script",
+   "source": "misp-turla-wateringhole-armenia-event.json",
+   "src_type": "misp"
+  },
+  {
+   "actor": "Turla",
+   "ioc": "http://mnp.nkr.am/wp-includes/js/jquery/jquery-migrate.min.js",
+   "kind": "url",
+   "platform": "script",
+   "source": "misp-turla-wateringhole-armenia-event.json",
+   "src_type": "misp"
+  },
+  {
+   "actor": "Turla",
+   "ioc": "http://aiisa.am/js/chatem/js_rA9bo8_O3Pnw_5wJXExNhtkUMdfBYCifTJctEJ8C_Mg.js",
+   "kind": "url",
+   "platform": "script",
+   "source": "misp-turla-wateringhole-armenia-event.json",
+   "src_type": "misp"
+  },
+  {
+   "actor": "Turla",
+   "ioc": "http://adgf.am",
+   "kind": "url",
+   "platform": null,
+   "source": "misp-turla-wateringhole-armenia-event.json",
+   "src_type": "misp"
+  },
+  {
+   "actor": "Turla",
+   "ioc": "http://skategirlchina.com/wp-includes/data_from_db_top.php",
+   "kind": "url",
+   "platform": null,
+   "source": "misp-turla-wateringhole-armenia-event.json",
+   "src_type": "misp"
+  },
+  {
+   "actor": "Turla",
+   "ioc": "http://skategirlchina.com/wp-includes/ms-locale.php",
+   "kind": "url",
+   "platform": null,
+   "source": "misp-turla-wateringhole-armenia-event.json",
+   "src_type": "misp"
+  },
+  {
+   "actor": "Turla",
+   "ioc": "http://37.59.60.199/2018/.config/adobe",
+   "kind": "url",
+   "platform": null,
+   "source": "misp-turla-wateringhole-armenia-event.json",
+   "src_type": "misp"
+  },
+  {
+   "actor": "Turla",
+   "ioc": "http://134.209.222.206:15363",
+   "kind": "url",
+   "platform": null,
+   "source": "misp-turla-wateringhole-armenia-event.json",
+   "src_type": "misp"
+  },
+  {
+   "actor": "Turla",
+   "ioc": "http://85.222.235.156:8000",
+   "kind": "url",
+   "platform": null,
+   "source": "misp-turla-wateringhole-armenia-event.json",
+   "src_type": "misp"
+  },
+  {
+   "actor": "Turla",
+   "ioc": "https://www.welivesecurity.com/wp-content/uploads/2019/05/ESET-LightNeuron.pdf",
+   "kind": "url",
+   "platform": null,
+   "source": "misp-turla-lightneuron-event.json",
+   "src_type": "misp"
+  },
+  {
+   "actor": "Turla",
+   "ioc": "https://www.welivesecurity.com/2019/05/29/turla-powershell-usage/",
+   "kind": "url",
+   "platform": "windows",
+   "source": "misp-turla-powershell-event.json",
+   "src_type": "misp"
+  },
+  {
+   "actor": "Turla",
+   "ioc": "www.shoppingexpert.it",
+   "kind": "domain",
+   "platform": "windows",
+   "source": "README.adoc",
+   "src_type": "adoc",
+   "in_cc": true
+  },
+  {
+   "actor": "Turla",
+   "ioc": "soheylistore.ir",
+   "kind": "domain",
+   "platform": "windows",
+   "source": "README.adoc",
+   "src_type": "adoc",
+   "in_cc": true
+  },
+  {
+   "actor": "Turla",
+   "ioc": "tazohor.com",
+   "kind": "domain",
+   "platform": "windows",
+   "source": "README.adoc",
+   "src_type": "adoc",
+   "in_cc": true
+  },
+  {
+   "actor": "Turla",
+   "ioc": "jucheafrica.com",
+   "kind": "domain",
+   "platform": "windows",
+   "source": "README.adoc",
+   "src_type": "adoc",
+   "in_cc": true
+  },
+  {
+   "actor": "Turla",
+   "ioc": "61paris.fr",
+   "kind": "domain",
+   "platform": "windows",
+   "source": "README.adoc",
+   "src_type": "adoc",
+   "in_cc": true
+  },
+  {
+   "actor": "Turla",
+   "ioc": "doctorshand.org",
+   "kind": "domain",
+   "platform": "windows",
+   "source": "README.adoc",
+   "src_type": "adoc",
+   "in_cc": true
+  },
+  {
+   "actor": "Turla",
+   "ioc": "www.lasac.eu",
+   "kind": "domain",
+   "platform": "windows",
+   "source": "README.adoc",
+   "src_type": "adoc",
+   "in_cc": true
+  },
+  {
+   "actor": "Turla",
+   "ioc": "daybreakhealthcare.co.uk",
+   "kind": "domain",
+   "platform": "windows",
+   "source": "README.adoc",
+   "src_type": "adoc",
+   "in_cc": true
+  },
+  {
+   "actor": "Turla",
+   "ioc": "simplecreative.design",
+   "kind": "domain",
+   "platform": "windows",
+   "source": "README.adoc",
+   "src_type": "adoc",
+   "in_cc": true
+  },
+  {
+   "actor": "Turla",
+   "ioc": "169.255.137.203",
+   "kind": "ip",
+   "platform": "windows",
+   "source": "README.adoc",
+   "src_type": "adoc",
+   "in_cc": true
+  },
+  {
+   "actor": "Turla",
+   "ioc": "outletpiumini.springwaterfeatures.com",
+   "kind": "domain",
+   "platform": "windows",
+   "source": "README.adoc",
+   "src_type": "adoc",
+   "in_cc": true
+  },
+  {
+   "actor": "Turla",
+   "ioc": "zerogov.com",
+   "kind": "domain",
+   "platform": "windows",
+   "source": "README.adoc",
+   "src_type": "adoc",
+   "in_cc": true
+  },
+  {
+   "actor": "Turla",
+   "ioc": "plugins.deactivate",
+   "kind": "domain",
+   "platform": "windows",
+   "source": "README.adoc",
+   "src_type": "adoc",
+   "in_cc": true
+  },
+  {
+   "actor": "Turla",
+   "ioc": "ales.ball-mill.es",
+   "kind": "domain",
+   "platform": "windows",
+   "source": "README.adoc",
+   "src_type": "adoc",
+   "in_cc": true
+  },
+  {
+   "actor": "Turla",
+   "ioc": "dyskurs.com.ua",
+   "kind": "domain",
+   "platform": "windows",
+   "source": "README.adoc",
+   "src_type": "adoc",
+   "in_cc": true
+  },
+  {
+   "actor": "Turla",
+   "ioc": "warrixmalaysia.com.my",
+   "kind": "domain",
+   "platform": "windows",
+   "source": "README.adoc",
+   "src_type": "adoc",
+   "in_cc": true
+  },
+  {
+   "actor": "Turla",
+   "ioc": "217.171.86.137",
+   "kind": "ip",
+   "platform": "windows",
+   "source": "README.adoc",
+   "src_type": "adoc",
+   "in_cc": true
+  },
+  {
+   "actor": "Turla",
+   "ioc": "shinestars-lifestyle.com",
+   "kind": "domain",
+   "platform": "windows",
+   "source": "README.adoc",
+   "src_type": "adoc",
+   "in_cc": true
+  },
+  {
+   "actor": "Turla",
+   "ioc": "www.aviasiya.com",
+   "kind": "domain",
+   "platform": "windows",
+   "source": "README.adoc",
+   "src_type": "adoc",
+   "in_cc": true
+  },
+  {
+   "actor": "Turla",
+   "ioc": "murad.by",
+   "kind": "domain",
+   "platform": "windows",
+   "source": "README.adoc",
+   "src_type": "adoc",
+   "in_cc": true
+  },
+  {
+   "actor": "Turla",
+   "ioc": "baby.greenweb.co.il",
+   "kind": "domain",
+   "platform": "windows",
+   "source": "README.adoc",
+   "src_type": "adoc",
+   "in_cc": true
+  },
+  {
+   "actor": "Turla",
+   "ioc": "soligro.com",
+   "kind": "domain",
+   "platform": "windows",
+   "source": "README.adoc",
+   "src_type": "adoc",
+   "in_cc": true
+  },
+  {
+   "actor": "Turla",
+   "ioc": "giadinhvabe.net",
+   "kind": "domain",
+   "platform": "windows",
+   "source": "README.adoc",
+   "src_type": "adoc",
+   "in_cc": true
+  },
+  {
+   "actor": "Turla",
+   "ioc": "tekfordummies.com",
+   "kind": "domain",
+   "platform": "windows",
+   "source": "README.adoc",
+   "src_type": "adoc",
+   "in_cc": true
+  },
+  {
+   "actor": "Turla",
+   "ioc": "kennynguyen.esy.es",
+   "kind": "domain",
+   "platform": "windows",
+   "source": "README.adoc",
+   "src_type": "adoc",
+   "in_cc": true
+  },
+  {
+   "actor": "Turla",
+   "ioc": "sonneteck.com",
+   "kind": "domain",
+   "platform": "windows",
+   "source": "README.adoc",
+   "src_type": "adoc",
+   "in_cc": true
+  },
+  {
+   "actor": "Turla",
+   "ioc": "chagiocaxuanson.esy.es",
+   "kind": "domain",
+   "platform": "windows",
+   "source": "README.adoc",
+   "src_type": "adoc",
+   "in_cc": true
+  },
+  {
+   "actor": "Turla",
+   "ioc": "hotnews.16mb.com",
+   "kind": "domain",
+   "platform": "windows",
+   "source": "README.adoc",
+   "src_type": "adoc",
+   "in_cc": true
+  },
+  {
+   "actor": "Turla",
+   "ioc": "zszinhyosz.pe.hu",
+   "kind": "domain",
+   "platform": "windows",
+   "source": "README.adoc",
+   "src_type": "adoc",
+   "in_cc": true
+  },
+  {
+   "actor": "Turla",
+   "ioc": "weandcats.com",
+   "kind": "domain",
+   "platform": "windows",
+   "source": "README.adoc",
+   "src_type": "adoc",
+   "in_cc": true
+  },
+  {
+   "actor": "Turla",
+   "ioc": "foods.jkub",
+   "kind": "domain",
+   "platform": "windows",
+   "source": "README.adoc",
+   "src_type": "adoc",
+   "in_cc": true
+  },
+  {
+   "actor": "Turla",
+   "ioc": "progress.zyns",
+   "kind": "domain",
+   "platform": "windows",
+   "source": "README.adoc",
+   "src_type": "adoc",
+   "in_cc": true
+  },
+  {
+   "actor": "Turla",
+   "ioc": "scrabble.ikwb",
+   "kind": "domain",
+   "platform": "windows",
+   "source": "README.adoc",
+   "src_type": "adoc",
+   "in_cc": true
+  },
+  {
+   "actor": "Turla",
+   "ioc": "hotspot.accesscam",
+   "kind": "domain",
+   "platform": "windows",
+   "source": "README.adoc",
+   "src_type": "adoc",
+   "in_cc": true
+  },
+  {
+   "actor": "Turla",
+   "ioc": "highcolumn.webredirect",
+   "kind": "domain",
+   "platform": "windows",
+   "source": "README.adoc",
+   "src_type": "adoc",
+   "in_cc": true
+  },
+  {
+   "actor": "Turla",
+   "ioc": "ethdns.mywire",
+   "kind": "domain",
+   "platform": "windows",
+   "source": "README.adoc",
+   "src_type": "adoc",
+   "in_cc": true
+  },
+  {
+   "actor": "Turla",
+   "ioc": "theguardian.webredirect",
+   "kind": "domain",
+   "platform": "windows",
+   "source": "README.adoc",
+   "src_type": "adoc",
+   "in_cc": true
+  },
+  {
+   "actor": "Turla",
+   "ioc": "raw.githubusercontent",
+   "kind": "domain",
+   "platform": "windows",
+   "source": "README.adoc",
+   "src_type": "adoc",
+   "in_cc": true
+  },
+  {
+   "actor": "Turla",
+   "ioc": "ntk.tmp",
+   "kind": "domain",
+   "platform": "windows",
+   "source": "README.adoc",
+   "src_type": "adoc",
+   "in_cc": true
+  },
+  {
+   "actor": "Turla",
+   "ioc": "thedarktower.av.master.dns",
+   "kind": "domain",
+   "platform": "windows",
+   "source": "README.adoc",
+   "src_type": "adoc",
+   "in_cc": true
+  },
+  {
+   "actor": "Turla",
+   "ioc": "lucky-king-96d6.mopig92456.workers.dev",
+   "kind": "domain",
+   "platform": "windows",
+   "source": "README.adoc",
+   "src_type": "adoc",
+   "in_cc": true
+  },
+  {
+   "actor": "Turla",
+   "ioc": "eset.ydns.eu",
+   "kind": "domain",
+   "platform": "windows",
+   "source": "README.adoc",
+   "src_type": "adoc",
+   "in_cc": true
+  },
+  {
+   "actor": "Turla",
+   "ioc": "ekrn.ydns.eu",
+   "kind": "domain",
+   "platform": "windows",
+   "source": "README.adoc",
+   "src_type": "adoc",
+   "in_cc": true
+  },
+  {
+   "actor": "Turla",
+   "ioc": "hauptschule-schwalbenstrasse.de",
+   "kind": "domain",
+   "platform": "windows",
+   "source": "README.adoc",
+   "src_type": "adoc",
+   "in_cc": true
+  },
+  {
+   "actor": "Turla",
+   "ioc": "fjsconsultoria.com",
+   "kind": "domain",
+   "platform": "windows",
+   "source": "README.adoc",
+   "src_type": "adoc",
+   "in_cc": true
+  },
+  {
+   "actor": "Turla",
+   "ioc": "ingas.rs",
+   "kind": "domain",
+   "platform": "windows",
+   "source": "README.adoc",
+   "src_type": "adoc",
+   "in_cc": true
+  },
+  {
+   "actor": "Turla",
+   "ioc": "abrargeospatial.ir",
+   "kind": "domain",
+   "platform": "windows",
+   "source": "README.adoc",
+   "src_type": "adoc",
+   "in_cc": true
+  },
+  {
+   "actor": "Turla",
+   "ioc": "www.brannenburger-nagelfluh.de",
+   "kind": "domain",
+   "platform": "windows",
+   "source": "README.adoc",
+   "src_type": "adoc",
+   "in_cc": true
+  },
+  {
+   "actor": "Turla",
+   "ioc": "www.pizzeria-mercy.de",
+   "kind": "domain",
+   "platform": "windows",
+   "source": "README.adoc",
+   "src_type": "adoc",
+   "in_cc": true
+  },
+  {
+   "actor": "Sandworm",
+   "ioc": "srv70.putdrive.com",
+   "kind": "domain",
+   "platform": null,
+   "source": "misp-telebots.json",
+   "src_type": "misp"
+  },
+  {
+   "actor": "Sandworm",
+   "ioc": "api.telegram.org",
+   "kind": "domain",
+   "platform": null,
+   "source": "misp-telebots.json",
+   "src_type": "misp"
+  },
+  {
+   "actor": "Sandworm",
+   "ioc": "smtp-mail.outlook.com",
+   "kind": "domain",
+   "platform": null,
+   "source": "misp-telebots.json",
+   "src_type": "misp"
+  },
+  {
+   "actor": "Sandworm",
+   "ioc": "188.165.14.185",
+   "kind": "ip",
+   "platform": null,
+   "source": "misp-telebots.json",
+   "src_type": "misp"
+  },
+  {
+   "actor": "Sandworm",
+   "ioc": "149.154.167.200",
+   "kind": "ip",
+   "platform": null,
+   "source": "misp-telebots.json",
+   "src_type": "misp"
+  },
+  {
+   "actor": "Sandworm",
+   "ioc": "149.154.167.197",
+   "kind": "ip",
+   "platform": null,
+   "source": "misp-telebots.json",
+   "src_type": "misp"
+  },
+  {
+   "actor": "Sandworm",
+   "ioc": "149.154.167.198",
+   "kind": "ip",
+   "platform": null,
+   "source": "misp-telebots.json",
+   "src_type": "misp"
+  },
+  {
+   "actor": "Sandworm",
+   "ioc": "149.154.167.199",
+   "kind": "ip",
+   "platform": null,
+   "source": "misp-telebots.json",
+   "src_type": "misp"
+  },
+  {
+   "actor": "Sandworm",
+   "ioc": "65.55.176.126",
+   "kind": "ip",
+   "platform": null,
+   "source": "misp-telebots.json",
+   "src_type": "misp"
+  },
+  {
+   "actor": "Sandworm",
+   "ioc": "93.190.137.212",
+   "kind": "ip",
+   "platform": null,
+   "source": "misp-telebots.json",
+   "src_type": "misp"
+  },
+  {
+   "actor": "Sandworm",
+   "ioc": "95.141.37.3",
+   "kind": "ip",
+   "platform": null,
+   "source": "misp-telebots.json",
+   "src_type": "misp"
+  },
+  {
+   "actor": "Sandworm",
+   "ioc": "80.233.134.147",
+   "kind": "ip",
+   "platform": null,
+   "source": "misp-telebots.json",
+   "src_type": "misp"
+  },
+  {
+   "actor": "Sandworm",
+   "ioc": "195.16.88.6",
+   "kind": "ip",
+   "platform": "windows",
+   "source": "README.adoc",
+   "src_type": "adoc",
+   "in_cc": true
+  },
+  {
+   "actor": "Sandworm",
+   "ioc": "46.28.200.132",
+   "kind": "ip",
+   "platform": "windows",
+   "source": "README.adoc",
+   "src_type": "adoc",
+   "in_cc": true
+  },
+  {
+   "actor": "Sandworm",
+   "ioc": "188.42.253.43",
+   "kind": "ip",
+   "platform": "windows",
+   "source": "README.adoc",
+   "src_type": "adoc",
+   "in_cc": true
+  },
+  {
+   "actor": "Sandworm",
+   "ioc": "5.39.218.152",
+   "kind": "ip",
+   "platform": "windows",
+   "source": "README.adoc",
+   "src_type": "adoc",
+   "in_cc": true
+  },
+  {
+   "actor": "Sandworm",
+   "ioc": "93.115.27.57",
+   "kind": "ip",
+   "platform": "windows",
+   "source": "README.adoc",
+   "src_type": "adoc",
+   "in_cc": true
+  },
+  {
+   "actor": "Lazarus",
+   "ioc": "38.108.185.115",
+   "kind": "ip",
+   "platform": null,
+   "source": "lazarus_3cx.json",
+   "src_type": "misp"
+  },
+  {
+   "actor": "Lazarus",
+   "ioc": "od.lk",
+   "kind": "domain",
+   "platform": null,
+   "source": "lazarus_3cx.json",
+   "src_type": "misp"
+  },
+  {
+   "actor": "Lazarus",
+   "ioc": "https://od.lk/d/NTJfMzg4MDE1NzJf/vxmedia",
+   "kind": "url",
+   "platform": null,
+   "source": "lazarus_3cx.json",
+   "src_type": "misp"
+  },
+  {
+   "actor": "Lazarus",
+   "ioc": "172.93.201.88",
+   "kind": "ip",
+   "platform": null,
+   "source": "lazarus_3cx.json",
+   "src_type": "misp"
+  },
+  {
+   "actor": "Lazarus",
+   "ioc": "journalide.org",
+   "kind": "domain",
+   "platform": null,
+   "source": "lazarus_3cx.json",
+   "src_type": "misp"
+  },
+  {
+   "actor": "Lazarus",
+   "ioc": "https://journalide.org/djour.php",
+   "kind": "url",
+   "platform": null,
+   "source": "lazarus_3cx.json",
+   "src_type": "misp"
+  },
+  {
+   "actor": "Lazarus",
+   "ioc": "23.254.211.230",
+   "kind": "ip",
+   "platform": null,
+   "source": "lazarus_3cx.json",
+   "src_type": "misp"
+  },
+  {
+   "actor": "Lazarus",
+   "ioc": "tcp://23.254.211.230",
+   "kind": "url",
+   "platform": null,
+   "source": "lazarus_3cx.json",
+   "src_type": "misp"
+  },
+  {
+   "actor": "Lazarus",
+   "ioc": "23.111.133.162",
+   "kind": "ip",
+   "platform": "windows",
+   "source": "README.adoc",
+   "src_type": "adoc",
+   "in_cc": true
+  },
+  {
+   "actor": "Lazarus",
+   "ioc": "coralsunmarine.com",
+   "kind": "domain",
+   "platform": "windows",
+   "source": "README.adoc",
+   "src_type": "adoc",
+   "in_cc": true
+  },
+  {
+   "actor": "Lazarus",
+   "ioc": "104.21.80.1",
+   "kind": "ip",
+   "platform": "windows",
+   "source": "README.adoc",
+   "src_type": "adoc",
+   "in_cc": true
+  },
+  {
+   "actor": "Lazarus",
+   "ioc": "kazitradebd.com",
+   "kind": "domain",
+   "platform": "windows",
+   "source": "README.adoc",
+   "src_type": "adoc",
+   "in_cc": true
+  },
+  {
+   "actor": "Lazarus",
+   "ioc": "70.32.24.131",
+   "kind": "ip",
+   "platform": "windows",
+   "source": "README.adoc",
+   "src_type": "adoc",
+   "in_cc": true
+  },
+  {
+   "actor": "Lazarus",
+   "ioc": "oldlinewoodwork.com",
+   "kind": "domain",
+   "platform": "windows",
+   "source": "README.adoc",
+   "src_type": "adoc",
+   "in_cc": true
+  },
+  {
+   "actor": "Lazarus",
+   "ioc": "185.148.129.24",
+   "kind": "ip",
+   "platform": "windows",
+   "source": "README.adoc",
+   "src_type": "adoc",
+   "in_cc": true
+  },
+  {
+   "actor": "Lazarus",
+   "ioc": "www.mnmathleague.org",
+   "kind": "domain",
+   "platform": "windows",
+   "source": "README.adoc",
+   "src_type": "adoc",
+   "in_cc": true
+  },
+  {
+   "actor": "Lazarus",
+   "ioc": "66.29.144.75",
+   "kind": "ip",
+   "platform": "script",
+   "source": "README.adoc",
+   "src_type": "adoc",
+   "in_cc": true
+  },
+  {
+   "actor": "Lazarus",
+   "ioc": "pierregems.com",
+   "kind": "domain",
+   "platform": "script",
+   "source": "README.adoc",
+   "src_type": "adoc",
+   "in_cc": true
+  },
+  {
+   "actor": "Lazarus",
+   "ioc": "108.181.92.71",
+   "kind": "ip",
+   "platform": "script",
+   "source": "README.adoc",
+   "src_type": "adoc",
+   "in_cc": true
+  },
+  {
+   "actor": "Lazarus",
+   "ioc": "www.scgestor.com.br",
+   "kind": "domain",
+   "platform": "script",
+   "source": "README.adoc",
+   "src_type": "adoc",
+   "in_cc": true
+  },
+  {
+   "actor": "Lazarus",
+   "ioc": "104.247.162.67",
+   "kind": "ip",
+   "platform": "script",
+   "source": "README.adoc",
+   "src_type": "adoc",
+   "in_cc": true
+  },
+  {
+   "actor": "Lazarus",
+   "ioc": "galaterrace.com",
+   "kind": "domain",
+   "platform": "script",
+   "source": "README.adoc",
+   "src_type": "adoc",
+   "in_cc": true
+  },
+  {
+   "actor": "Lazarus",
+   "ioc": "193.39.187.165",
+   "kind": "ip",
+   "platform": "script",
+   "source": "README.adoc",
+   "src_type": "adoc",
+   "in_cc": true
+  },
+  {
+   "actor": "Lazarus",
+   "ioc": "ecudecode.mx",
+   "kind": "domain",
+   "platform": "script",
+   "source": "README.adoc",
+   "src_type": "adoc",
+   "in_cc": true
+  },
+  {
+   "actor": "Lazarus",
+   "ioc": "172.67.193.139",
+   "kind": "ip",
+   "platform": "script",
+   "source": "README.adoc",
+   "src_type": "adoc",
+   "in_cc": true
+  },
+  {
+   "actor": "Lazarus",
+   "ioc": "www.anvil.org.ph",
+   "kind": "domain",
+   "platform": "script",
+   "source": "README.adoc",
+   "src_type": "adoc",
+   "in_cc": true
+  },
+  {
+   "actor": "Lazarus",
+   "ioc": "77.55.252.111",
+   "kind": "ip",
+   "platform": "script",
+   "source": "README.adoc",
+   "src_type": "adoc",
+   "in_cc": true
+  },
+  {
+   "actor": "Lazarus",
+   "ioc": "partnerls.pl",
+   "kind": "domain",
+   "platform": "script",
+   "source": "README.adoc",
+   "src_type": "adoc",
+   "in_cc": true
+  },
+  {
+   "actor": "Lazarus",
+   "ioc": "nazwa.pl",
+   "kind": "domain",
+   "platform": "script",
+   "source": "README.adoc",
+   "src_type": "adoc",
+   "in_cc": true
+  },
+  {
+   "actor": "Lazarus",
+   "ioc": "45.148.29.122",
+   "kind": "ip",
+   "platform": "script",
+   "source": "README.adoc",
+   "src_type": "adoc",
+   "in_cc": true
+  },
+  {
+   "actor": "Lazarus",
+   "ioc": "trainingpharmacist.co.uk",
+   "kind": "domain",
+   "platform": "script",
+   "source": "README.adoc",
+   "src_type": "adoc",
+   "in_cc": true
+  },
+  {
+   "actor": "Lazarus",
+   "ioc": "webdock.io",
+   "kind": "domain",
+   "platform": "script",
+   "source": "README.adoc",
+   "src_type": "adoc",
+   "in_cc": true
+  },
+  {
+   "actor": "Lazarus",
+   "ioc": "75.102.23.3",
+   "kind": "ip",
+   "platform": "script",
+   "source": "README.adoc",
+   "src_type": "adoc",
+   "in_cc": true
+  },
+  {
+   "actor": "Lazarus",
+   "ioc": "mediostresbarbas.com.ar",
+   "kind": "domain",
+   "platform": "script",
+   "source": "README.adoc",
+   "src_type": "adoc",
+   "in_cc": true
+  },
+  {
+   "actor": "Lazarus",
+   "ioc": "deft.com",
+   "kind": "domain",
+   "platform": "script",
+   "source": "README.adoc",
+   "src_type": "adoc",
+   "in_cc": true
+  },
+  {
+   "actor": "Lazarus",
+   "ioc": "152.42.239.211",
+   "kind": "ip",
+   "platform": "script",
+   "source": "README.adoc",
+   "src_type": "adoc",
+   "in_cc": true
+  },
+  {
+   "actor": "Lazarus",
+   "ioc": "www.bandarpowder.com",
+   "kind": "domain",
+   "platform": "script",
+   "source": "README.adoc",
+   "src_type": "adoc",
+   "in_cc": true
+  },
+  {
+   "actor": "Lazarus",
+   "ioc": "95.217.119.214",
+   "kind": "ip",
+   "platform": "script",
+   "source": "README.adoc",
+   "src_type": "adoc",
+   "in_cc": true
+  },
+  {
+   "actor": "Lazarus",
+   "ioc": "spaincaramoon.com",
+   "kind": "domain",
+   "platform": "script",
+   "source": "README.adoc",
+   "src_type": "adoc",
+   "in_cc": true
+  },
+  {
+   "actor": "Lazarus",
+   "ioc": "70.32.30.201",
+   "kind": "ip",
+   "platform": "script",
+   "source": "README.adoc",
+   "src_type": "adoc",
+   "in_cc": true
+  },
+  {
+   "actor": "Lazarus",
+   "ioc": "www.scoringmnmathleague.org",
+   "kind": "domain",
+   "platform": "script",
+   "source": "README.adoc",
+   "src_type": "adoc",
+   "in_cc": true
+  },
+  {
+   "actor": "Lazarus",
+   "ioc": "190.92.134.62",
+   "kind": "ip",
+   "platform": "script",
+   "source": "README.adoc",
+   "src_type": "adoc",
+   "in_cc": true
+  },
+  {
+   "actor": "Lazarus",
+   "ioc": "coolproyect.es",
+   "kind": "domain",
+   "platform": "script",
+   "source": "README.adoc",
+   "src_type": "adoc",
+   "in_cc": true
+  },
+  {
+   "actor": "Lazarus",
+   "ioc": "93.104.215.19",
+   "kind": "ip",
+   "platform": "script",
+   "source": "README.adoc",
+   "src_type": "adoc",
+   "in_cc": true
+  },
+  {
+   "actor": "Lazarus",
+   "ioc": "backlinkbase.com",
+   "kind": "domain",
+   "platform": "script",
+   "source": "README.adoc",
+   "src_type": "adoc",
+   "in_cc": true
+  },
+  {
+   "actor": "Lazarus",
+   "ioc": "bug.restoroad",
+   "kind": "domain",
+   "platform": "windows",
+   "source": "README.adoc",
+   "src_type": "adoc",
+   "in_cc": true
+  },
+  {
+   "actor": "Lazarus",
+   "ioc": "mantis.quick.net",
+   "kind": "domain",
+   "platform": "windows",
+   "source": "README.adoc",
+   "src_type": "adoc",
+   "in_cc": true
+  },
+  {
+   "actor": "Lazarus",
+   "ioc": "www.radiographers",
+   "kind": "domain",
+   "platform": "windows",
+   "source": "README.adoc",
+   "src_type": "adoc",
+   "in_cc": true
+  },
+  {
+   "actor": "Lazarus",
+   "ioc": "kapata-arkeologi.kemdikbud.go",
+   "kind": "domain",
+   "platform": "windows",
+   "source": "README.adoc",
+   "src_type": "adoc",
+   "in_cc": true
+  },
+  {
+   "actor": "Lazarus",
+   "ioc": "barsaji.com",
+   "kind": "domain",
+   "platform": "windows",
+   "source": "README.adoc",
+   "src_type": "adoc",
+   "in_cc": true
+  },
+  {
+   "actor": "Lazarus",
+   "ioc": "godaddy.com",
+   "kind": "domain",
+   "platform": "windows",
+   "source": "README.adoc",
+   "src_type": "adoc",
+   "in_cc": true
+  },
+  {
+   "actor": "Lazarus",
+   "ioc": "www.keewoom.co",
+   "kind": "domain",
+   "platform": "windows",
+   "source": "README.adoc",
+   "src_type": "adoc",
+   "in_cc": true
+  },
+  {
+   "actor": "Lazarus",
+   "ioc": "kerstpakketten.horesca",
+   "kind": "domain",
+   "platform": "windows",
+   "source": "README.adoc",
+   "src_type": "adoc",
+   "in_cc": true
+  },
+  {
+   "actor": "Lazarus",
+   "ioc": "www.stracarrara",
+   "kind": "domain",
+   "platform": "windows",
+   "source": "README.adoc",
+   "src_type": "adoc",
+   "in_cc": true
+  },
+  {
+   "actor": "Lazarus",
+   "ioc": "img.asp",
+   "kind": "domain",
+   "platform": "windows",
+   "source": "README.adoc",
+   "src_type": "adoc",
+   "in_cc": true
+  },
+  {
+   "actor": "Lazarus",
+   "ioc": "www.ikrea.or",
+   "kind": "domain",
+   "platform": "windows",
+   "source": "README.adoc",
+   "src_type": "adoc",
+   "in_cc": true
+  },
+  {
+   "actor": "Lazarus",
+   "ioc": "www.fored.or",
+   "kind": "domain",
+   "platform": "windows",
+   "source": "README.adoc",
+   "src_type": "adoc",
+   "in_cc": true
+  },
+  {
+   "actor": "Lazarus",
+   "ioc": "www.zndance",
+   "kind": "domain",
+   "platform": "windows",
+   "source": "README.adoc",
+   "src_type": "adoc",
+   "in_cc": true
+  },
+  {
+   "actor": "Lazarus",
+   "ioc": "post.asp",
+   "kind": "domain",
+   "platform": "windows",
+   "source": "README.adoc",
+   "src_type": "adoc",
+   "in_cc": true
+  },
+  {
+   "actor": "Lazarus",
+   "ioc": "www.cowp.or",
+   "kind": "domain",
+   "platform": "windows",
+   "source": "README.adoc",
+   "src_type": "adoc",
+   "in_cc": true
+  },
+  {
+   "actor": "Lazarus",
+   "ioc": "main.asp",
+   "kind": "domain",
+   "platform": "windows",
+   "source": "README.adoc",
+   "src_type": "adoc",
+   "in_cc": true
+  },
+  {
+   "actor": "Lazarus",
+   "ioc": "www.style1.co",
+   "kind": "domain",
+   "platform": "windows",
+   "source": "README.adoc",
+   "src_type": "adoc",
+   "in_cc": true
+  },
+  {
+   "actor": "Lazarus",
+   "ioc": "view.asp",
+   "kind": "domain",
+   "platform": "windows",
+   "source": "README.adoc",
+   "src_type": "adoc",
+   "in_cc": true
+  },
+  {
+   "actor": "Lazarus",
+   "ioc": "www.erpmas.co",
+   "kind": "domain",
+   "platform": "windows",
+   "source": "README.adoc",
+   "src_type": "adoc",
+   "in_cc": true
+  },
+  {
+   "actor": "Lazarus",
+   "ioc": "www.wowpress.co",
+   "kind": "domain",
+   "platform": "windows",
+   "source": "README.adoc",
+   "src_type": "adoc",
+   "in_cc": true
+  },
+  {
+   "actor": "Lazarus",
+   "ioc": "www.quecue",
+   "kind": "domain",
+   "platform": "windows",
+   "source": "README.adoc",
+   "src_type": "adoc",
+   "in_cc": true
+  },
+  {
+   "actor": "Lazarus",
+   "ioc": "www.pcdesk.co",
+   "kind": "domain",
+   "platform": "windows",
+   "source": "README.adoc",
+   "src_type": "adoc",
+   "in_cc": true
+  },
+  {
+   "actor": "Lazarus",
+   "ioc": "www.gongsinet",
+   "kind": "domain",
+   "platform": "windows",
+   "source": "README.adoc",
+   "src_type": "adoc",
+   "in_cc": true
+  },
+  {
+   "actor": "Lazarus",
+   "ioc": "www.goojoo",
+   "kind": "domain",
+   "platform": "windows",
+   "source": "README.adoc",
+   "src_type": "adoc",
+   "in_cc": true
+  },
+  {
+   "actor": "Lazarus",
+   "ioc": "banner01.asp",
+   "kind": "domain",
+   "platform": "windows",
+   "source": "README.adoc",
+   "src_type": "adoc",
+   "in_cc": true
+  },
+  {
+   "actor": "Lazarus",
+   "ioc": "www.pgak",
+   "kind": "domain",
+   "platform": "windows",
+   "source": "README.adoc",
+   "src_type": "adoc",
+   "in_cc": true
+  },
+  {
+   "actor": "Lazarus",
+   "ioc": "release.asp",
+   "kind": "domain",
+   "platform": "windows",
+   "source": "README.adoc",
+   "src_type": "adoc",
+   "in_cc": true
+  },
+  {
+   "actor": "Lazarus",
+   "ioc": "www.gncaf.or",
+   "kind": "domain",
+   "platform": "windows",
+   "source": "README.adoc",
+   "src_type": "adoc",
+   "in_cc": true
+  },
+  {
+   "actor": "Lazarus",
+   "ioc": "www.hsbutton.co",
+   "kind": "domain",
+   "platform": "windows",
+   "source": "README.adoc",
+   "src_type": "adoc",
+   "in_cc": true
+  },
+  {
+   "actor": "Lazarus",
+   "ioc": "www.hstudymall.co",
+   "kind": "domain",
+   "platform": "windows",
+   "source": "README.adoc",
+   "src_type": "adoc",
+   "in_cc": true
+  },
+  {
+   "actor": "Lazarus",
+   "ioc": "bottom.asp",
+   "kind": "domain",
+   "platform": "windows",
+   "source": "README.adoc",
+   "src_type": "adoc",
+   "in_cc": true
+  },
+  {
+   "actor": "Lazarus",
+   "ioc": "199.188.200.147",
+   "kind": "ip",
+   "platform": "windows",
+   "source": "README.adoc",
+   "src_type": "adoc",
+   "in_cc": true
+  },
+  {
+   "actor": "Lazarus",
+   "ioc": "driverservices.store",
+   "kind": "domain",
+   "platform": "windows",
+   "source": "README.adoc",
+   "src_type": "adoc",
+   "in_cc": true
+  },
+  {
+   "actor": "Lazarus",
+   "ioc": "103.231.75.101",
+   "kind": "ip",
+   "platform": "windows",
+   "source": "README.adoc",
+   "src_type": "adoc",
+   "in_cc": true
+  },
+  {
+   "actor": "Lazarus",
+   "ioc": "45.159.248.110",
+   "kind": "ip",
+   "platform": "windows",
+   "source": "README.adoc",
+   "src_type": "adoc",
+   "in_cc": true
+  },
+  {
+   "actor": "Lazarus",
+   "ioc": "45.8.146.93",
+   "kind": "ip",
+   "platform": "windows",
+   "source": "README.adoc",
+   "src_type": "adoc",
+   "in_cc": true
+  },
+  {
+   "actor": "Lazarus",
+   "ioc": "86.104.72.247",
+   "kind": "ip",
+   "platform": "windows",
+   "source": "README.adoc",
+   "src_type": "adoc",
+   "in_cc": true
+  },
+  {
+   "actor": "Lazarus",
+   "ioc": "103.35.190.170",
+   "kind": "ip",
+   "platform": "windows",
+   "source": "README.adoc",
+   "src_type": "adoc",
+   "in_cc": true
+  },
+  {
+   "actor": "Lazarus",
+   "ioc": "n34kr3z26f3jzp4ckmwuv5ipqyatumdxhgjgsmucc65jac56khdy5zqd.onion",
+   "kind": "domain",
+   "platform": "windows",
+   "source": "README.adoc",
+   "src_type": "adoc",
+   "in_cc": true
+  },
+  {
+   "actor": "Lazarus",
+   "ioc": "116.125.126.38",
+   "kind": "ip",
+   "platform": "windows",
+   "source": "README.adoc",
+   "src_type": "adoc",
+   "in_cc": true
+  },
+  {
+   "actor": "Lazarus",
+   "ioc": "www.royalsevres.com",
+   "kind": "domain",
+   "platform": "windows",
+   "source": "README.adoc",
+   "src_type": "adoc",
+   "in_cc": true
+  },
+  {
+   "actor": "Winnti_APT41",
+   "ioc": "https://bugcheck.xigncodeservice.com/Common/Lib/Common_bsod.php",
+   "kind": "url",
+   "platform": null,
+   "source": "gaming_supply_chain.misp_event.json",
+   "src_type": "misp"
+  },
+  {
+   "actor": "Winnti_APT41",
+   "ioc": "https://bugcheck.xigncodeservice.com/Common/Lib/Common_Include.php",
+   "kind": "url",
+   "platform": null,
+   "source": "gaming_supply_chain.misp_event.json",
+   "src_type": "misp"
+  },
+  {
+   "actor": "Winnti_APT41",
+   "ioc": "https://bugcheck.xigncodeservice.com/Common/Lib/common.php",
+   "kind": "url",
+   "platform": null,
+   "source": "gaming_supply_chain.misp_event.json",
+   "src_type": "misp"
+  },
+  {
+   "actor": "Winnti_APT41",
+   "ioc": "https://nw.infestexe.com/version/last.php",
+   "kind": "url",
+   "platform": null,
+   "source": "gaming_supply_chain.misp_event.json",
+   "src_type": "misp"
+  },
+  {
+   "actor": "Winnti_APT41",
+   "ioc": "https://dump.gxxservice.com/common/up/up_base.php",
+   "kind": "url",
+   "platform": null,
+   "source": "gaming_supply_chain.misp_event.json",
+   "src_type": "misp"
+  },
+  {
+   "actor": "Winnti_APT41",
+   "ioc": "checkin.travelsanignacio.com",
+   "kind": "domain",
+   "platform": null,
+   "source": "gaming_supply_chain.misp_event.json",
+   "src_type": "misp"
+  },
+  {
+   "actor": "Winnti_APT41",
+   "ioc": "api.goallbandungtravel.com",
+   "kind": "domain",
+   "platform": null,
+   "source": "gaming_supply_chain.misp_event.json",
+   "src_type": "misp"
+  },
+  {
+   "actor": "Winnti_APT41",
+   "ioc": "154.223.131.237",
+   "kind": "ip",
+   "platform": "windows",
+   "source": "README.adoc",
+   "src_type": "adoc",
+   "in_cc": false
+  },
+  {
+   "actor": "Winnti_APT41",
+   "ioc": "117.16.142.9",
+   "kind": "ip",
+   "platform": "windows",
+   "source": "README.adoc",
+   "src_type": "adoc",
+   "in_cc": false
+  },
+  {
+   "actor": "Winnti_APT41",
+   "ioc": "103.19.3.109",
+   "kind": "ip",
+   "platform": "windows",
+   "source": "README.adoc",
+   "src_type": "adoc",
+   "in_cc": false
+  },
+  {
+   "actor": "Winnti_APT41",
+   "ioc": "110.45.146.253",
+   "kind": "ip",
+   "platform": "windows",
+   "source": "README.adoc",
+   "src_type": "adoc",
+   "in_cc": false
+  },
+  {
+   "actor": "Winnti_APT41",
+   "ioc": "117.16.142.69",
+   "kind": "ip",
+   "platform": "windows",
+   "source": "README.adoc",
+   "src_type": "adoc",
+   "in_cc": false
+  },
+  {
+   "actor": "Winnti_APT41",
+   "ioc": "122.10.117.206",
+   "kind": "ip",
+   "platform": "windows",
+   "source": "README.adoc",
+   "src_type": "adoc",
+   "in_cc": false
+  },
+  {
+   "actor": "Winnti_APT41",
+   "ioc": "207.148.125.56",
+   "kind": "ip",
+   "platform": "windows",
+   "source": "README.adoc",
+   "src_type": "adoc",
+   "in_cc": false
+  },
+  {
+   "actor": "Winnti_APT41",
+   "ioc": "118.193.236.206",
+   "kind": "ip",
+   "platform": "windows",
+   "source": "README.adoc",
+   "src_type": "adoc",
+   "in_cc": false
+  },
+  {
+   "actor": "Winnti_APT41",
+   "ioc": "167.88.176.205",
+   "kind": "ip",
+   "platform": "windows",
+   "source": "README.adoc",
+   "src_type": "adoc",
+   "in_cc": false
+  },
+  {
+   "actor": "Winnti_APT41",
+   "ioc": "103.224.83.95",
+   "kind": "ip",
+   "platform": "windows",
+   "source": "README.adoc",
+   "src_type": "adoc",
+   "in_cc": false
+  },
+  {
+   "actor": "Winnti_APT41",
+   "ioc": "103.19.3.21",
+   "kind": "ip",
+   "platform": "windows",
+   "source": "README.adoc",
+   "src_type": "adoc",
+   "in_cc": false
+  },
+  {
+   "actor": "Winnti_APT41",
+   "ioc": "xp101.dyn-dns.com",
+   "kind": "domain",
+   "platform": "windows",
+   "source": "README.adoc",
+   "src_type": "adoc",
+   "in_cc": true
+  },
+  {
+   "actor": "Winnti_APT41",
+   "ioc": "svn-dns.ahnlabinc.com",
+   "kind": "domain",
+   "platform": "windows",
+   "source": "README.adoc",
+   "src_type": "adoc",
+   "in_cc": true
+  },
+  {
+   "actor": "Winnti_APT41",
+   "ioc": "dns1-1.7release.com",
+   "kind": "domain",
+   "platform": "windows",
+   "source": "README.adoc",
+   "src_type": "adoc",
+   "in_cc": true
+  },
+  {
+   "actor": "Winnti_APT41",
+   "ioc": "ssl.dyn-dns.com",
+   "kind": "domain",
+   "platform": "windows",
+   "source": "README.adoc",
+   "src_type": "adoc",
+   "in_cc": true
+  },
+  {
+   "actor": "Winnti_APT41",
+   "ioc": "bugcheck.xigncodeservice.com",
+   "kind": "domain",
+   "platform": "windows",
+   "source": "README.adoc",
+   "src_type": "adoc",
+   "in_cc": true
+  },
+  {
+   "actor": "Winnti_APT41",
+   "ioc": "nw.infestexe.com",
+   "kind": "domain",
+   "platform": "windows",
+   "source": "README.adoc",
+   "src_type": "adoc",
+   "in_cc": true
+  },
+  {
+   "actor": "Winnti_APT41",
+   "ioc": "dump.gxxservice.com",
+   "kind": "domain",
+   "platform": "windows",
+   "source": "README.adoc",
+   "src_type": "adoc",
+   "in_cc": true
+  },
+  {
+   "actor": "Winnti_APT41",
+   "ioc": "n8.ahnlabinc",
+   "kind": "domain",
+   "platform": "windows",
+   "source": "README.adoc",
+   "src_type": "adoc",
+   "in_cc": true
+  },
+  {
+   "actor": "Winnti_APT41",
+   "ioc": "owa.ahnlabinc",
+   "kind": "domain",
+   "platform": "windows",
+   "source": "README.adoc",
+   "src_type": "adoc",
+   "in_cc": true
+  },
+  {
+   "actor": "Winnti_APT41",
+   "ioc": "ssl2.ahnlabinc",
+   "kind": "domain",
+   "platform": "windows",
+   "source": "README.adoc",
+   "src_type": "adoc",
+   "in_cc": true
+  },
+  {
+   "actor": "Winnti_APT41",
+   "ioc": "www2.dyn.tracker",
+   "kind": "domain",
+   "platform": "windows",
+   "source": "README.adoc",
+   "src_type": "adoc",
+   "in_cc": true
+  },
+  {
+   "actor": "Winnti_APT41",
+   "ioc": "ssl2.dyn",
+   "kind": "domain",
+   "platform": "windows",
+   "source": "README.adoc",
+   "src_type": "adoc",
+   "in_cc": true
+  },
+  {
+   "actor": "Winnti_APT41",
+   "ioc": "client.gnisoft",
+   "kind": "domain",
+   "platform": "windows",
+   "source": "README.adoc",
+   "src_type": "adoc",
+   "in_cc": true
+  },
+  {
+   "actor": "Winnti_APT41",
+   "ioc": "nmn.nhndesk",
+   "kind": "domain",
+   "platform": "windows",
+   "source": "README.adoc",
+   "src_type": "adoc",
+   "in_cc": true
+  },
+  {
+   "actor": "Winnti_APT41",
+   "ioc": "ssl.lcrest",
+   "kind": "domain",
+   "platform": "windows",
+   "source": "README.adoc",
+   "src_type": "adoc",
+   "in_cc": true
+  },
+  {
+   "actor": "Winnti_APT41",
+   "ioc": "api.googleauthenticatoronline",
+   "kind": "domain",
+   "platform": "windows",
+   "source": "README.adoc",
+   "src_type": "adoc",
+   "in_cc": true
+  },
+  {
+   "actor": "APT28_Sednit",
+   "ioc": "http://45.124.132.127/company-device-support/values/correlate-sec.php",
+   "kind": "url",
+   "platform": null,
+   "source": "2018-11-20_Zebrocy.json",
+   "src_type": "misp"
+  },
+  {
+   "actor": "APT28_Sednit",
+   "ioc": "https://www.welivesecurity.com/2018/11/20/sednit-whats-going-zebrocy/",
+   "kind": "url",
+   "platform": null,
+   "source": "2018-11-20_Zebrocy.json",
+   "src_type": "misp"
+  },
+  {
+   "actor": "APT28_Sednit",
+   "ioc": "http://45.124.132.127/DOVIDNIK - (2018).zip",
+   "kind": "url",
+   "platform": null,
+   "source": "2019-05-23_Zebrocy.json",
+   "src_type": "misp"
+  },
+  {
+   "actor": "APT28_Sednit",
+   "ioc": "http://45.124.132.127/action-center/centerforserviceandaction/service-and-action.php",
+   "kind": "url",
+   "platform": null,
+   "source": "2019-05-23_Zebrocy.json",
+   "src_type": "misp"
+  },
+  {
+   "actor": "APT28_Sednit",
+   "ioc": "185.77.129.106",
+   "kind": "ip",
+   "platform": "windows",
+   "source": "lojax.adoc",
+   "src_type": "adoc",
+   "in_cc": false
+  },
+  {
+   "actor": "APT28_Sednit",
+   "ioc": "185.144.82.239",
+   "kind": "ip",
+   "platform": "windows",
+   "source": "lojax.adoc",
+   "src_type": "adoc",
+   "in_cc": false
+  },
+  {
+   "actor": "APT28_Sednit",
+   "ioc": "93.113.131.103",
+   "kind": "ip",
+   "platform": "windows",
+   "source": "lojax.adoc",
+   "src_type": "adoc",
+   "in_cc": false
+  },
+  {
+   "actor": "APT28_Sednit",
+   "ioc": "185.86.149.54",
+   "kind": "ip",
+   "platform": "windows",
+   "source": "lojax.adoc",
+   "src_type": "adoc",
+   "in_cc": false
+  },
+  {
+   "actor": "APT28_Sednit",
+   "ioc": "185.86.151.104",
+   "kind": "ip",
+   "platform": "windows",
+   "source": "lojax.adoc",
+   "src_type": "adoc",
+   "in_cc": false
+  },
+  {
+   "actor": "APT28_Sednit",
+   "ioc": "103.41.177.43",
+   "kind": "ip",
+   "platform": "windows",
+   "source": "lojax.adoc",
+   "src_type": "adoc",
+   "in_cc": false
+  },
+  {
+   "actor": "APT28_Sednit",
+   "ioc": "185.86.148.184",
+   "kind": "ip",
+   "platform": "windows",
+   "source": "lojax.adoc",
+   "src_type": "adoc",
+   "in_cc": false
+  },
+  {
+   "actor": "APT28_Sednit",
+   "ioc": "185.94.191.65",
+   "kind": "ip",
+   "platform": "windows",
+   "source": "lojax.adoc",
+   "src_type": "adoc",
+   "in_cc": false
+  },
+  {
+   "actor": "APT28_Sednit",
+   "ioc": "86.106.131.54",
+   "kind": "ip",
+   "platform": "windows",
+   "source": "lojax.adoc",
+   "src_type": "adoc",
+   "in_cc": false
+  },
+  {
+   "actor": "APT28_Sednit",
+   "ioc": "aljazeera-news.com",
+   "kind": "domain",
+   "platform": "windows",
+   "source": "part1.adoc",
+   "src_type": "adoc",
+   "in_cc": true
+  },
+  {
+   "actor": "APT28_Sednit",
+   "ioc": "ausameetings.com",
+   "kind": "domain",
+   "platform": "windows",
+   "source": "part1.adoc",
+   "src_type": "adoc",
+   "in_cc": true
+  },
+  {
+   "actor": "APT28_Sednit",
+   "ioc": "bbc-press.org",
+   "kind": "domain",
+   "platform": "windows",
+   "source": "part1.adoc",
+   "src_type": "adoc",
+   "in_cc": true
+  },
+  {
+   "actor": "APT28_Sednit",
+   "ioc": "cnnpolitics.eu",
+   "kind": "domain",
+   "platform": "windows",
+   "source": "part1.adoc",
+   "src_type": "adoc",
+   "in_cc": true
+  },
+  {
+   "actor": "APT28_Sednit",
+   "ioc": "dailyforeignnews.com",
+   "kind": "domain",
+   "platform": "windows",
+   "source": "part1.adoc",
+   "src_type": "adoc",
+   "in_cc": true
+  },
+  {
+   "actor": "APT28_Sednit",
+   "ioc": "dailypoliticsnews.com",
+   "kind": "domain",
+   "platform": "windows",
+   "source": "part1.adoc",
+   "src_type": "adoc",
+   "in_cc": true
+  },
+  {
+   "actor": "APT28_Sednit",
+   "ioc": "defenceiq.us",
+   "kind": "domain",
+   "platform": "windows",
+   "source": "part1.adoc",
+   "src_type": "adoc",
+   "in_cc": true
+  },
+  {
+   "actor": "APT28_Sednit",
+   "ioc": "defencereview.eu",
+   "kind": "domain",
+   "platform": "windows",
+   "source": "part1.adoc",
+   "src_type": "adoc",
+   "in_cc": true
+  },
+  {
+   "actor": "APT28_Sednit",
+   "ioc": "diplomatnews.org",
+   "kind": "domain",
+   "platform": "windows",
+   "source": "part1.adoc",
+   "src_type": "adoc",
+   "in_cc": true
+  },
+  {
+   "actor": "APT28_Sednit",
+   "ioc": "euronews24.info",
+   "kind": "domain",
+   "platform": "windows",
+   "source": "part1.adoc",
+   "src_type": "adoc",
+   "in_cc": true
+  },
+  {
+   "actor": "APT28_Sednit",
+   "ioc": "euroreport24.com",
+   "kind": "domain",
+   "platform": "windows",
+   "source": "part1.adoc",
+   "src_type": "adoc",
+   "in_cc": true
+  },
+  {
+   "actor": "APT28_Sednit",
+   "ioc": "kg-news.org",
+   "kind": "domain",
+   "platform": "windows",
+   "source": "part1.adoc",
+   "src_type": "adoc",
+   "in_cc": true
+  },
+  {
+   "actor": "APT28_Sednit",
+   "ioc": "military-info.eu",
+   "kind": "domain",
+   "platform": "windows",
+   "source": "part1.adoc",
+   "src_type": "adoc",
+   "in_cc": true
+  },
+  {
+   "actor": "APT28_Sednit",
+   "ioc": "militaryadviser.org",
+   "kind": "domain",
+   "platform": "windows",
+   "source": "part1.adoc",
+   "src_type": "adoc",
+   "in_cc": true
+  },
+  {
+   "actor": "APT28_Sednit",
+   "ioc": "militaryobserver.net",
+   "kind": "domain",
+   "platform": "windows",
+   "source": "part1.adoc",
+   "src_type": "adoc",
+   "in_cc": true
+  },
+  {
+   "actor": "APT28_Sednit",
+   "ioc": "nato-hq.com",
+   "kind": "domain",
+   "platform": "windows",
+   "source": "part1.adoc",
+   "src_type": "adoc",
+   "in_cc": true
+  },
+  {
+   "actor": "APT28_Sednit",
+   "ioc": "nato-news.com",
+   "kind": "domain",
+   "platform": "windows",
+   "source": "part1.adoc",
+   "src_type": "adoc",
+   "in_cc": true
+  },
+  {
+   "actor": "APT28_Sednit",
+   "ioc": "natoint.com",
+   "kind": "domain",
+   "platform": "windows",
+   "source": "part1.adoc",
+   "src_type": "adoc",
+   "in_cc": true
+  },
+  {
+   "actor": "APT28_Sednit",
+   "ioc": "natopress.com",
+   "kind": "domain",
+   "platform": "windows",
+   "source": "part1.adoc",
+   "src_type": "adoc",
+   "in_cc": true
+  },
+  {
+   "actor": "APT28_Sednit",
+   "ioc": "osce-info.com",
+   "kind": "domain",
+   "platform": "windows",
+   "source": "part1.adoc",
+   "src_type": "adoc",
+   "in_cc": true
+  },
+  {
+   "actor": "APT28_Sednit",
+   "ioc": "osce-press.org",
+   "kind": "domain",
+   "platform": "windows",
+   "source": "part1.adoc",
+   "src_type": "adoc",
+   "in_cc": true
+  },
+  {
+   "actor": "APT28_Sednit",
+   "ioc": "pakistan-mofa.net",
+   "kind": "domain",
+   "platform": "windows",
+   "source": "part1.adoc",
+   "src_type": "adoc",
+   "in_cc": true
+  },
+  {
+   "actor": "APT28_Sednit",
+   "ioc": "politicalreview.eu",
+   "kind": "domain",
+   "platform": "windows",
+   "source": "part1.adoc",
+   "src_type": "adoc",
+   "in_cc": true
+  },
+  {
+   "actor": "APT28_Sednit",
+   "ioc": "politicsinform.com",
+   "kind": "domain",
+   "platform": "windows",
+   "source": "part1.adoc",
+   "src_type": "adoc",
+   "in_cc": true
+  },
+  {
+   "actor": "APT28_Sednit",
+   "ioc": "reuters-press.com",
+   "kind": "domain",
+   "platform": "windows",
+   "source": "part1.adoc",
+   "src_type": "adoc",
+   "in_cc": true
+  },
+  {
+   "actor": "APT28_Sednit",
+   "ioc": "shurl.biz",
+   "kind": "domain",
+   "platform": "windows",
+   "source": "part1.adoc",
+   "src_type": "adoc",
+   "in_cc": true
+  },
+  {
+   "actor": "APT28_Sednit",
+   "ioc": "stratforglobal.net",
+   "kind": "domain",
+   "platform": "windows",
+   "source": "part1.adoc",
+   "src_type": "adoc",
+   "in_cc": true
+  },
+  {
+   "actor": "APT28_Sednit",
+   "ioc": "thediplomat-press.com",
+   "kind": "domain",
+   "platform": "windows",
+   "source": "part1.adoc",
+   "src_type": "adoc",
+   "in_cc": true
+  },
+  {
+   "actor": "APT28_Sednit",
+   "ioc": "theguardiannews.org",
+   "kind": "domain",
+   "platform": "windows",
+   "source": "part1.adoc",
+   "src_type": "adoc",
+   "in_cc": true
+  },
+  {
+   "actor": "APT28_Sednit",
+   "ioc": "trend-news.org",
+   "kind": "domain",
+   "platform": "windows",
+   "source": "part1.adoc",
+   "src_type": "adoc",
+   "in_cc": true
+  },
+  {
+   "actor": "APT28_Sednit",
+   "ioc": "unian-news.info",
+   "kind": "domain",
+   "platform": "windows",
+   "source": "part1.adoc",
+   "src_type": "adoc",
+   "in_cc": true
+  },
+  {
+   "actor": "APT28_Sednit",
+   "ioc": "unitednationsnews.eu",
+   "kind": "domain",
+   "platform": "windows",
+   "source": "part1.adoc",
+   "src_type": "adoc",
+   "in_cc": true
+  },
+  {
+   "actor": "APT28_Sednit",
+   "ioc": "virusdefender.org",
+   "kind": "domain",
+   "platform": "windows",
+   "source": "part1.adoc",
+   "src_type": "adoc",
+   "in_cc": true
+  },
+  {
+   "actor": "APT28_Sednit",
+   "ioc": "worldmilitarynews.org",
+   "kind": "domain",
+   "platform": "windows",
+   "source": "part1.adoc",
+   "src_type": "adoc",
+   "in_cc": true
+  },
+  {
+   "actor": "APT28_Sednit",
+   "ioc": "worldpoliticsnews.org",
+   "kind": "domain",
+   "platform": "windows",
+   "source": "part1.adoc",
+   "src_type": "adoc",
+   "in_cc": true
+  },
+  {
+   "actor": "APT28_Sednit",
+   "ioc": "worldpoliticsreviews.com",
+   "kind": "domain",
+   "platform": "windows",
+   "source": "part1.adoc",
+   "src_type": "adoc",
+   "in_cc": true
+  },
+  {
+   "actor": "APT28_Sednit",
+   "ioc": "worldpostjournal.com",
+   "kind": "domain",
+   "platform": "windows",
+   "source": "part1.adoc",
+   "src_type": "adoc",
+   "in_cc": true
+  },
+  {
+   "actor": "APT28_Sednit",
+   "ioc": "swsupporttools.com",
+   "kind": "domain",
+   "platform": "windows",
+   "source": "part1.adoc",
+   "src_type": "adoc",
+   "in_cc": true
+  },
+  {
+   "actor": "APT28_Sednit",
+   "ioc": "www.capisp.com",
+   "kind": "domain",
+   "platform": "windows",
+   "source": "part1.adoc",
+   "src_type": "adoc",
+   "in_cc": true
+  },
+  {
+   "actor": "APT28_Sednit",
+   "ioc": "www.dataclen.org",
+   "kind": "domain",
+   "platform": "windows",
+   "source": "part1.adoc",
+   "src_type": "adoc",
+   "in_cc": true
+  },
+  {
+   "actor": "APT28_Sednit",
+   "ioc": "www.mscoresvw.com",
+   "kind": "domain",
+   "platform": "windows",
+   "source": "part1.adoc",
+   "src_type": "adoc",
+   "in_cc": true
+  },
+  {
+   "actor": "APT28_Sednit",
+   "ioc": "www.windowscheckupdater.net",
+   "kind": "domain",
+   "platform": "windows",
+   "source": "part1.adoc",
+   "src_type": "adoc",
+   "in_cc": true
+  },
+  {
+   "actor": "APT28_Sednit",
+   "ioc": "www.acledit.com",
+   "kind": "domain",
+   "platform": "windows",
+   "source": "part1.adoc",
+   "src_type": "adoc",
+   "in_cc": true
+  },
+  {
+   "actor": "APT28_Sednit",
+   "ioc": "www.biocpl.org",
+   "kind": "domain",
+   "platform": "windows",
+   "source": "part1.adoc",
+   "src_type": "adoc",
+   "in_cc": true
+  },
+  {
+   "actor": "APT28_Sednit",
+   "ioc": "www.wscapi.com",
+   "kind": "domain",
+   "platform": "windows",
+   "source": "part1.adoc",
+   "src_type": "adoc",
+   "in_cc": true
+  },
+  {
+   "actor": "APT28_Sednit",
+   "ioc": "www.tabsync.net",
+   "kind": "domain",
+   "platform": "windows",
+   "source": "part1.adoc",
+   "src_type": "adoc",
+   "in_cc": true
+  },
+  {
+   "actor": "APT28_Sednit",
+   "ioc": "www.storsvc.org",
+   "kind": "domain",
+   "platform": "windows",
+   "source": "part1.adoc",
+   "src_type": "adoc",
+   "in_cc": true
+  },
+  {
+   "actor": "APT28_Sednit",
+   "ioc": "www.winupdatesysmic.com",
+   "kind": "domain",
+   "platform": "windows",
+   "source": "part1.adoc",
+   "src_type": "adoc",
+   "in_cc": true
+  },
+  {
+   "actor": "APT28_Sednit",
+   "ioc": "45.124.132.127",
+   "kind": "ip",
+   "platform": "windows",
+   "source": "2018-11-20_Zebrocy.adoc",
+   "src_type": "adoc",
+   "in_cc": true
+  },
+  {
+   "actor": "APT28_Sednit",
+   "ioc": "ciscohelpcenter.com",
+   "kind": "domain",
+   "platform": "linux",
+   "source": "part2.adoc",
+   "src_type": "adoc",
+   "in_cc": true
+  },
+  {
+   "actor": "APT28_Sednit",
+   "ioc": "microsoftsupp.com",
+   "kind": "domain",
+   "platform": "linux",
+   "source": "part2.adoc",
+   "src_type": "adoc",
+   "in_cc": true
+  },
+  {
+   "actor": "APT28_Sednit",
+   "ioc": "timezoneutc.com",
+   "kind": "domain",
+   "platform": "linux",
+   "source": "part2.adoc",
+   "src_type": "adoc",
+   "in_cc": true
+  },
+  {
+   "actor": "APT28_Sednit",
+   "ioc": "inteldrv64.com",
+   "kind": "domain",
+   "platform": "linux",
+   "source": "part2.adoc",
+   "src_type": "adoc",
+   "in_cc": true
+  },
+  {
+   "actor": "APT28_Sednit",
+   "ioc": "advpdxapi.com",
+   "kind": "domain",
+   "platform": "linux",
+   "source": "part2.adoc",
+   "src_type": "adoc",
+   "in_cc": true
+  },
+  {
+   "actor": "APT28_Sednit",
+   "ioc": "185.106.120.101",
+   "kind": "ip",
+   "platform": "linux",
+   "source": "part2.adoc",
+   "src_type": "adoc",
+   "in_cc": true
+  },
+  {
+   "actor": "APT28_Sednit",
+   "ioc": "185.86.149.223",
+   "kind": "ip",
+   "platform": "linux",
+   "source": "part2.adoc",
+   "src_type": "adoc",
+   "in_cc": true
+  },
+  {
+   "actor": "APT28_Sednit",
+   "ioc": "31.220.43.99",
+   "kind": "ip",
+   "platform": "linux",
+   "source": "part2.adoc",
+   "src_type": "adoc",
+   "in_cc": true
+  },
+  {
+   "actor": "APT28_Sednit",
+   "ioc": "5.135.183.154",
+   "kind": "ip",
+   "platform": "linux",
+   "source": "part2.adoc",
+   "src_type": "adoc",
+   "in_cc": true
+  },
+  {
+   "actor": "APT28_Sednit",
+   "ioc": "69.12.73.174",
+   "kind": "ip",
+   "platform": "linux",
+   "source": "part2.adoc",
+   "src_type": "adoc",
+   "in_cc": true
+  },
+  {
+   "actor": "APT28_Sednit",
+   "ioc": "89.32.40.4",
+   "kind": "ip",
+   "platform": "linux",
+   "source": "part2.adoc",
+   "src_type": "adoc",
+   "in_cc": true
+  },
+  {
+   "actor": "APT28_Sednit",
+   "ioc": "92.114.92.125",
+   "kind": "ip",
+   "platform": "linux",
+   "source": "part2.adoc",
+   "src_type": "adoc",
+   "in_cc": true
+  },
+  {
+   "actor": "APT28_Sednit",
+   "ioc": "93.115.38.125",
+   "kind": "ip",
+   "platform": "linux",
+   "source": "part2.adoc",
+   "src_type": "adoc",
+   "in_cc": true
+  },
+  {
+   "actor": "APT28_Sednit",
+   "ioc": "1oo7.net",
+   "kind": "domain",
+   "platform": "windows",
+   "source": "part2.adoc",
+   "src_type": "adoc",
+   "in_cc": true
+  },
+  {
+   "actor": "APT28_Sednit",
+   "ioc": "akamaisoft.com",
+   "kind": "domain",
+   "platform": "windows",
+   "source": "part2.adoc",
+   "src_type": "adoc",
+   "in_cc": true
+  },
+  {
+   "actor": "APT28_Sednit",
+   "ioc": "cloudflarecdn.com",
+   "kind": "domain",
+   "platform": "windows",
+   "source": "part2.adoc",
+   "src_type": "adoc",
+   "in_cc": true
+  },
+  {
+   "actor": "APT28_Sednit",
+   "ioc": "driversupdate.info",
+   "kind": "domain",
+   "platform": "windows",
+   "source": "part2.adoc",
+   "src_type": "adoc",
+   "in_cc": true
+  },
+  {
+   "actor": "APT28_Sednit",
+   "ioc": "kenlynton.com",
+   "kind": "domain",
+   "platform": "windows",
+   "source": "part2.adoc",
+   "src_type": "adoc",
+   "in_cc": true
+  },
+  {
+   "actor": "APT28_Sednit",
+   "ioc": "microsoftdriver.com",
+   "kind": "domain",
+   "platform": "windows",
+   "source": "part2.adoc",
+   "src_type": "adoc",
+   "in_cc": true
+  },
+  {
+   "actor": "APT28_Sednit",
+   "ioc": "microsofthelpcenter.info",
+   "kind": "domain",
+   "platform": "windows",
+   "source": "part2.adoc",
+   "src_type": "adoc",
+   "in_cc": true
+  },
+  {
+   "actor": "APT28_Sednit",
+   "ioc": "nortonupdate.org",
+   "kind": "domain",
+   "platform": "windows",
+   "source": "part2.adoc",
+   "src_type": "adoc",
+   "in_cc": true
+  },
+  {
+   "actor": "APT28_Sednit",
+   "ioc": "softwaresupportsv.com",
+   "kind": "domain",
+   "platform": "windows",
+   "source": "part2.adoc",
+   "src_type": "adoc",
+   "in_cc": true
+  },
+  {
+   "actor": "APT28_Sednit",
+   "ioc": "symantecsupport.org",
+   "kind": "domain",
+   "platform": "windows",
+   "source": "part2.adoc",
+   "src_type": "adoc",
+   "in_cc": true
+  },
+  {
+   "actor": "APT28_Sednit",
+   "ioc": "updatecenter.name",
+   "kind": "domain",
+   "platform": "windows",
+   "source": "part2.adoc",
+   "src_type": "adoc",
+   "in_cc": true
+  },
+  {
+   "actor": "APT28_Sednit",
+   "ioc": "updatesystems.net",
+   "kind": "domain",
+   "platform": "windows",
+   "source": "part2.adoc",
+   "src_type": "adoc",
+   "in_cc": true
+  },
+  {
+   "actor": "APT28_Sednit",
+   "ioc": "updmanager.com",
+   "kind": "domain",
+   "platform": "windows",
+   "source": "part2.adoc",
+   "src_type": "adoc",
+   "in_cc": true
+  },
+  {
+   "actor": "APT28_Sednit",
+   "ioc": "windowsappstore.net",
+   "kind": "domain",
+   "platform": "windows",
+   "source": "part2.adoc",
+   "src_type": "adoc",
+   "in_cc": true
+  },
+  {
+   "actor": "APT28_Sednit",
+   "ioc": "131.72.136.165",
+   "kind": "ip",
+   "platform": "windows",
+   "source": "part2.adoc",
+   "src_type": "adoc",
+   "in_cc": true
+  },
+  {
+   "actor": "APT28_Sednit",
+   "ioc": "167.114.214.63",
+   "kind": "ip",
+   "platform": "windows",
+   "source": "part2.adoc",
+   "src_type": "adoc",
+   "in_cc": true
+  },
+  {
+   "actor": "APT28_Sednit",
+   "ioc": "176.31.112.10",
+   "kind": "ip",
+   "platform": "windows",
+   "source": "part2.adoc",
+   "src_type": "adoc",
+   "in_cc": true
+  },
+  {
+   "actor": "APT28_Sednit",
+   "ioc": "176.31.96.178",
+   "kind": "ip",
+   "platform": "windows",
+   "source": "part2.adoc",
+   "src_type": "adoc",
+   "in_cc": true
+  },
+  {
+   "actor": "APT28_Sednit",
+   "ioc": "192.95.12.5",
+   "kind": "ip",
+   "platform": "windows",
+   "source": "part2.adoc",
+   "src_type": "adoc",
+   "in_cc": true
+  },
+  {
+   "actor": "APT28_Sednit",
+   "ioc": "46.183.216.209",
+   "kind": "ip",
+   "platform": "windows",
+   "source": "part2.adoc",
+   "src_type": "adoc",
+   "in_cc": true
+  },
+  {
+   "actor": "APT28_Sednit",
+   "ioc": "80.255.10.236",
+   "kind": "ip",
+   "platform": "windows",
+   "source": "part2.adoc",
+   "src_type": "adoc",
+   "in_cc": true
+  },
+  {
+   "actor": "APT28_Sednit",
+   "ioc": "80.255.3.93",
+   "kind": "ip",
+   "platform": "windows",
+   "source": "part2.adoc",
+   "src_type": "adoc",
+   "in_cc": true
+  },
+  {
+   "actor": "APT28_Sednit",
+   "ioc": "81.17.30.29",
+   "kind": "ip",
+   "platform": "windows",
+   "source": "part2.adoc",
+   "src_type": "adoc",
+   "in_cc": true
+  },
+  {
+   "actor": "APT28_Sednit",
+   "ioc": "95.215.46.27",
+   "kind": "ip",
+   "platform": "windows",
+   "source": "part2.adoc",
+   "src_type": "adoc",
+   "in_cc": true
+  },
+  {
+   "actor": "APT28_Sednit",
+   "ioc": "intelmeserver.com",
+   "kind": "domain",
+   "platform": "windows",
+   "source": "part3.adoc",
+   "src_type": "adoc",
+   "in_cc": true
+  },
+  {
+   "actor": "APT28_Sednit",
+   "ioc": "104.171.117.216",
+   "kind": "ip",
+   "platform": "windows",
+   "source": "part3.adoc",
+   "src_type": "adoc",
+   "in_cc": true
+  },
+  {
+   "actor": "APT28_Sednit",
+   "ioc": "141.255.160.52",
+   "kind": "ip",
+   "platform": "windows",
+   "source": "part3.adoc",
+   "src_type": "adoc",
+   "in_cc": true
+  },
+  {
+   "actor": "APT29_Dukes",
+   "ioc": "http://ibb.co/hVhaAq",
+   "kind": "url",
+   "platform": null,
+   "source": "misp-dukes-operation-ghost-event.json",
+   "src_type": "misp"
+  },
+  {
+   "actor": "APT29_Dukes",
+   "ioc": "http://imgur.com/1RzfF7r",
+   "kind": "url",
+   "platform": null,
+   "source": "misp-dukes-operation-ghost-event.json",
+   "src_type": "misp"
+  },
+  {
+   "actor": "APT29_Dukes",
+   "ioc": "http://imgur.com/6wjspWp",
+   "kind": "url",
+   "platform": null,
+   "source": "misp-dukes-operation-ghost-event.json",
+   "src_type": "misp"
+  },
+  {
+   "actor": "APT29_Dukes",
+   "ioc": "http://imgur.com/d4ObKL0",
+   "kind": "url",
+   "platform": null,
+   "source": "misp-dukes-operation-ghost-event.json",
+   "src_type": "misp"
+  },
+  {
+   "actor": "APT29_Dukes",
+   "ioc": "http://imgur.com/D6U06Ci",
+   "kind": "url",
+   "platform": null,
+   "source": "misp-dukes-operation-ghost-event.json",
+   "src_type": "misp"
+  },
+  {
+   "actor": "APT29_Dukes",
+   "ioc": "http://imgur.com/GZSK9zI",
+   "kind": "url",
+   "platform": null,
+   "source": "misp-dukes-operation-ghost-event.json",
+   "src_type": "misp"
+  },
+  {
+   "actor": "APT29_Dukes",
+   "ioc": "http://imgur.com/wcMk7a2",
+   "kind": "url",
+   "platform": null,
+   "source": "misp-dukes-operation-ghost-event.json",
+   "src_type": "misp"
+  },
+  {
+   "actor": "APT29_Dukes",
+   "ioc": "http://imgur.com/WMTwSMJ",
+   "kind": "url",
+   "platform": null,
+   "source": "misp-dukes-operation-ghost-event.json",
+   "src_type": "misp"
+  },
+  {
+   "actor": "APT29_Dukes",
+   "ioc": "http://imgur.com/WOKHonk",
+   "kind": "url",
+   "platform": null,
+   "source": "misp-dukes-operation-ghost-event.json",
+   "src_type": "misp"
+  },
+  {
+   "actor": "APT29_Dukes",
+   "ioc": "http://imgur.com/XFa7Ee1",
+   "kind": "url",
+   "platform": null,
+   "source": "misp-dukes-operation-ghost-event.json",
+   "src_type": "misp"
+  },
+  {
+   "actor": "APT29_Dukes",
+   "ioc": "http://jack998899jack.imgbb.com",
+   "kind": "url",
+   "platform": null,
+   "source": "misp-dukes-operation-ghost-event.json",
+   "src_type": "misp"
+  },
+  {
+   "actor": "APT29_Dukes",
+   "ioc": "http://simp.ly/publish/pBn8Jt",
+   "kind": "url",
+   "platform": null,
+   "source": "misp-dukes-operation-ghost-event.json",
+   "src_type": "misp"
+  },
+  {
+   "actor": "APT29_Dukes",
+   "ioc": "http://thinkery.me/billywilliams/5a0170161cb602262f000d2c",
+   "kind": "url",
+   "platform": null,
+   "source": "misp-dukes-operation-ghost-event.json",
+   "src_type": "misp"
+  },
+  {
+   "actor": "APT29_Dukes",
+   "ioc": "http://twitter.com/aimeefleming25",
+   "kind": "url",
+   "platform": null,
+   "source": "misp-dukes-operation-ghost-event.json",
+   "src_type": "misp"
+  },
+  {
+   "actor": "APT29_Dukes",
+   "ioc": "http://twitter.com/hen_rivero",
+   "kind": "url",
+   "platform": null,
+   "source": "misp-dukes-operation-ghost-event.json",
+   "src_type": "misp"
+  },
+  {
+   "actor": "APT29_Dukes",
+   "ioc": "http://twitter.com/JamesScott1990",
+   "kind": "url",
+   "platform": null,
+   "source": "misp-dukes-operation-ghost-event.json",
+   "src_type": "misp"
+  },
+  {
+   "actor": "APT29_Dukes",
+   "ioc": "http://twitter.com/KarimM_traveler",
+   "kind": "url",
+   "platform": null,
+   "source": "misp-dukes-operation-ghost-event.json",
+   "src_type": "misp"
+  },
+  {
+   "actor": "APT29_Dukes",
+   "ioc": "http://twitter.com/lerg5pvo1i",
+   "kind": "url",
+   "platform": null,
+   "source": "misp-dukes-operation-ghost-event.json",
+   "src_type": "misp"
+  },
+  {
+   "actor": "APT29_Dukes",
+   "ioc": "http://twitter.com/m63vhd7ach3",
+   "kind": "url",
+   "platform": null,
+   "source": "misp-dukes-operation-ghost-event.json",
+   "src_type": "misp"
+  },
+  {
+   "actor": "APT29_Dukes",
+   "ioc": "http://twitter.com/MarlinTarin",
+   "kind": "url",
+   "platform": null,
+   "source": "misp-dukes-operation-ghost-event.json",
+   "src_type": "misp"
+  },
+  {
+   "actor": "APT29_Dukes",
+   "ioc": "http://twitter.com/np8j7ovqdl",
+   "kind": "url",
+   "platform": null,
+   "source": "misp-dukes-operation-ghost-event.json",
+   "src_type": "misp"
+  },
+  {
+   "actor": "APT29_Dukes",
+   "ioc": "http://twitter.com/q5euqysfu5",
+   "kind": "url",
+   "platform": null,
+   "source": "misp-dukes-operation-ghost-event.json",
+   "src_type": "misp"
+  },
+  {
+   "actor": "APT29_Dukes",
+   "ioc": "http://twitter.com/qistp743li",
+   "kind": "url",
+   "platform": null,
+   "source": "misp-dukes-operation-ghost-event.json",
+   "src_type": "misp"
+  },
+  {
+   "actor": "APT29_Dukes",
+   "ioc": "http://twitter.com/t8t842io2",
+   "kind": "url",
+   "platform": null,
+   "source": "misp-dukes-operation-ghost-event.json",
+   "src_type": "misp"
+  },
+  {
+   "actor": "APT29_Dukes",
+   "ioc": "http://twitter.com/ua6ivyxkfv",
+   "kind": "url",
+   "platform": null,
+   "source": "misp-dukes-operation-ghost-event.json",
+   "src_type": "misp"
+  },
+  {
+   "actor": "APT29_Dukes",
+   "ioc": "http://twitter.com/utyi5asko02",
+   "kind": "url",
+   "platform": null,
+   "source": "misp-dukes-operation-ghost-event.json",
+   "src_type": "misp"
+  },
+  {
+   "actor": "APT29_Dukes",
+   "ioc": "http://twitter.com/vgmmmyqaq",
+   "kind": "url",
+   "platform": null,
+   "source": "misp-dukes-operation-ghost-event.json",
+   "src_type": "misp"
+  },
+  {
+   "actor": "APT29_Dukes",
+   "ioc": "http://twitter.com/vvwc63tgz",
+   "kind": "url",
+   "platform": null,
+   "source": "misp-dukes-operation-ghost-event.json",
+   "src_type": "misp"
+  },
+  {
+   "actor": "APT29_Dukes",
+   "ioc": "http://twitter.com/wekcddkg2ra",
+   "kind": "url",
+   "platform": null,
+   "source": "misp-dukes-operation-ghost-event.json",
+   "src_type": "misp"
+  },
+  {
+   "actor": "APT29_Dukes",
+   "ioc": "http://twitter.com/xzg3a2e2z",
+   "kind": "url",
+   "platform": null,
+   "source": "misp-dukes-operation-ghost-event.json",
+   "src_type": "misp"
+  },
+  {
+   "actor": "APT29_Dukes",
+   "ioc": "http://www.evernote.com/shard/s675/sh/6686ff4e-8896-499b-8cdb-a2bbf2cc4db9/fc7fbe66c820f17c30147235e95d31b8",
+   "kind": "url",
+   "platform": "linux",
+   "source": "misp-dukes-operation-ghost-event.json",
+   "src_type": "misp"
+  },
+  {
+   "actor": "APT29_Dukes",
+   "ioc": "http://www.fotolog.com/g1h4wuiz6",
+   "kind": "url",
+   "platform": null,
+   "source": "misp-dukes-operation-ghost-event.json",
+   "src_type": "misp"
+  },
+  {
+   "actor": "APT29_Dukes",
+   "ioc": "http://www.fotolog.com/gf3z425rr0",
+   "kind": "url",
+   "platform": null,
+   "source": "misp-dukes-operation-ghost-event.json",
+   "src_type": "misp"
+  },
+  {
+   "actor": "APT29_Dukes",
+   "ioc": "http://www.fotolog.com/i4ntff47xfw",
+   "kind": "url",
+   "platform": null,
+   "source": "misp-dukes-operation-ghost-event.json",
+   "src_type": "misp"
+  },
+  {
+   "actor": "APT29_Dukes",
+   "ioc": "http://www.fotolog.com/joannevil/121000000000030009/",
+   "kind": "url",
+   "platform": null,
+   "source": "misp-dukes-operation-ghost-event.json",
+   "src_type": "misp"
+  },
+  {
+   "actor": "APT29_Dukes",
+   "ioc": "http://www.fotolog.com/o2rh2s2x7pu",
+   "kind": "url",
+   "platform": null,
+   "source": "misp-dukes-operation-ghost-event.json",
+   "src_type": "misp"
+  },
+  {
+   "actor": "APT29_Dukes",
+   "ioc": "http://www.fotolog.com/q4tusizx9xb",
+   "kind": "url",
+   "platform": null,
+   "source": "misp-dukes-operation-ghost-event.json",
+   "src_type": "misp"
+  },
+  {
+   "actor": "APT29_Dukes",
+   "ioc": "http://www.fotolog.com/rypnil03sl6",
+   "kind": "url",
+   "platform": null,
+   "source": "misp-dukes-operation-ghost-event.json",
+   "src_type": "misp"
+  },
+  {
+   "actor": "APT29_Dukes",
+   "ioc": "http://www.fotolog.com/shx8hypubt",
+   "kind": "url",
+   "platform": null,
+   "source": "misp-dukes-operation-ghost-event.json",
+   "src_type": "misp"
+  },
+  {
+   "actor": "APT29_Dukes",
+   "ioc": "http://www.fotolog.com/u99aliw5g",
+   "kind": "url",
+   "platform": null,
+   "source": "misp-dukes-operation-ghost-event.json",
+   "src_type": "misp"
+  },
+  {
+   "actor": "APT29_Dukes",
+   "ioc": "http://www.fotolog.com/uq44y4j19m8",
+   "kind": "url",
+   "platform": null,
+   "source": "misp-dukes-operation-ghost-event.json",
+   "src_type": "misp"
+  },
+  {
+   "actor": "APT29_Dukes",
+   "ioc": "http://www.fotolog.com/vq21p34",
+   "kind": "url",
+   "platform": null,
+   "source": "misp-dukes-operation-ghost-event.json",
+   "src_type": "misp"
+  },
+  {
+   "actor": "APT29_Dukes",
+   "ioc": "http://www.fotolog.com/vz1g3wmwu",
+   "kind": "url",
+   "platform": null,
+   "source": "misp-dukes-operation-ghost-event.json",
+   "src_type": "misp"
+  },
+  {
+   "actor": "APT29_Dukes",
+   "ioc": "http://www.fotolog.com/zu2of5vyfl6",
+   "kind": "url",
+   "platform": null,
+   "source": "misp-dukes-operation-ghost-event.json",
+   "src_type": "misp"
+  },
+  {
+   "actor": "APT29_Dukes",
+   "ioc": "http://www.google.com/?gws_rd=ssl#q=Heiofjskghwe+Hjwefkbqw",
+   "kind": "url",
+   "platform": null,
+   "source": "misp-dukes-operation-ghost-event.json",
+   "src_type": "misp"
+  },
+  {
+   "actor": "APT29_Dukes",
+   "ioc": "http://www.kiwibox.com/AfricanRugby/info/",
+   "kind": "url",
+   "platform": null,
+   "source": "misp-dukes-operation-ghost-event.json",
+   "src_type": "misp"
+  },
+  {
+   "actor": "APT29_Dukes",
+   "ioc": "http://www.kiwibox.com/GaryPhotographe/info/",
+   "kind": "url",
+   "platform": null,
+   "source": "misp-dukes-operation-ghost-event.json",
+   "src_type": "misp"
+  },
+  {
+   "actor": "APT29_Dukes",
+   "ioc": "http://www.reddit.com/user/BeaumontV/",
+   "kind": "url",
+   "platform": null,
+   "source": "misp-dukes-operation-ghost-event.json",
+   "src_type": "misp"
+  },
+  {
+   "actor": "APT29_Dukes",
+   "ioc": "http://www.reddit.com/user/StevensThomasWis/",
+   "kind": "url",
+   "platform": null,
+   "source": "misp-dukes-operation-ghost-event.json",
+   "src_type": "misp"
+  },
+  {
+   "actor": "APT29_Dukes",
+   "ioc": "acciaio.com.br",
+   "kind": "domain",
+   "platform": null,
+   "source": "misp-dukes-operation-ghost-event.json",
+   "src_type": "misp"
+  },
+  {
+   "actor": "APT29_Dukes",
+   "ioc": "ceycarb.com",
+   "kind": "domain",
+   "platform": null,
+   "source": "misp-dukes-operation-ghost-event.json",
+   "src_type": "misp"
+  },
+  {
+   "actor": "APT29_Dukes",
+   "ioc": "coachandcook.at",
+   "kind": "domain",
+   "platform": null,
+   "source": "misp-dukes-operation-ghost-event.json",
+   "src_type": "misp"
+  },
+  {
+   "actor": "APT29_Dukes",
+   "ioc": "fisioterapiabb.it",
+   "kind": "domain",
+   "platform": null,
+   "source": "misp-dukes-operation-ghost-event.json",
+   "src_type": "misp"
+  },
+  {
+   "actor": "APT29_Dukes",
+   "ioc": "lorriratzlaff.com",
+   "kind": "domain",
+   "platform": null,
+   "source": "misp-dukes-operation-ghost-event.json",
+   "src_type": "misp"
+  },
+  {
+   "actor": "APT29_Dukes",
+   "ioc": "mavin21c.dothome.co.kr",
+   "kind": "domain",
+   "platform": null,
+   "source": "misp-dukes-operation-ghost-event.json",
+   "src_type": "misp"
+  },
+  {
+   "actor": "APT29_Dukes",
+   "ioc": "motherlodebulldogclub.com",
+   "kind": "domain",
+   "platform": null,
+   "source": "misp-dukes-operation-ghost-event.json",
+   "src_type": "misp"
+  },
+  {
+   "actor": "APT29_Dukes",
+   "ioc": "powerpolymerindustry.com",
+   "kind": "domain",
+   "platform": null,
+   "source": "misp-dukes-operation-ghost-event.json",
+   "src_type": "misp"
+  },
+  {
+   "actor": "APT29_Dukes",
+   "ioc": "publiccouncil.org",
+   "kind": "domain",
+   "platform": null,
+   "source": "misp-dukes-operation-ghost-event.json",
+   "src_type": "misp"
+  },
+  {
+   "actor": "APT29_Dukes",
+   "ioc": "rulourialuminiu.co.uk",
+   "kind": "domain",
+   "platform": null,
+   "source": "misp-dukes-operation-ghost-event.json",
+   "src_type": "misp"
+  },
+  {
+   "actor": "APT29_Dukes",
+   "ioc": "sistemikan.com",
+   "kind": "domain",
+   "platform": null,
+   "source": "misp-dukes-operation-ghost-event.json",
+   "src_type": "misp"
+  },
+  {
+   "actor": "APT29_Dukes",
+   "ioc": "varuhusmc.org",
+   "kind": "domain",
+   "platform": null,
+   "source": "misp-dukes-operation-ghost-event.json",
+   "src_type": "misp"
+  },
+  {
+   "actor": "APT29_Dukes",
+   "ioc": "ecolesndmessines.org",
+   "kind": "domain",
+   "platform": null,
+   "source": "misp-dukes-operation-ghost-event.json",
+   "src_type": "misp"
+  },
+  {
+   "actor": "APT29_Dukes",
+   "ioc": "salesappliances.com",
+   "kind": "domain",
+   "platform": null,
+   "source": "misp-dukes-operation-ghost-event.json",
+   "src_type": "misp"
+  },
+  {
+   "actor": "APT29_Dukes",
+   "ioc": "busseylawoffice.com",
+   "kind": "domain",
+   "platform": null,
+   "source": "misp-dukes-operation-ghost-event.json",
+   "src_type": "misp"
+  },
+  {
+   "actor": "APT29_Dukes",
+   "ioc": "fairfieldsch.org",
+   "kind": "domain",
+   "platform": null,
+   "source": "misp-dukes-operation-ghost-event.json",
+   "src_type": "misp"
+  },
+  {
+   "actor": "APT29_Dukes",
+   "ioc": "ministernetwork.org",
+   "kind": "domain",
+   "platform": null,
+   "source": "misp-dukes-operation-ghost-event.json",
+   "src_type": "misp"
+  },
+  {
+   "actor": "APT29_Dukes",
+   "ioc": "skagenyoga.com",
+   "kind": "domain",
+   "platform": null,
+   "source": "misp-dukes-operation-ghost-event.json",
+   "src_type": "misp"
+  },
+  {
+   "actor": "APT29_Dukes",
+   "ioc": "westmedicalgroup.net",
+   "kind": "domain",
+   "platform": null,
+   "source": "misp-dukes-operation-ghost-event.json",
+   "src_type": "misp"
+  },
+  {
+   "actor": "APT29_Dukes",
+   "ioc": "bandabonga.fr",
+   "kind": "domain",
+   "platform": null,
+   "source": "misp-dukes-operation-ghost-event.json",
+   "src_type": "misp"
+  },
+  {
+   "actor": "APT29_Dukes",
+   "ioc": "acciaio.com",
+   "kind": "domain",
+   "platform": "linux",
+   "source": "README.adoc",
+   "src_type": "adoc",
+   "in_cc": true
+  },
+  {
+   "actor": "APT29_Dukes",
+   "ioc": "mavin21c.dothome.co",
+   "kind": "domain",
+   "platform": "linux",
+   "source": "README.adoc",
+   "src_type": "adoc",
+   "in_cc": true
+  },
+  {
+   "actor": "APT29_Dukes",
+   "ioc": "rulourialuminiu.co",
+   "kind": "domain",
+   "platform": "linux",
+   "source": "README.adoc",
+   "src_type": "adoc",
+   "in_cc": true
+  }
+ ],
+ "summary": {
+  "Turla": {
+   "total": 114,
+   "windows": 64,
+   "linux": 0,
+   "macos": 0,
+   "script": 3,
+   "unattributed": 47
+  },
+  "Sandworm": {
+   "total": 17,
+   "windows": 5,
+   "linux": 0,
+   "macos": 0,
+   "script": 0,
+   "unattributed": 12
+  },
+  "Lazarus": {
+   "total": 86,
+   "windows": 49,
+   "linux": 0,
+   "macos": 0,
+   "script": 29,
+   "unattributed": 8
+  },
+  "Winnti_APT41": {
+   "total": 34,
+   "windows": 27,
+   "linux": 0,
+   "macos": 0,
+   "script": 0,
+   "unattributed": 7
+  },
+  "APT28_Sednit": {
+   "total": 102,
+   "windows": 85,
+   "linux": 13,
+   "macos": 0,
+   "script": 0,
+   "unattributed": 4
+  },
+  "APT29_Dukes": {
+   "total": 72,
+   "windows": 0,
+   "linux": 4,
+   "macos": 0,
+   "script": 0,
+   "unattributed": 68
+  }
+ }
+}

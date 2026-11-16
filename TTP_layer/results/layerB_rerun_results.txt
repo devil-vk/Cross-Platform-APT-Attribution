@@ -1,0 +1,21 @@
+
+6 actors loaded. Running exact permutation test (720 orderings)...
+
+Observed same-actor Windows-vs-Linux Jaccard per actor:
+  winnti_apt41: 0.6974
+  turla: 0.6471
+  lazarus: 0.0857
+  sandworm: 0.8043
+  apt28: 0.2955
+  apt29: 0.4926
+Observed mean: 0.5038
+
+=== Permutation test result ===
+Total orderings tested: 720 (exact, all permutations of 6 actors)
+Average of ALL shuffled (null) means: 0.3738
+Observed (real pairing) mean:          0.5038
+Observed sits at the 99.9th percentile of the null distribution
+p-value (one-sided, real >= shuffled):  0.0014
+
+--> p < 0.05: the real actor-to-actor pairing beats random shuffles significantly.
+    This IS real, statistically defensible signal, even with only 6 actors.

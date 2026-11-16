@@ -1,0 +1,76 @@
+{
+  "actors_attempted": [
+    "turla",
+    "sandworm",
+    "lazarus",
+    "winnti_apt41",
+    "apt28_sednit",
+    "apt29_dukes",
+    "apt27_sysupdate",
+    "earthlusca"
+  ],
+  "coverage": {
+    "turla": "software=30 win-sw=25 lin-sw=6 win-tech=166 lin-tech=114",
+    "sandworm": "software=28 win-sw=21 lin-sw=11 win-tech=178 lin-tech=154",
+    "lazarus": "software=28 win-sw=25 lin-sw=1 win-tech=105 lin-tech=9",
+    "winnti_apt41": "software=33 win-sw=26 lin-sw=9 win-tech=191 lin-tech=140",
+    "apt28_sednit": "software=30 win-sw=23 lin-sw=5 win-tech=127 lin-tech=44",
+    "apt29_dukes": "software=49 win-sw=44 lin-sw=7 win-tech=203 lin-tech=100",
+    "apt27_sysupdate": "software=24 win-sw=20 lin-sw=4 win-tech=159 lin-tech=94",
+    "earthlusca": "software=9 win-sw=7 lin-sw=3 win-tech=112 lin-tech=78"
+  },
+  "scorable": [
+    "turla",
+    "sandworm",
+    "lazarus",
+    "winnti_apt41",
+    "apt28_sednit",
+    "apt29_dukes",
+    "apt27_sysupdate",
+    "earthlusca"
+  ],
+  "dropped_data_gap": [],
+  "same_actor_jaccard": {
+    "turla": 0.6471,
+    "sandworm": 0.8043,
+    "lazarus": 0.0857,
+    "winnti_apt41": 0.6974,
+    "apt28_sednit": 0.2955,
+    "apt29_dukes": 0.4926,
+    "apt27_sysupdate": 0.5912,
+    "earthlusca": 0.6522
+  },
+  "permutation_test": {
+    "n_actors": 8,
+    "n_orderings": 40320,
+    "observed_mean": 0.5332,
+    "null_mean": 0.3946,
+    "p_value": 0.0
+  },
+  "leave_one_out_p": {
+    "turla": 0.0002,
+    "sandworm": 0.0002,
+    "lazarus": 0.0002,
+    "winnti_apt41": 0.0002,
+    "apt28_sednit": 0.0002,
+    "apt29_dukes": 0.0002,
+    "apt27_sysupdate": 0.0002,
+    "earthlusca": 0.0002
+  },
+  "commodity_excluded": {
+    "tools_removed": [
+      "Cobalt Strike",
+      "Empire",
+      "Impacket",
+      "Mimikatz",
+      "NBTscan",
+      "Net",
+      "PsExec",
+      "certutil"
+    ],
+    "n_actors": 8,
+    "observed_mean": 0.2867,
+    "null_mean": 0.1985,
+    "p_value": 0.0
+  }
+}

@@ -1,0 +1,4 @@
+# Core scoring scripts use only the Python 3 standard library.
+# These are needed only for the figures (infra_score.py heatmap, infra_enriched chart):
+matplotlib>=3.5
+numpy>=1.21

@@ -1,0 +1,401 @@
+actor,platform,family,ioc_type,ioc,source
+Turla,windows,(open-corpus win families),domain,61paris.fr,ESET malware-ioc
+Turla,windows,(open-corpus win families),domain,abrargeospatial.ir,ESET malware-ioc
+Turla,windows,(open-corpus win families),domain,ales.ball-mill.es,ESET malware-ioc
+Turla,windows,(open-corpus win families),domain,arinas.tk,ESET malware-ioc
+Turla,windows,(open-corpus win families),domain,baby.greenweb.co.il,ESET malware-ioc
+Turla,windows,(open-corpus win families),domain,bedrost.com,ESET malware-ioc
+Turla,windows,(open-corpus win families),domain,branter.tk,ESET malware-ioc
+Turla,windows,(open-corpus win families),domain,bronerg.tk,ESET malware-ioc
+Turla,windows,(open-corpus win families),domain,celestyna.tk,ESET malware-ioc
+Turla,windows,(open-corpus win families),domain,chagiocaxuanson.esy.es,ESET malware-ioc
+Turla,windows,(open-corpus win families),domain,crusider.tk,ESET malware-ioc
+Turla,windows,(open-corpus win families),domain,davilta.tk,ESET malware-ioc
+Turla,windows,(open-corpus win families),domain,daybreakhealthcare.co.uk,ESET malware-ioc
+Turla,windows,(open-corpus win families),domain,deme.ml,ESET malware-ioc
+Turla,windows,(open-corpus win families),domain,dixito.ml,ESET malware-ioc
+Turla,windows,(open-corpus win families),domain,doctorshand.org,ESET malware-ioc
+Turla,windows,(open-corpus win families),domain,duke6.tk,ESET malware-ioc
+Turla,windows,(open-corpus win families),domain,dyskurs.com.ua,ESET malware-ioc
+Turla,windows,(open-corpus win families),domain,ekrn.ydns.eu,ESET malware-ioc
+Turla,windows,(open-corpus win families),domain,elizabi.tk,ESET malware-ioc
+Turla,windows,(open-corpus win families),domain,eset.ydns.eu,ESET malware-ioc
+Turla,windows,(open-corpus win families),domain,ethdns.mywire,ESET malware-ioc
+Turla,windows,(open-corpus win families),domain,ethdns.mywire.org,ESET malware-ioc
+Turla,windows,(open-corpus win families),domain,fjsconsultoria.com,ESET malware-ioc
+Turla,windows,(open-corpus win families),domain,foods.jkub,ESET malware-ioc
+Turla,windows,(open-corpus win families),domain,foods.jkub.com,ESET malware-ioc
+Turla,windows,(open-corpus win families),domain,giadinhvabe.net,ESET malware-ioc
+Turla,windows,(open-corpus win families),domain,hauptschule-schwalbenstrasse.de,ESET malware-ioc
+Turla,windows,(open-corpus win families),domain,highcolumn.webredirect,ESET malware-ioc
+Turla,windows,(open-corpus win families),domain,highcolumn.webredirect.org,ESET malware-ioc
+Turla,windows,(open-corpus win families),domain,hofa.tk,ESET malware-ioc
+Turla,windows,(open-corpus win families),domain,hotnews.16mb.com,ESET malware-ioc
+Turla,windows,(open-corpus win families),domain,hotspot.accesscam,ESET malware-ioc
+Turla,windows,(open-corpus win families),domain,hotspot.accesscam.org,ESET malware-ioc
+Turla,windows,(open-corpus win families),domain,hunvin.tk,ESET malware-ioc
+Turla,windows,(open-corpus win families),domain,ingas.rs,ESET malware-ioc
+Turla,windows,(open-corpus win families),domain,jucheafrica.com,ESET malware-ioc
+Turla,windows,(open-corpus win families),domain,kennynguyen.esy.es,ESET malware-ioc
+Turla,windows,(open-corpus win families),domain,lakify.ml,ESET malware-ioc
+Turla,windows,(open-corpus win families),domain,lindaztert.net,ESET malware-ioc
+Turla,windows,(open-corpus win families),domain,lucky-king-96d6.mopig92456.workers.dev,ESET malware-ioc
+Turla,windows,(open-corpus win families),domain,misters.ml,ESET malware-ioc
+Turla,windows,(open-corpus win families),domain,murad.by,ESET malware-ioc
+Turla,windows,(open-corpus win families),domain,ntk.tmp,ESET malware-ioc
+Turla,windows,(open-corpus win families),domain,outletpiumini.springwaterfeatures.com,ESET malware-ioc
+Turla,windows,(open-corpus win families),domain,pewyth.ga,ESET malware-ioc
+Turla,windows,(open-corpus win families),domain,plugins.deactivate,ESET malware-ioc
+Turla,windows,(open-corpus win families),domain,progress.zyns,ESET malware-ioc
+Turla,windows,(open-corpus win families),domain,progress.zyns.com,ESET malware-ioc
+Turla,windows,(open-corpus win families),domain,raw.githubusercontent,ESET malware-ioc
+Turla,windows,(open-corpus win families),domain,sameera.gq,ESET malware-ioc
+Turla,windows,(open-corpus win families),domain,sanitar.ml,ESET malware-ioc
+Turla,windows,(open-corpus win families),domain,scrabble.ikwb,ESET malware-ioc
+Turla,windows,(open-corpus win families),domain,scrabble.ikwb.com,ESET malware-ioc
+Turla,windows,(open-corpus win families),domain,shinestars-lifestyle.com,ESET malware-ioc
+Turla,windows,(open-corpus win families),domain,simplecreative.design,ESET malware-ioc
+Turla,windows,(open-corpus win families),domain,soheylistore.ir,ESET malware-ioc
+Turla,windows,(open-corpus win families),domain,soligro.com,ESET malware-ioc
+Turla,windows,(open-corpus win families),domain,sonneteck.com,ESET malware-ioc
+Turla,windows,(open-corpus win families),domain,sumefu.gq,ESET malware-ioc
+Turla,windows,(open-corpus win families),domain,tazohor.com,ESET malware-ioc
+Turla,windows,(open-corpus win families),domain,tekfordummies.com,ESET malware-ioc
+Turla,windows,(open-corpus win families),domain,thedarktower.av.master.dns,ESET malware-ioc
+Turla,windows,(open-corpus win families),domain,theguardian.webredirect,ESET malware-ioc
+Turla,windows,(open-corpus win families),domain,theguardian.webredirect.org,ESET malware-ioc
+Turla,windows,(open-corpus win families),domain,umefu.gq,ESET malware-ioc
+Turla,windows,(open-corpus win families),domain,vefogy.cf,ESET malware-ioc
+Turla,windows,(open-corpus win families),domain,vylys.com,ESET malware-ioc
+Turla,windows,(open-corpus win families),domain,warrixmalaysia.com.my,ESET malware-ioc
+Turla,windows,(open-corpus win families),domain,weandcats.com,ESET malware-ioc
+Turla,windows,(open-corpus win families),domain,wekanda.tk,ESET malware-ioc
+Turla,windows,(open-corpus win families),domain,www.aviasiya.com,ESET malware-ioc
+Turla,windows,(open-corpus win families),domain,www.brannenburger-nagelfluh.de,ESET malware-ioc
+Turla,windows,(open-corpus win families),domain,www.lasac.eu,ESET malware-ioc
+Turla,windows,(open-corpus win families),domain,www.pizzeria-mercy.de,ESET malware-ioc
+Turla,windows,(open-corpus win families),domain,www.shoppingexpert.it,ESET malware-ioc
+Turla,windows,(open-corpus win families),domain,zerogov.com,ESET malware-ioc
+Turla,windows,(open-corpus win families),domain,zszinhyosz.pe.hu,ESET malware-ioc
+Turla,windows,(open-corpus win families),ip,169.255.137.203,ESET malware-ioc
+Turla,windows,(open-corpus win families),ip,217.171.86.137,ESET malware-ioc
+Turla,linux,Penquin,ip,162.223.94.14,lab52 'Looking for Penquins in the Wild'
+Turla,linux,Penquin,ip,85.25.95.16,lab52 'Looking for Penquins in the Wild'
+Sandworm,windows,(open-corpus win families),domain,api.telegram.org,ESET malware-ioc
+Sandworm,windows,(open-corpus win families),domain,smtp-mail.outlook.com,ESET malware-ioc
+Sandworm,windows,(open-corpus win families),domain,srv70.putdrive.com,ESET malware-ioc
+Sandworm,windows,(open-corpus win families),ip,149.154.167.197,ESET malware-ioc
+Sandworm,windows,(open-corpus win families),ip,149.154.167.198,ESET malware-ioc
+Sandworm,windows,(open-corpus win families),ip,149.154.167.199,ESET malware-ioc
+Sandworm,windows,(open-corpus win families),ip,149.154.167.200,ESET malware-ioc
+Sandworm,windows,(open-corpus win families),ip,188.165.14.185,ESET malware-ioc
+Sandworm,windows,(open-corpus win families),ip,188.42.253.43,ESET malware-ioc
+Sandworm,windows,(open-corpus win families),ip,195.16.88.6,ESET malware-ioc
+Sandworm,windows,(open-corpus win families),ip,46.28.200.132,ESET malware-ioc
+Sandworm,windows,(open-corpus win families),ip,5.39.218.152,ESET malware-ioc
+Sandworm,windows,(open-corpus win families),ip,65.55.176.126,ESET malware-ioc
+Sandworm,windows,(open-corpus win families),ip,80.233.134.147,ESET malware-ioc
+Sandworm,windows,(open-corpus win families),ip,93.115.27.57,ESET malware-ioc
+Sandworm,windows,(open-corpus win families),ip,93.190.137.212,ESET malware-ioc
+Sandworm,windows,(open-corpus win families),ip,95.141.37.3,ESET malware-ioc
+Sandworm,linux,Exaramel-Linux,ip,176.31.225.204,CERT-FR CERTFR-2021-CTI-005 (Sandworm/Centreon)
+Lazarus,windows,(open-corpus win families),domain,backlinkbase.com,ESET malware-ioc
+Lazarus,windows,(open-corpus win families),domain,banner01.asp,ESET malware-ioc
+Lazarus,windows,(open-corpus win families),domain,barsaji.com,ESET malware-ioc
+Lazarus,windows,(open-corpus win families),domain,bottom.asp,ESET malware-ioc
+Lazarus,windows,(open-corpus win families),domain,bug.restoroad,ESET malware-ioc
+Lazarus,windows,(open-corpus win families),domain,coolproyect.es,ESET malware-ioc
+Lazarus,windows,(open-corpus win families),domain,coralsunmarine.com,ESET malware-ioc
+Lazarus,windows,(open-corpus win families),domain,deft.com,ESET malware-ioc
+Lazarus,windows,(open-corpus win families),domain,driverservices.store,ESET malware-ioc
+Lazarus,windows,(open-corpus win families),domain,ecudecode.mx,ESET malware-ioc
+Lazarus,windows,(open-corpus win families),domain,galaterrace.com,ESET malware-ioc
+Lazarus,windows,(open-corpus win families),domain,godaddy.com,ESET malware-ioc
+Lazarus,windows,(open-corpus win families),domain,img.asp,ESET malware-ioc
+Lazarus,windows,(open-corpus win families),domain,journalide.org,ESET malware-ioc
+Lazarus,windows,(open-corpus win families),domain,kapata-arkeologi.kemdikbud.go,ESET malware-ioc
+Lazarus,windows,(open-corpus win families),domain,kazitradebd.com,ESET malware-ioc
+Lazarus,windows,(open-corpus win families),domain,kerstpakketten.horesca,ESET malware-ioc
+Lazarus,windows,(open-corpus win families),domain,main.asp,ESET malware-ioc
+Lazarus,windows,(open-corpus win families),domain,mantis.quick.net,ESET malware-ioc
+Lazarus,windows,(open-corpus win families),domain,mediostresbarbas.com.ar,ESET malware-ioc
+Lazarus,windows,(open-corpus win families),domain,n34kr3z26f3jzp4ckmwuv5ipqyatumdxhgjgsmucc65jac56khdy5zqd.onion,ESET malware-ioc
+Lazarus,windows,(open-corpus win families),domain,nazwa.pl,ESET malware-ioc
+Lazarus,windows,(open-corpus win families),domain,od.lk,ESET malware-ioc
+Lazarus,windows,(open-corpus win families),domain,oldlinewoodwork.com,ESET malware-ioc
+Lazarus,windows,(open-corpus win families),domain,partnerls.pl,ESET malware-ioc
+Lazarus,windows,(open-corpus win families),domain,pierregems.com,ESET malware-ioc
+Lazarus,windows,(open-corpus win families),domain,post.asp,ESET malware-ioc
+Lazarus,windows,(open-corpus win families),domain,release.asp,ESET malware-ioc
+Lazarus,windows,(open-corpus win families),domain,spaincaramoon.com,ESET malware-ioc
+Lazarus,windows,(open-corpus win families),domain,trainingpharmacist.co.uk,ESET malware-ioc
+Lazarus,windows,(open-corpus win families),domain,view.asp,ESET malware-ioc
+Lazarus,windows,(open-corpus win families),domain,webdock.io,ESET malware-ioc
+Lazarus,windows,(open-corpus win families),domain,www.anvil.org.ph,ESET malware-ioc
+Lazarus,windows,(open-corpus win families),domain,www.bandarpowder.com,ESET malware-ioc
+Lazarus,windows,(open-corpus win families),domain,www.cowp.or,ESET malware-ioc
+Lazarus,windows,(open-corpus win families),domain,www.erpmas.co,ESET malware-ioc
+Lazarus,windows,(open-corpus win families),domain,www.fored.or,ESET malware-ioc
+Lazarus,windows,(open-corpus win families),domain,www.gncaf.or,ESET malware-ioc
+Lazarus,windows,(open-corpus win families),domain,www.gongsinet,ESET malware-ioc
+Lazarus,windows,(open-corpus win families),domain,www.goojoo,ESET malware-ioc
+Lazarus,windows,(open-corpus win families),domain,www.hsbutton.co,ESET malware-ioc
+Lazarus,windows,(open-corpus win families),domain,www.hstudymall.co,ESET malware-ioc
+Lazarus,windows,(open-corpus win families),domain,www.ikrea.or,ESET malware-ioc
+Lazarus,windows,(open-corpus win families),domain,www.keewoom.co,ESET malware-ioc
+Lazarus,windows,(open-corpus win families),domain,www.mnmathleague.org,ESET malware-ioc
+Lazarus,windows,(open-corpus win families),domain,www.pcdesk.co,ESET malware-ioc
+Lazarus,windows,(open-corpus win families),domain,www.pgak,ESET malware-ioc
+Lazarus,windows,(open-corpus win families),domain,www.quecue,ESET malware-ioc
+Lazarus,windows,(open-corpus win families),domain,www.radiographers,ESET malware-ioc
+Lazarus,windows,(open-corpus win families),domain,www.royalsevres.com,ESET malware-ioc
+Lazarus,windows,(open-corpus win families),domain,www.scgestor.com.br,ESET malware-ioc
+Lazarus,windows,(open-corpus win families),domain,www.scoringmnmathleague.org,ESET malware-ioc
+Lazarus,windows,(open-corpus win families),domain,www.stracarrara,ESET malware-ioc
+Lazarus,windows,(open-corpus win families),domain,www.style1.co,ESET malware-ioc
+Lazarus,windows,(open-corpus win families),domain,www.wowpress.co,ESET malware-ioc
+Lazarus,windows,(open-corpus win families),domain,www.zndance,ESET malware-ioc
+Lazarus,linux,BeaverTail/InvisibleFerret,domain,ip-address-check-mo.vercel.app,ThreatFox/URLhaus (prior session) + ESET deceptivedevelopment
+Lazarus,linux,BeaverTail/InvisibleFerret,domain,precommit.vercel.app,ThreatFox/URLhaus (prior session) + ESET deceptivedevelopment
+Lazarus,linux,BeaverTail/InvisibleFerret,domain,vscode-ip-address-checking.vercel.app,ThreatFox/URLhaus (prior session) + ESET deceptivedevelopment
+Lazarus,linux,BeaverTail/InvisibleFerret,domain,vscode-ipchecking.vercel.app,ThreatFox/URLhaus (prior session) + ESET deceptivedevelopment
+Lazarus,linux,BeaverTail/InvisibleFerret,domain,vscode-settings-tasks-json.vercel.app,ThreatFox/URLhaus (prior session) + ESET deceptivedevelopment
+Lazarus,linux,BeaverTail/InvisibleFerret,domain,y-hazel-ten.vercel.app,ThreatFox/URLhaus (prior session) + ESET deceptivedevelopment
+Lazarus,windows,(open-corpus win families),ip,103.231.75.101,ESET malware-ioc
+Lazarus,windows,(open-corpus win families),ip,103.35.190.170,ESET malware-ioc
+Lazarus,windows,(open-corpus win families),ip,104.21.80.1,ESET malware-ioc
+Lazarus,windows,(open-corpus win families),ip,104.247.162.67,ESET malware-ioc
+Lazarus,windows,(open-corpus win families),ip,108.181.92.71,ESET malware-ioc
+Lazarus,windows,(open-corpus win families),ip,116.125.126.38,ESET malware-ioc
+Lazarus,windows,(open-corpus win families),ip,152.42.239.211,ESET malware-ioc
+Lazarus,windows,(open-corpus win families),ip,172.67.193.139,ESET malware-ioc
+Lazarus,windows,(open-corpus win families),ip,172.93.201.88,ESET malware-ioc
+Lazarus,windows,(open-corpus win families),ip,185.148.129.24,ESET malware-ioc
+Lazarus,windows,(open-corpus win families),ip,190.92.134.62,ESET malware-ioc
+Lazarus,windows,(open-corpus win families),ip,193.39.187.165,ESET malware-ioc
+Lazarus,windows,(open-corpus win families),ip,199.188.200.147,ESET malware-ioc
+Lazarus,windows,(open-corpus win families),ip,23.111.133.162,ESET malware-ioc
+Lazarus,windows,(open-corpus win families),ip,23.254.211.230,ESET malware-ioc
+Lazarus,windows,(open-corpus win families),ip,38.108.185.115,ESET malware-ioc
+Lazarus,windows,(open-corpus win families),ip,45.148.29.122,ESET malware-ioc
+Lazarus,windows,(open-corpus win families),ip,45.159.248.110,ESET malware-ioc
+Lazarus,windows,(open-corpus win families),ip,45.8.146.93,ESET malware-ioc
+Lazarus,windows,(open-corpus win families),ip,66.29.144.75,ESET malware-ioc
+Lazarus,windows,(open-corpus win families),ip,70.32.24.131,ESET malware-ioc
+Lazarus,windows,(open-corpus win families),ip,70.32.30.201,ESET malware-ioc
+Lazarus,windows,(open-corpus win families),ip,75.102.23.3,ESET malware-ioc
+Lazarus,windows,(open-corpus win families),ip,77.55.252.111,ESET malware-ioc
+Lazarus,windows,(open-corpus win families),ip,86.104.72.247,ESET malware-ioc
+Lazarus,windows,(open-corpus win families),ip,93.104.215.19,ESET malware-ioc
+Lazarus,windows,(open-corpus win families),ip,95.217.119.214,ESET malware-ioc
+Lazarus,linux,BeaverTail/InvisibleFerret,ip,136.0.9.8,ThreatFox/URLhaus (prior session) + ESET deceptivedevelopment
+Lazarus,linux,BeaverTail/InvisibleFerret,ip,142.11.206.73,ThreatFox/URLhaus (prior session) + ESET deceptivedevelopment
+Winnti_APT41,windows,(open-corpus win families),domain,api.goallbandungtravel.com,ESET malware-ioc
+Winnti_APT41,windows,(open-corpus win families),domain,api.googleauthenticatoronline,ESET malware-ioc
+Winnti_APT41,windows,(open-corpus win families),domain,bugcheck.xigncodeservice.com,ESET malware-ioc
+Winnti_APT41,windows,(open-corpus win families),domain,checkin.travelsanignacio.com,ESET malware-ioc
+Winnti_APT41,windows,(open-corpus win families),domain,client.gnisoft,ESET malware-ioc
+Winnti_APT41,windows,(open-corpus win families),domain,dns1-1.7release.com,ESET malware-ioc
+Winnti_APT41,windows,(open-corpus win families),domain,dump.gxxservice.com,ESET malware-ioc
+Winnti_APT41,windows,(open-corpus win families),domain,n8.ahnlabinc,ESET malware-ioc
+Winnti_APT41,windows,(open-corpus win families),domain,nmn.nhndesk,ESET malware-ioc
+Winnti_APT41,windows,(open-corpus win families),domain,nw.infestexe.com,ESET malware-ioc
+Winnti_APT41,windows,(open-corpus win families),domain,owa.ahnlabinc,ESET malware-ioc
+Winnti_APT41,windows,(open-corpus win families),domain,ssl.dyn-dns.com,ESET malware-ioc
+Winnti_APT41,windows,(open-corpus win families),domain,ssl.lcrest,ESET malware-ioc
+Winnti_APT41,windows,(open-corpus win families),domain,ssl2.ahnlabinc,ESET malware-ioc
+Winnti_APT41,windows,(open-corpus win families),domain,ssl2.dyn,ESET malware-ioc
+Winnti_APT41,windows,(open-corpus win families),domain,svn-dns.ahnlabinc.com,ESET malware-ioc
+Winnti_APT41,windows,(open-corpus win families),domain,www2.dyn.tracker,ESET malware-ioc
+Winnti_APT41,windows,(open-corpus win families),domain,xp101.dyn-dns.com,ESET malware-ioc
+Winnti_APT41,linux,Melofee,domain,ssm.awszonwork.com,ExaTrack Melofee report
+Winnti_APT41,linux,Melofee,domain,update.ankining.com,ExaTrack Melofee report
+Winnti_APT41,linux,Melofee,domain,www.data-yuzefuji.com,ExaTrack Melofee report
+Winnti_APT41,windows,(open-corpus win families),ip,103.19.3.109,ESET malware-ioc
+Winnti_APT41,windows,(open-corpus win families),ip,103.19.3.21,ESET malware-ioc
+Winnti_APT41,windows,(open-corpus win families),ip,103.224.83.95,ESET malware-ioc
+Winnti_APT41,windows,(open-corpus win families),ip,110.45.146.253,ESET malware-ioc
+Winnti_APT41,windows,(open-corpus win families),ip,117.16.142.69,ESET malware-ioc
+Winnti_APT41,windows,(open-corpus win families),ip,117.16.142.9,ESET malware-ioc
+Winnti_APT41,windows,(open-corpus win families),ip,118.193.236.206,ESET malware-ioc
+Winnti_APT41,windows,(open-corpus win families),ip,122.10.117.206,ESET malware-ioc
+Winnti_APT41,windows,(open-corpus win families),ip,154.223.131.237,ESET malware-ioc
+Winnti_APT41,windows,(open-corpus win families),ip,167.88.176.205,ESET malware-ioc
+Winnti_APT41,windows,(open-corpus win families),ip,207.148.125.56,ESET malware-ioc
+Winnti_APT41,linux,Melofee,ip,156.67.208.192,ExaTrack Melofee report
+Winnti_APT41,linux,Melofee,ip,173.209.62.188,ExaTrack Melofee report
+Winnti_APT41,linux,Melofee,ip,173.209.62.190,ExaTrack Melofee report
+Winnti_APT41,linux,Melofee,ip,5.61.57.80,ExaTrack Melofee report
+APT28_Sednit,windows,(open-corpus win families),domain,1oo7.net,ESET malware-ioc
+APT28_Sednit,windows,(open-corpus win families),domain,advpdxapi.com,ESET malware-ioc
+APT28_Sednit,windows,(open-corpus win families),domain,akamaisoft.com,ESET malware-ioc
+APT28_Sednit,windows,(open-corpus win families),domain,aljazeera-news.com,ESET malware-ioc
+APT28_Sednit,windows,(open-corpus win families),domain,ausameetings.com,ESET malware-ioc
+APT28_Sednit,windows,(open-corpus win families),domain,bbc-press.org,ESET malware-ioc
+APT28_Sednit,windows,(open-corpus win families),domain,ciscohelpcenter.com,ESET malware-ioc
+APT28_Sednit,windows,(open-corpus win families),domain,cloudflarecdn.com,ESET malware-ioc
+APT28_Sednit,windows,(open-corpus win families),domain,cnnpolitics.eu,ESET malware-ioc
+APT28_Sednit,windows,(open-corpus win families),domain,dailyforeignnews.com,ESET malware-ioc
+APT28_Sednit,windows,(open-corpus win families),domain,dailypoliticsnews.com,ESET malware-ioc
+APT28_Sednit,windows,(open-corpus win families),domain,defenceiq.us,ESET malware-ioc
+APT28_Sednit,windows,(open-corpus win families),domain,defencereview.eu,ESET malware-ioc
+APT28_Sednit,windows,(open-corpus win families),domain,diplomatnews.org,ESET malware-ioc
+APT28_Sednit,windows,(open-corpus win families),domain,driversupdate.info,ESET malware-ioc
+APT28_Sednit,windows,(open-corpus win families),domain,euronews24.info,ESET malware-ioc
+APT28_Sednit,windows,(open-corpus win families),domain,euroreport24.com,ESET malware-ioc
+APT28_Sednit,windows,(open-corpus win families),domain,inteldrv64.com,ESET malware-ioc
+APT28_Sednit,windows,(open-corpus win families),domain,intelmeserver.com,ESET malware-ioc
+APT28_Sednit,windows,(open-corpus win families),domain,kenlynton.com,ESET malware-ioc
+APT28_Sednit,windows,(open-corpus win families),domain,kg-news.org,ESET malware-ioc
+APT28_Sednit,windows,(open-corpus win families),domain,microsoftdriver.com,ESET malware-ioc
+APT28_Sednit,windows,(open-corpus win families),domain,microsofthelpcenter.info,ESET malware-ioc
+APT28_Sednit,windows,(open-corpus win families),domain,microsoftsupp.com,ESET malware-ioc
+APT28_Sednit,windows,(open-corpus win families),domain,military-info.eu,ESET malware-ioc
+APT28_Sednit,windows,(open-corpus win families),domain,militaryadviser.org,ESET malware-ioc
+APT28_Sednit,windows,(open-corpus win families),domain,militaryobserver.net,ESET malware-ioc
+APT28_Sednit,windows,(open-corpus win families),domain,nato-hq.com,ESET malware-ioc
+APT28_Sednit,windows,(open-corpus win families),domain,nato-news.com,ESET malware-ioc
+APT28_Sednit,windows,(open-corpus win families),domain,natoint.com,ESET malware-ioc
+APT28_Sednit,windows,(open-corpus win families),domain,natopress.com,ESET malware-ioc
+APT28_Sednit,windows,(open-corpus win families),domain,nortonupdate.org,ESET malware-ioc
+APT28_Sednit,windows,(open-corpus win families),domain,osce-info.com,ESET malware-ioc
+APT28_Sednit,windows,(open-corpus win families),domain,osce-press.org,ESET malware-ioc
+APT28_Sednit,windows,(open-corpus win families),domain,pakistan-mofa.net,ESET malware-ioc
+APT28_Sednit,windows,(open-corpus win families),domain,politicalreview.eu,ESET malware-ioc
+APT28_Sednit,windows,(open-corpus win families),domain,politicsinform.com,ESET malware-ioc
+APT28_Sednit,windows,(open-corpus win families),domain,reuters-press.com,ESET malware-ioc
+APT28_Sednit,windows,(open-corpus win families),domain,shurl.biz,ESET malware-ioc
+APT28_Sednit,windows,(open-corpus win families),domain,softwaresupportsv.com,ESET malware-ioc
+APT28_Sednit,windows,(open-corpus win families),domain,stratforglobal.net,ESET malware-ioc
+APT28_Sednit,windows,(open-corpus win families),domain,swsupporttools.com,ESET malware-ioc
+APT28_Sednit,windows,(open-corpus win families),domain,symantecsupport.org,ESET malware-ioc
+APT28_Sednit,windows,(open-corpus win families),domain,thediplomat-press.com,ESET malware-ioc
+APT28_Sednit,windows,(open-corpus win families),domain,theguardiannews.org,ESET malware-ioc
+APT28_Sednit,windows,(open-corpus win families),domain,timezoneutc.com,ESET malware-ioc
+APT28_Sednit,windows,(open-corpus win families),domain,trend-news.org,ESET malware-ioc
+APT28_Sednit,windows,(open-corpus win families),domain,unian-news.info,ESET malware-ioc
+APT28_Sednit,windows,(open-corpus win families),domain,unitednationsnews.eu,ESET malware-ioc
+APT28_Sednit,windows,(open-corpus win families),domain,updatecenter.name,ESET malware-ioc
+APT28_Sednit,windows,(open-corpus win families),domain,updatesystems.net,ESET malware-ioc
+APT28_Sednit,windows,(open-corpus win families),domain,updmanager.com,ESET malware-ioc
+APT28_Sednit,windows,(open-corpus win families),domain,virusdefender.org,ESET malware-ioc
+APT28_Sednit,windows,(open-corpus win families),domain,windowsappstore.net,ESET malware-ioc
+APT28_Sednit,windows,(open-corpus win families),domain,worldmilitarynews.org,ESET malware-ioc
+APT28_Sednit,windows,(open-corpus win families),domain,worldpoliticsnews.org,ESET malware-ioc
+APT28_Sednit,windows,(open-corpus win families),domain,worldpoliticsreviews.com,ESET malware-ioc
+APT28_Sednit,windows,(open-corpus win families),domain,worldpostjournal.com,ESET malware-ioc
+APT28_Sednit,windows,(open-corpus win families),domain,www.acledit.com,ESET malware-ioc
+APT28_Sednit,windows,(open-corpus win families),domain,www.biocpl.org,ESET malware-ioc
+APT28_Sednit,windows,(open-corpus win families),domain,www.capisp.com,ESET malware-ioc
+APT28_Sednit,windows,(open-corpus win families),domain,www.dataclen.org,ESET malware-ioc
+APT28_Sednit,windows,(open-corpus win families),domain,www.mscoresvw.com,ESET malware-ioc
+APT28_Sednit,windows,(open-corpus win families),domain,www.storsvc.org,ESET malware-ioc
+APT28_Sednit,windows,(open-corpus win families),domain,www.tabsync.net,ESET malware-ioc
+APT28_Sednit,windows,(open-corpus win families),domain,www.windowscheckupdater.net,ESET malware-ioc
+APT28_Sednit,windows,(open-corpus win families),domain,www.winupdatesysmic.com,ESET malware-ioc
+APT28_Sednit,windows,(open-corpus win families),domain,www.wscapi.com,ESET malware-ioc
+APT28_Sednit,windows,(open-corpus win families),ip,103.41.177.43,ESET malware-ioc
+APT28_Sednit,windows,(open-corpus win families),ip,104.171.117.216,ESET malware-ioc
+APT28_Sednit,windows,(open-corpus win families),ip,131.72.136.165,ESET malware-ioc
+APT28_Sednit,windows,(open-corpus win families),ip,141.255.160.52,ESET malware-ioc
+APT28_Sednit,windows,(open-corpus win families),ip,167.114.214.63,ESET malware-ioc
+APT28_Sednit,windows,(open-corpus win families),ip,176.31.112.10,ESET malware-ioc
+APT28_Sednit,windows,(open-corpus win families),ip,176.31.96.178,ESET malware-ioc
+APT28_Sednit,windows,(open-corpus win families),ip,185.106.120.101,ESET malware-ioc
+APT28_Sednit,windows,(open-corpus win families),ip,185.144.82.239,ESET malware-ioc
+APT28_Sednit,windows,(open-corpus win families),ip,185.77.129.106,ESET malware-ioc
+APT28_Sednit,windows,(open-corpus win families),ip,185.86.148.184,ESET malware-ioc
+APT28_Sednit,windows,(open-corpus win families),ip,185.86.149.223,ESET malware-ioc
+APT28_Sednit,windows,(open-corpus win families),ip,185.86.149.54,ESET malware-ioc
+APT28_Sednit,windows,(open-corpus win families),ip,185.86.151.104,ESET malware-ioc
+APT28_Sednit,windows,(open-corpus win families),ip,185.94.191.65,ESET malware-ioc
+APT28_Sednit,windows,(open-corpus win families),ip,192.95.12.5,ESET malware-ioc
+APT28_Sednit,windows,(open-corpus win families),ip,31.220.43.99,ESET malware-ioc
+APT28_Sednit,windows,(open-corpus win families),ip,45.124.132.127,ESET malware-ioc
+APT28_Sednit,windows,(open-corpus win families),ip,46.183.216.209,ESET malware-ioc
+APT28_Sednit,windows,(open-corpus win families),ip,5.135.183.154,ESET malware-ioc
+APT28_Sednit,windows,(open-corpus win families),ip,69.12.73.174,ESET malware-ioc
+APT28_Sednit,windows,(open-corpus win families),ip,80.255.10.236,ESET malware-ioc
+APT28_Sednit,windows,(open-corpus win families),ip,80.255.3.93,ESET malware-ioc
+APT28_Sednit,windows,(open-corpus win families),ip,81.17.30.29,ESET malware-ioc
+APT28_Sednit,windows,(open-corpus win families),ip,86.106.131.54,ESET malware-ioc
+APT28_Sednit,windows,(open-corpus win families),ip,89.32.40.4,ESET malware-ioc
+APT28_Sednit,windows,(open-corpus win families),ip,92.114.92.125,ESET malware-ioc
+APT28_Sednit,windows,(open-corpus win families),ip,93.113.131.103,ESET malware-ioc
+APT28_Sednit,windows,(open-corpus win families),ip,93.115.38.125,ESET malware-ioc
+APT28_Sednit,windows,(open-corpus win families),ip,95.215.46.27,ESET malware-ioc
+APT28_Sednit,linux,Drovorub,ip,185.86.149.125,NSA/FBI Drovorub advisory (via Red Sky Alliance)
+APT28_Sednit,linux,Drovorub,ip,82.118.242.171,NSA/FBI Drovorub advisory (via Red Sky Alliance)
+APT29_Dukes,windows,(open-corpus win families),domain,acciaio.com,ESET malware-ioc
+APT29_Dukes,windows,(open-corpus win families),domain,acciaio.com.br,ESET malware-ioc
+APT29_Dukes,windows,(open-corpus win families),domain,bandabonga.fr,ESET malware-ioc
+APT29_Dukes,windows,(open-corpus win families),domain,busseylawoffice.com,ESET malware-ioc
+APT29_Dukes,windows,(open-corpus win families),domain,ceycarb.com,ESET malware-ioc
+APT29_Dukes,windows,(open-corpus win families),domain,coachandcook.at,ESET malware-ioc
+APT29_Dukes,windows,(open-corpus win families),domain,ecolesndmessines.org,ESET malware-ioc
+APT29_Dukes,windows,(open-corpus win families),domain,fairfieldsch.org,ESET malware-ioc
+APT29_Dukes,windows,(open-corpus win families),domain,fisioterapiabb.it,ESET malware-ioc
+APT29_Dukes,windows,(open-corpus win families),domain,lorriratzlaff.com,ESET malware-ioc
+APT29_Dukes,windows,(open-corpus win families),domain,mavin21c.dothome.co,ESET malware-ioc
+APT29_Dukes,windows,(open-corpus win families),domain,mavin21c.dothome.co.kr,ESET malware-ioc
+APT29_Dukes,windows,(open-corpus win families),domain,ministernetwork.org,ESET malware-ioc
+APT29_Dukes,windows,(open-corpus win families),domain,motherlodebulldogclub.com,ESET malware-ioc
+APT29_Dukes,windows,(open-corpus win families),domain,powerpolymerindustry.com,ESET malware-ioc
+APT29_Dukes,windows,(open-corpus win families),domain,publiccouncil.org,ESET malware-ioc
+APT29_Dukes,windows,(open-corpus win families),domain,rulourialuminiu.co,ESET malware-ioc
+APT29_Dukes,windows,(open-corpus win families),domain,rulourialuminiu.co.uk,ESET malware-ioc
+APT29_Dukes,windows,(open-corpus win families),domain,salesappliances.com,ESET malware-ioc
+APT29_Dukes,windows,(open-corpus win families),domain,sistemikan.com,ESET malware-ioc
+APT29_Dukes,windows,(open-corpus win families),domain,skagenyoga.com,ESET malware-ioc
+APT29_Dukes,windows,(open-corpus win families),domain,varuhusmc.org,ESET malware-ioc
+APT29_Dukes,windows,(open-corpus win families),domain,westmedicalgroup.net,ESET malware-ioc
+APT29_Dukes,linux,WellMess/WellMail,ip,103.103.128.221,NCSC/CISA WellMess advisory IOC list
+APT29_Dukes,linux,WellMess/WellMail,ip,103.13.240.46,NCSC/CISA WellMess advisory IOC list
+APT29_Dukes,linux,WellMess/WellMail,ip,103.205.8.72,NCSC/CISA WellMess advisory IOC list
+APT29_Dukes,linux,WellMess/WellMail,ip,103.216.221.19,NCSC/CISA WellMess advisory IOC list
+APT29_Dukes,linux,WellMess/WellMail,ip,103.253.41.102,NCSC/CISA WellMess advisory IOC list
+APT29_Dukes,linux,WellMess/WellMail,ip,103.253.41.68,NCSC/CISA WellMess advisory IOC list
+APT29_Dukes,linux,WellMess/WellMail,ip,103.253.41.82,NCSC/CISA WellMess advisory IOC list
+APT29_Dukes,linux,WellMess/WellMail,ip,103.253.41.90,NCSC/CISA WellMess advisory IOC list
+APT29_Dukes,linux,WellMess/WellMail,ip,103.73.188.101,NCSC/CISA WellMess advisory IOC list
+APT29_Dukes,linux,WellMess/WellMail,ip,111.90.146.143,NCSC/CISA WellMess advisory IOC list
+APT29_Dukes,linux,WellMess/WellMail,ip,111.90.150.176,NCSC/CISA WellMess advisory IOC list
+APT29_Dukes,linux,WellMess/WellMail,ip,119.160.234.163,NCSC/CISA WellMess advisory IOC list
+APT29_Dukes,linux,WellMess/WellMail,ip,119.160.234.194,NCSC/CISA WellMess advisory IOC list
+APT29_Dukes,linux,WellMess/WellMail,ip,119.81.173.130,NCSC/CISA WellMess advisory IOC list
+APT29_Dukes,linux,WellMess/WellMail,ip,119.81.178.105,NCSC/CISA WellMess advisory IOC list
+APT29_Dukes,linux,WellMess/WellMail,ip,120.53.12.132,NCSC/CISA WellMess advisory IOC list
+APT29_Dukes,linux,WellMess/WellMail,ip,122.114.197.185,NCSC/CISA WellMess advisory IOC list
+APT29_Dukes,linux,WellMess/WellMail,ip,122.114.226.172,NCSC/CISA WellMess advisory IOC list
+APT29_Dukes,linux,WellMess/WellMail,ip,141.255.164.29,NCSC/CISA WellMess advisory IOC list
+APT29_Dukes,linux,WellMess/WellMail,ip,141.98.212.55,NCSC/CISA WellMess advisory IOC list
+APT29_Dukes,linux,WellMess/WellMail,ip,145.249.107.73,NCSC/CISA WellMess advisory IOC list
+APT29_Dukes,linux,WellMess/WellMail,ip,146.0.76.37,NCSC/CISA WellMess advisory IOC list
+APT29_Dukes,linux,WellMess/WellMail,ip,149.202.12.210,NCSC/CISA WellMess advisory IOC list
+APT29_Dukes,linux,WellMess/WellMail,ip,169.239.128.110,NCSC/CISA WellMess advisory IOC list
+APT29_Dukes,linux,WellMess/WellMail,ip,176.119.29.37,NCSC/CISA WellMess advisory IOC list
+APT29_Dukes,linux,WellMess/WellMail,ip,178.211.39.6,NCSC/CISA WellMess advisory IOC list
+APT29_Dukes,linux,WellMess/WellMail,ip,185.120.77.166,NCSC/CISA WellMess advisory IOC list
+APT29_Dukes,linux,WellMess/WellMail,ip,185.145.128.35,NCSC/CISA WellMess advisory IOC list
+APT29_Dukes,linux,WellMess/WellMail,ip,185.99.133.112,NCSC/CISA WellMess advisory IOC list
+APT29_Dukes,linux,WellMess/WellMail,ip,191.101.180.78,NCSC/CISA WellMess advisory IOC list
+APT29_Dukes,linux,WellMess/WellMail,ip,192.48.88.107,NCSC/CISA WellMess advisory IOC list
+APT29_Dukes,linux,WellMess/WellMail,ip,193.182.144.105,NCSC/CISA WellMess advisory IOC list
+APT29_Dukes,linux,WellMess/WellMail,ip,202.59.9.59,NCSC/CISA WellMess advisory IOC list
+APT29_Dukes,linux,WellMess/WellMail,ip,209.58.186.196,NCSC/CISA WellMess advisory IOC list
+APT29_Dukes,linux,WellMess/WellMail,ip,209.58.186.197,NCSC/CISA WellMess advisory IOC list
+APT29_Dukes,linux,WellMess/WellMail,ip,209.58.186.240,NCSC/CISA WellMess advisory IOC list
+APT29_Dukes,linux,WellMess/WellMail,ip,220.158.216.130,NCSC/CISA WellMess advisory IOC list
+APT29_Dukes,linux,WellMess/WellMail,ip,27.102.130.115,NCSC/CISA WellMess advisory IOC list
+APT29_Dukes,linux,WellMess/WellMail,ip,31.170.107.186,NCSC/CISA WellMess advisory IOC list
+APT29_Dukes,linux,WellMess/WellMail,ip,31.7.63.141,NCSC/CISA WellMess advisory IOC list
+APT29_Dukes,linux,WellMess/WellMail,ip,45.120.156.69,NCSC/CISA WellMess advisory IOC list
+APT29_Dukes,linux,WellMess/WellMail,ip,45.123.190.167,NCSC/CISA WellMess advisory IOC list
+APT29_Dukes,linux,WellMess/WellMail,ip,45.123.190.168,NCSC/CISA WellMess advisory IOC list
+APT29_Dukes,linux,WellMess/WellMail,ip,45.152.84.57,NCSC/CISA WellMess advisory IOC list
+APT29_Dukes,linux,WellMess/WellMail,ip,46.19.143.69,NCSC/CISA WellMess advisory IOC list
+APT29_Dukes,linux,WellMess/WellMail,ip,5.199.174.164,NCSC/CISA WellMess advisory IOC list
+APT29_Dukes,linux,WellMess/WellMail,ip,66.70.247.215,NCSC/CISA WellMess advisory IOC list
+APT29_Dukes,linux,WellMess/WellMail,ip,79.141.168.109,NCSC/CISA WellMess advisory IOC list
+APT29_Dukes,linux,WellMess/WellMail,ip,81.17.17.213,NCSC/CISA WellMess advisory IOC list
+APT29_Dukes,linux,WellMess/WellMail,ip,85.93.2.116,NCSC/CISA WellMess advisory IOC list
